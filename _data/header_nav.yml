@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: Join Us
+  link: /joun_us.html
+- name: Blog
+  link: /blog.html
+- name: wiki
+  link: https://wiki.comakingspace.de
+- name: Contact
+  link: /contact.html
+- name: Sponsors
+  link: /sponsors.html
+- name: About
+  link: /about.html

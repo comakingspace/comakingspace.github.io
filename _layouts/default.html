@@ -22,21 +22,11 @@
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-            <li class="nav-item {% if page.title == 'Home' %}active{% endif %}">
-                <a class="nav-link" href="/">Home</a>
+            {% for item in site.data.navigation %}
+            <li class="nav-item {% if page.url == item.link %}active{% endif %}">
+                    <a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>
             </li>
-            <li class="nav-item {% if page.title == 'Join Us' %}active{% endif %}">
-                <a class="nav-link" href="/join_us.html">Join Us</a>
-            </li>
-            <li class="nav-item {% if page.title == 'Calendar' %}active{% endif %}">
-                <a class="nav-link" href="/calendar.html">Calendar</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="https://wiki.comakingspace.de" target="_blank">WIKI</a>
-            </li>
-            <li class="nav-item {% if page.title == 'Contact' %}active{% endif %}">
-                <a class="nav-link" href="/contact.html">Contact</a>
-            </li>
+            {% endfor %}
         </ul>
     </div>
 </nav>
