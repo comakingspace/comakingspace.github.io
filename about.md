@@ -1,9 +1,28 @@
 ---
-layout: page
+layout: with_footer
 title: About
-permalink: /about/
 ---
+Unsere Manager
+=
 
+1
+-
+2
+-
+3
+-
+4
+-
 
+Zusätzliche Aufsichtspersonen
+
+1
+-
+2
+-
+3
+-
+4
+-
 
 
