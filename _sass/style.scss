@@ -5,3 +5,15 @@ body {
   background-color: #2a7ae2;
 }
 nav ul li, footer ul li { display: inline; margin-right: 20px; }
+
+.navbar-nav {
+  float:none;
+  margin:0 auto;
+  display: block;
+  text-align: center;
+}
+
+.navbar-nav > li {
+  display: inline-block;
+  float:none;
+}

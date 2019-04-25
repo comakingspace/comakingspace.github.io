@@ -4,8 +4,10 @@
   link: /joun_us.html
 - name: Blog
   link: /blog.html
-- name: wiki
+- name: Wiki
   link: https://wiki.comakingspace.de
+- name: Events
+  link: /calendar.html
 - name: Contact
   link: /contact.html
 - name: Sponsors
