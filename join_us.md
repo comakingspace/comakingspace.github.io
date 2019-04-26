@@ -2,6 +2,10 @@
 layout: with_footer
 title: Join Us
 ---
+ToDos:
+* Umbenennen in "komm vorbei"?
+* Wegbeschreibung hinzufügen
+
 WIE DAS GANZE FUNKTIONIERT
 -
 Wir haben unseren CoMakingSpace als gemeinnützige GmbH gegründet. Dadurch können wir passende Räumlichkeiten mieten, Versicherungen abschließen etc. und diese Rechtsform bietet eine solide Grundlage für eine Gemeinschaftswerkstatt mit Bestand.

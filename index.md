@@ -2,7 +2,9 @@
 layout: with_footer
 title: Home
 ---
-
+ToDos:
+* Beschreibung ändern (Makerspace, in Heidelberg, etc.)
+* Bilder Hinzufügen (Projekte? Räume? Kein "Werbematerial", echte Sachen!)
 
 WERDE TEIL DER WACHSENDEN MAKER-BEWEGUNG 
 =
@@ -16,3 +18,4 @@ Wäre es nicht toll wenn du jederzeit an deinen Projekten arbeiten könntest, zu
 
 [Komm vorbei](https://comakingspace.org/kontakt/index.html) - [Schau dir unsere Projekte an](https://wiki.comakingspace.de/Projects) - [Wer seid ihr eigentlich?](/about/)
 -
+

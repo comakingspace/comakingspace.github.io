@@ -2,6 +2,10 @@
 layout: with_footer
 title: Blog
 ---
+ToDos:
+* Templaten
+* Moar Content!
+
 <h1>Latest Posts</h1>
 
 <ul>
