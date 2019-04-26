@@ -1,14 +1,14 @@
 
-body {
-  background-color: #2a7ae2;
-}
-
-.navbar-nav .navbar-collapse {
+.navbar-nav {
   float:none;
   flex-grow:0;
   margin:0 auto;
   display: inline;
   text-align: center;
+}
+
+.navbar-collapse {
+  flex-grow:0;
 }
 
 .navbar-nav > li {
