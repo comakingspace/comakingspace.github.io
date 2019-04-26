@@ -5,6 +5,7 @@ body {
 
 .navbar-nav .navbar-collapse {
   float:none;
+  flex-grow:0;
   margin:0 auto;
   display: inline;
   text-align: center;
