@@ -1,6 +1,7 @@
 ---
-layout: with_footer
+layout: default
 title: Calendar
+permalink: /calendar/
 ---
 ToDos:
 * iframe entfernen

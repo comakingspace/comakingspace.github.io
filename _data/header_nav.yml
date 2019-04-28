@@ -1,16 +1,16 @@
 - name: Home
   link: /
 - name: Join Us
-  link: /join_us.html
+  link: /join_us/
 - name: Blog
-  link: /blog.html
+  link: /blog/
 - name: Wiki
   link: https://wiki.comakingspace.de
 - name: Events
-  link: /calendar.html
+  link: /calendar/
 - name: Contact
-  link: /contact.html
+  link: /contact/
 - name: Sponsors
-  link: /sponsors.html
+  link: /sponsors/
 - name: About
-  link: /about.html
+  link: /about/

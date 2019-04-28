@@ -1,5 +1,6 @@
 ---
-layout: with_footer
+layout: default
 title: Impressum
+permalink: /imprint/
 ---
 

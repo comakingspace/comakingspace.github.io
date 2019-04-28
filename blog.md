@@ -1,6 +1,7 @@
 ---
-layout: with_footer
+layout: default
 title: Blog
+permalink: /blog/
 ---
 ToDos:
 * Templaten

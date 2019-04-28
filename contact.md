@@ -1,6 +1,7 @@
 ---
-layout: with_footer
+layout: default
 title: Contact
+permalink: /contact/
 ---
 ToDos:
 * Kontaktformular hinzufügen

@@ -1,6 +1,7 @@
 ---
-layout: with_footer
+layout: default
 title: Sponsors
+permalink: /sponsors/
 ---
 ToDos:
 * Sponsor Template

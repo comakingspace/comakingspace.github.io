@@ -1,1 +1,16 @@
+<footer class="footer text-center">
+    <div class="row">
+        <p class="text-center">Something</p>
+    </div>
+    <div class="row">
+        <p className="text-center">
+            {% for item in site.data.footer_nav %}
+            <a href="{{ item.link }}">{{ item.name}}</a>
+            <li class="nav-item {% if page.url == item.link %}active{% endif %}">
+                <a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>
+            </li>
+            {% endfor %}
+        </p>
+    </div>
 
+</footer>

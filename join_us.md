@@ -1,6 +1,7 @@
 ---
-layout: with_footer
+layout: default
 title: Join Us
+permalink: /join_us/
 ---
 ToDos:
 * Umbenennen in "komm vorbei"?

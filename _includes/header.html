@@ -1,7 +1,18 @@
-<nav>
-    <a href="/">Home</a>
-    <a href="/join_us.html">Join Us</a>
-    <a href="/calendar.html">Calendar</a>
-    <a href="wiki.comakingspace.org">WIKI</a>
-    <a href="/contact.html">Contact</a>
+<nav class="navbar navbar-expand-md navbar-light bg-light justify-content-center">
+
+    <a class="navbar-brand" href="/"><img src="/assets/images/Logo-135px.png" style="width:40px;"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav">
+            {% for item in site.data.header_nav %}
+            <li class="nav-item {% if page.url == item.link %}active{% endif %}">
+                <a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
 </nav>

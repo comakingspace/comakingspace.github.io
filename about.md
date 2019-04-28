@@ -1,6 +1,7 @@
 ---
-layout: with_footer
+layout: default
 title: About
+permalink: /about/
 ---
 ToDos:
 * Abklären, ob Seite so bleiben soll
