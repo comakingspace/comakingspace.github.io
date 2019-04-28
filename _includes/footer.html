@@ -1,10 +1,49 @@
 <footer class="footer text-center">
+    {%- assign social = site.social_links -%}
     <div class="row">
+        <div class="col">
+            CoMakingSpace<br />
+            gemeinnützige GmbH<br />
+            Offene Werkstatt und Makerspace in Heidelberg<br />
+            © CoMakingSpace<br />
+            gemeinnützige GmbH 2018<br />
+            All Rights Reserved.<br />
+        </div>
         <p className="text-center">
             {% for item in site.data.footer_nav %}
             <a href="{{ item.link }}">{{ item.name}}</a>
             {% endfor %}
         </p>
+        <ul class="social-media-list">
+            {%- if social.facebook -%}<li><a href="https://www.facebook.com/{{ social.facebook | cgi_escape | escape }}"
+                    title="{{ social.facebook | escape }}"></a></li>
+            {%- endif -%}
+            {%- if social.github -%}<li><a href="https://github.com/{{ social.github | cgi_escape | escape }}"
+                    title="{{ social.github | escape }}"> <i class="fa fa-github"></i> </a></li>
+            {%- endif -%}
+            {%- if social.instagram -%}<li><a
+                    href="https://www.instagram.com/{{ social.instagram | cgi_escape | escape }}"
+                    title="{{ social.instagram | escape }}"><i class="fa fa-instagram"></i> </a></li>
+            {%- endif -%}
+            {%- if social.twitter -%}<li><a href="https://twitter.com/{{ social.twitter | cgi_escape | escape }}"
+                    title="{{ social.twitter | escape }}"><i class="fa fa-twitter"></i> </a></li>{%- endif -%}
+            {%- if social.youtube -%}<li><a href="https://www.youtube.com/{{ social.youtube | cgi_escape | escape }}"
+                    title="{{ social.youtube | escape }}"> <i class="fa fa-youtube"></i> </a></li>
+            {%- endif -%}
+            {%- if social.youtube_channel -%}<li><a
+                    href="https://www.youtube.com/channel/{{ social.youtube_channel | cgi_escape | escape }}"
+                    title="{{ social.youtube_channel_name | escape | default: 'YouTube' }}"> <i
+                        class="fa fa-youtube"></i> </a></li>
+            {%- endif -%}
+            {%- if social.telegram -%}<li><a href="https://t.me/{{ social.telegram | cgi_escape | escape }}"
+                    title="{{ social.telegram | escape }}"> <i class="fa fa-telegram"></i> </a></li>
+            {%- endif -%}
+        </ul>
     </div>
+
+
+
+
+
 
 </footer>
