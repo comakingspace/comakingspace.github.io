@@ -1,17 +1,14 @@
 <footer class="footer text-center">
     {%- assign social = site.social_links -%}
     <div class="row">
-        <div class="col">
-            CoMakingSpace<br />
-            gemeinnützige GmbH<br />
-            Offene Werkstatt und Makerspace in Heidelberg<br />
-            © CoMakingSpace<br />
-            gemeinnützige GmbH 2018<br />
-            All Rights Reserved.<br />
-        </div>
+        <p>
+            2017 - 2019 © CoMakingSpace gemeinnützige GmbH
+        </p>
         <p className="text-center">
             {% for item in site.data.footer_nav %}
             <a href="{{ item.link }}">{{ item.name}}</a>
+            {% if forloop.last == false %}
+            <span>|</span>
             {% endfor %}
         </p>
         <ul class="social-media-list">
