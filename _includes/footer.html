@@ -1,6 +1,6 @@
 <footer class="footer text-center">
     {%- assign social = site.social_links -%}
-    <div class="row">
+    <div class="row text-left">
         <div>
             2017 - 2019 © CoMakingSpace gemeinnützige GmbH
         </div>
@@ -13,27 +13,32 @@
             {% endfor %}
         </div>
         <ul class="list-inline">
-            {%- if social.facebook -%}<li><a href="https://www.facebook.com/{{ social.facebook | cgi_escape | escape }}"
+            {%- if social.facebook -%}<li class="list-inline-item"><a
+                    href="https://www.facebook.com/{{ social.facebook | cgi_escape | escape }}"
                     title="{{ social.facebook | escape }}"> <i class="fa fa-facebook"></i> </a></li>
             {%- endif -%}
-            {%- if social.github -%}<li><a href="https://github.com/{{ social.github | cgi_escape | escape }}"
+            {%- if social.github -%}<li class="list-inline-item"><a
+                    href="https://github.com/{{ social.github | cgi_escape | escape }}"
                     title="{{ social.github | escape }}"> <i class="fa fa-github"></i> </a></li>
             {%- endif -%}
-            {%- if social.instagram -%}<li><a
+            {%- if social.instagram -%}<li class="list-inline-item"><a
                     href="https://www.instagram.com/{{ social.instagram | cgi_escape | escape }}"
                     title="{{ social.instagram | escape }}"><i class="fa fa-instagram"></i> </a></li>
             {%- endif -%}
-            {%- if social.twitter -%}<li><a href="https://twitter.com/{{ social.twitter | cgi_escape | escape }}"
+            {%- if social.twitter -%}<li class="list-inline-item"><a
+                    href="https://twitter.com/{{ social.twitter | cgi_escape | escape }}"
                     title="{{ social.twitter | escape }}"><i class="fa fa-twitter"></i> </a></li>{%- endif -%}
-            {%- if social.youtube -%}<li><a href="https://www.youtube.com/{{ social.youtube | cgi_escape | escape }}"
+            {%- if social.youtube -%}<li class="list-inline-item"><a
+                    href="https://www.youtube.com/{{ social.youtube | cgi_escape | escape }}"
                     title="{{ social.youtube | escape }}"> <i class="fa fa-youtube"></i> </a></li>
             {%- endif -%}
-            {%- if social.youtube_channel -%}<li><a
+            {%- if social.youtube_channel -%}<li class="list-inline-item"><a
                     href="https://www.youtube.com/channel/{{ social.youtube_channel | cgi_escape | escape }}"
                     title="{{ social.youtube_channel_name | escape | default: 'YouTube' }}"> <i
                         class="fa fa-youtube"></i> </a></li>
             {%- endif -%}
-            {%- if social.telegram -%}<li><a href="https://t.me/{{ social.telegram | cgi_escape | escape }}"
+            {%- if social.telegram -%}<li class="list-inline-item"><a
+                    href="https://t.me/{{ social.telegram | cgi_escape | escape }}"
                     title="{{ social.telegram | escape }}"> <i class="fa fa-telegram"></i> </a></li>
             {%- endif -%}
         </ul>
