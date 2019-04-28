@@ -1,20 +1,20 @@
 <footer class="footer text-center">
     {%- assign social = site.social_links -%}
     <div class="row">
-        <p>
+        <div>
             2017 - 2019 © CoMakingSpace gemeinnützige GmbH
-        </p>
-        <p className="text-center">
+        </div>
+        <div className="text-center">
             {% for item in site.data.footer_nav %}
             <a href="{{ item.link }}">{{ item.name}}</a>
             {% if forloop.last == false %}
             <span>|</span>
             {% endif %}
             {% endfor %}
-        </p>
-        <ul class="social-media-list">
+        </div>
+        <ul class="list-inline">
             {%- if social.facebook -%}<li><a href="https://www.facebook.com/{{ social.facebook | cgi_escape | escape }}"
-                    title="{{ social.facebook | escape }}"></a></li>
+                    title="{{ social.facebook | escape }}"> <i class="fa fa-facebook"></i> </a></li>
             {%- endif -%}
             {%- if social.github -%}<li><a href="https://github.com/{{ social.github | cgi_escape | escape }}"
                     title="{{ social.github | escape }}"> <i class="fa fa-github"></i> </a></li>
