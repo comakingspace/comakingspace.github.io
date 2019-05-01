@@ -4,8 +4,6 @@
   link: /join_us/
 - name: Blog
   link: /blog/
-- name: Wiki
-  link: https://wiki.comakingspace.de
 - name: Events
   link: /calendar/
 - name: Contact
@@ -14,3 +12,5 @@
   link: /sponsors/
 - name: About
   link: /about/
+- name: Wiki <i class="fa fa-angle-right"></i>
+  link: https://wiki.comakingspace.de

@@ -14,3 +14,55 @@
   display: inline-block;
   float:none;
 }
+
+html {
+  height: 100%;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 12.5rem;
+  min-height: 100%;
+}
+
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  padding-top: 2em;
+  padding-bottom: .5em;
+  margin-top: 2.5rem;
+  background-color: lightgray;
+
+
+  p {
+    width: 100%;
+    margin-bottom: 0;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:link {
+    color: #292929;
+  }
+
+  a:visited {
+    color: #292929;
+  }
+
+  a:hover {
+    color: gray;
+    text-underline: none;
+  }
+
+  a:active {
+    color: #2E2E2E;
+  }
+
+}
