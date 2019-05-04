@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   It is also similar to a FabLab or Hackerspace in many ways - in short: your space for all things "DIY"!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "comakingspace.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: comakingspace
 github_username: comakingspace
 
 # Build settings

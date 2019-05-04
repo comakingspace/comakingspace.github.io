@@ -1,7 +1,7 @@
 - name: Home
   link: /
-- name: Join Us
-  link: /join_us/
+- name: Mach mit
+  link: /mach_mit/
 - name: Blog
   link: /blog/
 - name: Events

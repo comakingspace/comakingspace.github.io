@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Join Us
-permalink: /join_us/
+title: Mach mit
+permalink: /mach_mit/
 ---
 ToDos:
-* Umbenennen in "komm vorbei"?
 * Wegbeschreibung hinzufügen
 
 WIE DAS GANZE FUNKTIONIERT
