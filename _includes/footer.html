@@ -2,12 +2,14 @@
 <footer class="footer font-small g-light">
         {%- assign social = site.social_links -%}
         <!-- Footer Links -->
-        <div class="text-center text-md-left">
+        <div class="container justify-content-center">
 
                 <!-- Grid row -->
+
                 <div class="row">
                         <!-- Grid column -->
-                        <div class="col-md-3 mx-auto">
+                        <div class=" col-md-3 mx-auto">
+                                <h5>Anschrift</h5>
                                 CoMakingSpace gemeinnützige GmbH<br>
                                 Mönchgasse 6<br />
                                 69117 Heidelberg
@@ -16,7 +18,8 @@
                         <hr class="clearfix w-100 d-md-none">
 
                         <!-- Grid column -->
-                        <div class="col-md-3 mx-auto">
+                        <div class=" col-md-3 mx-auto">
+                                <h5>Kontakt</h5>
                                 <ul class="list-unstyled">
                                         {% for item in site.data.footer_nav %}
                                         <li>
@@ -29,10 +32,11 @@
 
                         </div>
                         <!-- Grid column -->
-<!--                        <hr class="clearfix w-100 d-md-none">-->
+                        <!--                        <hr class="clearfix w-100 d-md-none">-->
 
                         <!-- Grid column -->
                         <div class="col-md-3 mx-auto">
+                                <h5>Social Media</h5>
                                 <ul class="list-unstyled">
                                         {%- if social.facebook -%}<li><a
                                                         href="https://www.facebook.com/{{ social.facebook | cgi_escape | escape }}"
@@ -74,7 +78,7 @@
                         </div>
                         <!-- Grid column -->
 
-<!--                        <hr class="clearfix w-100 d-md-none">-->
+                        <!--                        <hr class="clearfix w-100 d-md-none">-->
                 </div>
                 <!-- Grid row -->
 

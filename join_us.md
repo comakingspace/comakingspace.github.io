@@ -6,13 +6,12 @@ permalink: /mach_mit/
 ToDos:
 * Wegbeschreibung hinzufügen
 
-WIE DAS GANZE FUNKTIONIERT
+
+Werde Mitglied!
 -
-Wir haben unseren CoMakingSpace als gemeinnützige GmbH gegründet. Dadurch können wir passende Räumlichkeiten mieten, Versicherungen abschließen etc. und diese Rechtsform bietet eine solide Grundlage für eine Gemeinschaftswerkstatt mit Bestand.
+Werde Mitglied und nutze die Werkstatt gemeinsam mit uns! Um die Werkstatt finanzieren zu können müssen wir Mitgliedsbeiträge erheben.
 
-Werde Mitglied und nutze die Werkstatt gemeinsam mit uns!
-
-
+Um uns kennenzulernen ist es am besten, wenn du einfach mal zu unseren [Öffnungszeiten](/calendar) vorbei kommst und dir die Werkstatt anschaust!
 <table class="table table-bordered">
   <tr>
   <th> </th>

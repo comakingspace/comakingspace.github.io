@@ -3,10 +3,7 @@ layout: default
 title: Sponsors
 permalink: /sponsors/
 ---
-ToDos:
-* Test with multiple sponsors
-
-We are very thankful for the support we got from the companies below:
+Wir sind dankbar für die Unterstützung, die wir von den folgendend Organisationen erhalten haben und erhalten:
 <table>
     {% for item in site.data.sponsors %}
         <tr>

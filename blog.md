@@ -4,8 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 ToDos:
-* Templaten
-* Moar Content!
+* Ersten Blogartikel schreiben
 
 <h1>Latest Posts</h1>
 

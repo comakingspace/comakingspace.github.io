@@ -2,7 +2,7 @@
   link: /
 - name: Mach mit
   link: /mach_mit/
-- name: Blog
+- name: Neuigkeiten
   link: /blog/
 - name: Events
   link: /calendar/
@@ -10,7 +10,7 @@
   link: /contact/
 - name: Sponsors
   link: /sponsors/
-- name: About
-  link: /about/
+- name: Team
+  link: /team/
 - name: Wiki <i class="fa fa-angle-right"></i>
   link: https://wiki.comakingspace.de

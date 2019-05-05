@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Team
+permalink: /team/
 ---
 ToDos:
 * Namen hinzufügen
