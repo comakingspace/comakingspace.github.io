@@ -1,3 +1,5 @@
+- name: Kontakt
+  link: /contact/
 - name: Datenschutzerklärung
   link: /privacy_policy/
 - name: Impressum
