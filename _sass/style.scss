@@ -13,13 +13,16 @@
   display: inline-block;
   float: none;
 }
+
 .justify-content-center {
   padding-bottom: 10px;
 }
+
 html {
   height: 100%;
   box-sizing: border-box;
 }
+
 *,
 *::before,
 *::after {
@@ -36,11 +39,31 @@ html {
 body {
   position: relative;
   min-height: 100%;
-  margin:0;
+  //margin: 0;
+  padding-bottom: 9rem;
+
+  @media only screen and (max-width: 576px) {
+    padding-bottom: 30rem;
+  }
+
+  @media only screen and (max-width: 768px) and (min-width: 577px) {
+    padding-bottom: 27.5rem;
+  }
+  @media only screen and (max-width: 992px) and (min-width: 769px) {
+    padding-bottom: 12rem;
+  }
 }
+
 
 .footer {
   background-color: lightgray;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  padding-top: 1em;
+  margin-top: 2rem;
 
   p {
     width: 100%;
@@ -67,4 +90,10 @@ body {
   a:active {
     color: #2e2e2e;
   }
+}
+
+#calendar {
+  padding-top: 2rem;
+  padding-bottom: 3.5rem;
+  max-height: 100%;
 }
