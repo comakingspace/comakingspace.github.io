@@ -3,8 +3,6 @@ layout: default
 title: Blog
 permalink: /blog/
 ---
-ToDos:
-* Ersten Blogartikel schreiben
 
 <h1>Latest Posts</h1>
 

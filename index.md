@@ -16,6 +16,9 @@ Wäre es nicht toll wenn du jederzeit an deinen Projekten arbeiten könntest, zu
 Du kannst dir auch zuerst unsere Neuigkeiten anschauen:
 <ul>
   {% for post in site.posts %}
+     {% if forloop.index > 2 %}
+       {% break %}
+     {% endif %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>

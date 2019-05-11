@@ -5,8 +5,9 @@
 
 <body>
 
-    {%- include header.html -%}
+    
     <div class="container justify-content-center">
+            {%- include header.html -%}
         <div class="row row-offcanvas row-offcanvas-right">
             <div class="col-12 col-md-8">
                 {{content}}
@@ -15,10 +16,10 @@
                     {%- include sidebar.html -%}
                 </div>
         </div>
-        
+        {%- include footer.html -%}
     </div>
 
-    {%- include footer.html -%}
+   
 
     {%- include scripts.html -%}
 

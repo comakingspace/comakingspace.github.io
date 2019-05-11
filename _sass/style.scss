@@ -15,9 +15,11 @@
 }
 
 .justify-content-center {
-  padding-bottom: 10px;
+  //padding-bottom: 10px;
 }
-
+.container {
+  background-color: white
+}
 html {
   height: 100%;
   box-sizing: border-box;
@@ -39,29 +41,35 @@ html {
 body {
   position: relative;
   min-height: 100%;
+  background-image: url("/assets/images/PK_drill_action-1.jpg");
+  background-repeat-x: no-repeat;
+  background-repeat-y: repeat;
+  background-size: cover;
+  
+
   //margin: 0;
-  padding-bottom: 9rem;
+  //padding-bottom: 9rem;
 
   @media only screen and (max-width: 576px) {
-    padding-bottom: 30rem;
+    //padding-bottom: 30rem;
   }
 
   @media only screen and (max-width: 768px) and (min-width: 577px) {
-    padding-bottom: 27.5rem;
+    //padding-bottom: 27.5rem;
   }
   @media only screen and (max-width: 992px) and (min-width: 769px) {
-    padding-bottom: 12rem;
+    //padding-bottom: 12rem;
   }
 }
 
 
 .footer {
   background-color: lightgray;
-  position: absolute;
+  //position: absolute;
   bottom: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
+  //left: 0;
+  //right: 0;
+  //width: 100%;
   padding-top: 1em;
   margin-top: 2rem;
 
