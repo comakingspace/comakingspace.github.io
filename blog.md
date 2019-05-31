@@ -10,7 +10,7 @@ permalink: /blog/
   {% for post in site.posts %}
   <div class="row post">
     <div class="column post-image">
-      <img src="{{post.image}}"></img>
+      <img src="{{post.image}}">
     </div>
     <div class="column post-teaser">
       <div class="row post-teaser-title">

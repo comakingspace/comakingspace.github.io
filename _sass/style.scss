@@ -52,12 +52,15 @@ img{
 .post-teaser {
   width: 80%;
   float: right;
+  flex-wrap: nowrap;
 }
 .post-teaser-title {
   width: 100%;
+  flex-wrap: nowrap;
 }
 .post-teaser-content {
   width: 100%;
+  flex-wrap: nowrap;
 }
 
 @media only screen and (max-width: 576px) {
