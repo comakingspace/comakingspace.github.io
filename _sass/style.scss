@@ -37,6 +37,44 @@ html {
   padding-bottom: 2rem;
   width: 94%;
 }
+img{
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.post{
+
+}
+.post-image {
+  width: 20%;
+  float: left;
+}
+.post-teaser {
+  width: 80%;
+  float: right;
+}
+.post-teaser-title {
+  width: 100%;
+}
+.post-teaser-content {
+  width: 100%;
+}
+
+@media only screen and (max-width: 576px) {
+  //padding-bottom: 30rem;
+  .post-image {
+    width: 100%;
+  }
+  .post-teaser {
+    width: 100%;
+  }
+  .post-teaser-title {
+    width: 100%;
+  }
+  .post-teaser-content {
+    width: 100%;
+  }
+}
 
 body {
   position: relative;
@@ -52,18 +90,6 @@ body {
 
   @media only screen and (max-width: 576px) {
     //padding-bottom: 30rem;
-    .post-image {
-      width: 100%;
-    }
-    .post-teaser {
-      width: 100%;
-    }
-    .post-teaser-title {
-      width: 100%;
-    }
-    .post-teaser-content {
-      width: 100%;
-    }
 
   }
 
