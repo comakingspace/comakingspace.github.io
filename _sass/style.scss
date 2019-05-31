@@ -52,6 +52,19 @@ body {
 
   @media only screen and (max-width: 576px) {
     //padding-bottom: 30rem;
+    .post-image {
+      width: 100%;
+    }
+    .post-teaser {
+      width: 100%;
+    }
+    .post-teaser-title {
+      width: 100%;
+    }
+    .post-teaser-content {
+      width: 100%;
+    }
+
   }
 
   @media only screen and (max-width: 768px) and (min-width: 577px) {
@@ -105,3 +118,5 @@ body {
   padding-bottom: 3.5rem;
   max-height: 100%;
 }
+
+

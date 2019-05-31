@@ -8,9 +8,20 @@ permalink: /blog/
 
 <ul>
   {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <div class="row post">
+    <div class="column post-image">
+      <i src="{{post.image}}"></i>
+    </div>
+    <div class="column post-teaser">
+      <div class="row post-teaser-title">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      </div>
+      <div class="row post-teaser-content">
       <p>{{ post.excerpt }}</p>
-    </li>
+      </div>
+    </div>
+    </div>
+
+    
   {% endfor %}
 </ul>
