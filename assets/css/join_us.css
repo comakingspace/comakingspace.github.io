@@ -1,0 +1,26 @@
+.content {
+    display: grid;
+    grid-template-rows: auto auto auto;
+    grid-row-gap: 3em;
+}
+
+.first_paragraph {
+    text-align: center;
+
+}
+
+.first_paragraph p {
+    font-size: 22px;
+    line-height: 1.2;
+    font-weight: lighter;
+}
+
+btn-link {
+    place-self: center;
+    padding-bottom: 4em;
+}
+
+.membership-blocks {
+    display: grid;
+    grid-row-gap: 1em;
+}
