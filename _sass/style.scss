@@ -17,9 +17,10 @@
 .justify-content-center {
   //padding-bottom: 10px;
 }
-.container {
+.main-content {
   background-color: white
 }
+
 html {
   height: 100%;
   box-sizing: border-box;
@@ -82,7 +83,7 @@ img{
 body {
   position: relative;
   min-height: 100%;
-  background-image: url("/assets/images/PK_drill_action-1.jpg");
+  //background-image: url("/assets/images/PK_drill_action-1.jpg");
   background-repeat-x: no-repeat;
   background-repeat-y: repeat;
   background-size: cover;
