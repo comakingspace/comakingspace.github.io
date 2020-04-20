@@ -1,0 +1,32 @@
+
+.sponsors{
+    //display: grid;
+    //grid-template-columns: repeat(4, 1fr);
+    //grid-gap: 10px;
+}
+
+.sponsors-regular{
+    display: grid;
+    grid-row-gap: 2em;
+    //grid-template-rows: 1fr 7fr 3fr;
+    grid-template-columns: 2fr 8fr;
+    grid-template-areas:
+        "picture teaser";
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-bottom-color: grey;
+    border-bottom-style: dashed;
+  }
+  
+.sponsors-alternate{
+    display: grid;
+    grid-row-gap: 2em;
+    //grid-template-rows: 1fr 7fr 3fr;
+    grid-template-columns: 8fr 2fr;
+    grid-template-areas:
+        "teaser picture";
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-bottom-color: grey;
+    border-bottom-style: dashed;
+}

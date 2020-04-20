@@ -15,17 +15,28 @@ Wäre es nicht toll wenn du jederzeit an deinen Projekten arbeiten könntest, zu
 [Dann komm einfach bei uns vorbei und mach mit.](/mach_mit/)
 
 Du kannst dir auch zuerst unsere Neuigkeiten anschauen:
-<ul>
-  {% for post in site.posts %}
-     {% if forloop.index > 2 %}
-       {% break %}
-     {% endif %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
+
+{% for post in site.posts %}
+    {% if forloop.index > 2 %}
+      {% break %}
+    {% endif %}
+  
+<div class="{% cycle 'post', 'post-alternate' %}">
+<div class="post-image">
+  <a href="{{ post.url }}"><img src="{{post.image}}"></a>
+</div>
+<div class="post-teaser">
+  <div class="post-teaser-title">
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  </div>
+  <div class="post-teaser-content">
+  <p>{{ post.excerpt }}</p>
+  </div>
+</div>
+</div>
+  
+{% endfor %}
+
 
 Weitere Artikel findest du in unserem [Blog](/blog/). 
 

@@ -4,10 +4,8 @@ title: Sponsors
 permalink: /sponsors/
 ---
 Wir sind dankbar für die Unterstützung, die wir von den folgendend Organisationen erhalten haben und erhalten:
-<table>
+<div class="sponsors">
     {% for item in site.data.sponsors %}
-        <tr>
-            <td><a href="{{ item.link }}"><img src="{{ item.logo }}" alt="{{ item.name }}" title="{{ item.name }}"></a> </td>
-        </tr>
+        <a href="{{ item.link }}"><img src="{{ item.logo }}" alt="{{ item.name }}" title="{{ item.name }}"></a>
     {% endfor %}
-</table>
+</div>
