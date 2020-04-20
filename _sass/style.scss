@@ -1,3 +1,93 @@
+.overall {
+  display: grid;
+  grid-column-gap: 1em;
+  grid-row-gap: 2em;
+  //grid-template-rows: 1fr 7fr 3fr;
+  //grid-template-columns: 1fr 4fr 1fr;
+  grid-template-areas:
+      "header"
+      "content"
+      "footer";
+}
+
+@media (min-width: 600px) {
+  .overall {
+    display: grid;
+    grid-column-gap: 1em;
+    grid-row-gap: 2em;
+    //grid-template-rows: 1fr 7fr 3fr;
+    grid-template-columns: 1fr 8fr 1fr;
+    grid-template-areas:
+        "header header header"
+        ". content ."
+        "footer footer footer";
+  }
+}
+
+.header {
+  grid-area: header;
+  grid-row-start: header;
+  grid-column-start: header;
+  grid-row-end: header;
+  grid-column-end: header;
+  position: sticky;
+  top: 0;
+  background-color:white;
+}
+
+.main-content {
+  background-color: white;
+  place-self: center;
+  grid-area: content;
+  grid-row-start: content;
+  grid-column-start: content;
+  grid-row-end: content;
+  grid-column-end: content;
+}
+
+.footer {
+  grid-area: footer;
+  grid-row-start: footer;
+  grid-column-start: footer;
+  grid-row-end: footer;
+  grid-column-end: footer;
+  background-color: lightgray;
+  padding:1em;
+  //position: absolute;
+  //bottom: 0;
+  //left: 0;
+  //right: 0;
+  //width: 100%;
+  //padding-top: 1em;
+  //margin-top: 2rem;
+
+  p {
+    width: 100%;
+    margin-bottom: 0;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:link {
+    color: #292929;
+  }
+
+  a:visited {
+    color: #292929;
+  }
+
+  a:hover {
+    color: gray;
+    text-underline: none;
+  }
+
+  a:active {
+    color: #2e2e2e;
+  }
+}
+
 .navbar-nav {
   float: none;
   flex-grow: 0;
@@ -17,9 +107,7 @@
 .justify-content-center {
   //padding-bottom: 10px;
 }
-.main-content {
-  background-color: white
-}
+
 
 html {
   height: 100%;
@@ -105,48 +193,8 @@ body {
   }
 }
 
-
-.footer {
-  background-color: lightgray;
-  //position: absolute;
-  bottom: 0;
-  //left: 0;
-  //right: 0;
-  //width: 100%;
-  padding-top: 1em;
-  margin-top: 2rem;
-
-  p {
-    width: 100%;
-    margin-bottom: 0;
-  }
-
-  a {
-    text-decoration: none;
-  }
-
-  a:link {
-    color: #292929;
-  }
-
-  a:visited {
-    color: #292929;
-  }
-
-  a:hover {
-    color: gray;
-    text-underline: none;
-  }
-
-  a:active {
-    color: #2e2e2e;
-  }
-}
-
 #calendar {
   padding-top: 2rem;
   padding-bottom: 3.5rem;
   max-height: 100%;
 }
-
-

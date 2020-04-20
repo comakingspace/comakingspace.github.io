@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+permalink: /index_copy/
 ---
 ToDos:
 * Bilder Hinzufügen (Projekte? Räume? Kein "Werbematerial", echte Sachen!)

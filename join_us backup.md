@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mach mit
-permalink: /mach_mit/
+permalink: /mach_mit_backup/
 ---
 Komm Vorbei!
 -

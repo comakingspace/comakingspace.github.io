@@ -1,29 +1,31 @@
-<div class="bg-danger text-white">
-    DISCLAIMER: This is just a test so far! <br />
-    Please check out our official site at <a href="https://comakingspace.org/">www.comakingspace.org/</a>. for
-    further
-    information about our organization.
-</div>
-
-<nav class="navbar sticky-top navbar-expand-md navbar-light bg-white justify-content-center">
-    <space-logo style="display: grid; grid-template-rows: auto auto; justify-items: center;">
-        <a href="/" style="height: 100px;">
-            <img src="/assets/images/Logo.svg" >
-        </a>
-        <p style="text-align: center;margin-bottom: 0px">Heidelberg's Community Makerspace</p>
-    </space-logo>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-    </button>
-
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav">
-            {% for item in site.data.header_nav %}
-            <li class="nav-item {% if page.url == item.link %}active{% endif %}">
-                <a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>
-            </li>
-            {% endfor %}
-        </ul>
+<div class="header">
+    <div class="bg-danger text-white">
+        DISCLAIMER: This is just a test so far! <br />
+        Please check out our official site at <a href="https://comakingspace.org/">www.comakingspace.org/</a>. for
+        further
+        information about our organization.
     </div>
-</nav>
+
+    <nav class="navbar navbar-expand-md navbar-light justify-content-center">
+        <space-logo style="display: grid; grid-template-rows: auto auto; justify-items: center;">
+            <a href="/" style="height: 100px;">
+                <img src="/assets/images/Logo.svg">
+            </a>
+            <p style="text-align: center;margin-bottom: 0px">Heidelberg's Community Makerspace</p>
+        </space-logo>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav">
+                {% for item in site.data.header_nav %}
+                <li class="nav-item {% if page.url == item.link %}active{% endif %}">
+                    <a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </nav>
+</div>
