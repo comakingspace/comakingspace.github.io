@@ -16,11 +16,25 @@
     grid-column-gap: 1em;
     grid-row-gap: 2em;
     //grid-template-rows: 1fr 7fr 3fr;
-    grid-template-columns: 1fr 8fr 1fr;
+    grid-template-columns: 1fr 8fr 1fr 1fr;
     grid-template-areas:
-        "header header header"
-        ". content ."
-        "footer footer footer";
+        "header header header header"
+        ". content sidebar ."
+        "footer footer footer footer";
+  }
+}
+
+@media (min-width: 2000px) {
+  .overall {
+    display: grid;
+    grid-column-gap: 1em;
+    grid-row-gap: 2em;
+    //grid-template-rows: 1fr 7fr 3fr;
+    grid-template-columns: 2fr 4fr 1fr 2fr;
+    grid-template-areas:
+        "header header header header"
+        ". content sidebar ."
+        "footer footer footer footer";
   }
 }
 
@@ -32,6 +46,7 @@
   grid-column-end: header;
   position: sticky;
   top: 0;
+  z-index: 1020;
   background-color:white;
 }
 
@@ -43,6 +58,15 @@
   grid-column-start: content;
   grid-row-end: content;
   grid-column-end: content;
+}
+
+.sidebar {
+  grid-area: sidebar;
+  grid-row-start: sidebar;
+  grid-column-start: sidebar;
+  grid-row-end: sidebar;
+  grid-column-end: sidebar;
+  text-align: center;
 }
 
 .footer {
@@ -104,10 +128,6 @@
   float: none;
 }
 
-.justify-content-center {
-  //padding-bottom: 10px;
-}
-
 
 html {
   height: 100%;
@@ -132,14 +152,31 @@ img{
 }
 
 .post{
-
+  display: grid;
+  grid-row-gap: 2em;
+  //grid-template-rows: 1fr 7fr 3fr;
+  grid-template-columns: 2fr 8fr;
+  grid-template-areas:
+      "picture teaser";
+  padding-top: 1em;
 }
+
+.post-alternate{
+  display: grid;
+  grid-row-gap: 2em;
+  //grid-template-rows: 1fr 7fr 3fr;
+  grid-template-columns: 8fr 2fr;
+  grid-template-areas:
+      "teaser picture";
+      padding-top: 1em;
+}
+
 .post-image {
-  width: 20%;
+  grid-area: picture;
   float: left;
 }
 .post-teaser {
-  width: 80%;
+  grid-area: teaser;
   float: right;
   flex-wrap: nowrap;
 }
@@ -168,30 +205,6 @@ img{
   }
 }
 
-body {
-  position: relative;
-  min-height: 100%;
-  //background-image: url("/assets/images/PK_drill_action-1.jpg");
-  background-repeat-x: no-repeat;
-  background-repeat-y: repeat;
-  background-size: cover;
-  
-
-  //margin: 0;
-  //padding-bottom: 9rem;
-
-  @media only screen and (max-width: 576px) {
-    //padding-bottom: 30rem;
-
-  }
-
-  @media only screen and (max-width: 768px) and (min-width: 577px) {
-    //padding-bottom: 27.5rem;
-  }
-  @media only screen and (max-width: 992px) and (min-width: 769px) {
-    //padding-bottom: 12rem;
-  }
-}
 
 #calendar {
   padding-top: 2rem;
