@@ -1,8 +1,9 @@
 .overall {
+  min-height: 100%;
   display: grid;
   grid-column-gap: 1em;
   grid-row-gap: 2em;
-  //grid-template-rows: 1fr 7fr 3fr;
+  grid-template-rows: auto 1fr auto;
   //grid-template-columns: 1fr 4fr 1fr;
   grid-template-areas:
       "header"
@@ -12,10 +13,11 @@
 
 @media (min-width: 600px) {
   .overall {
+    min-height: 100%;
     display: grid;
     grid-column-gap: 1em;
     grid-row-gap: 2em;
-    //grid-template-rows: 1fr 7fr 3fr;
+    grid-template-rows: auto 1fr auto;
     grid-template-columns: 1fr 8fr 1fr 1fr;
     grid-template-areas:
         "header header header header"
@@ -26,10 +28,11 @@
 
 @media (min-width: 2000px) {
   .overall {
+    min-height: 100%;
     display: grid;
     grid-column-gap: 1em;
     grid-row-gap: 2em;
-    //grid-template-rows: 1fr 7fr 3fr;
+    grid-template-rows: auto 1fr auto;
     grid-template-columns: 2fr 4fr 1fr 2fr;
     grid-template-areas:
         "header header header header"
@@ -52,7 +55,6 @@
 
 .main-content {
   background-color: white;
-  place-self: center;
   grid-area: content;
   grid-row-start: content;
   grid-column-start: content;
