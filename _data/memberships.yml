@@ -1,0 +1,21 @@
+- name: Mitgliedschaft
+  desc: Günstige Einstiegsmöglichkeit mit Zugang während aller beaufsichtigten Öffnungszeiten.
+  price: 25 €
+  image: /assets/images/general-tools.png
+- name: Spind
+  desc: Lass deine Materialien und Projekte bei uns, wo du am besten daran arbeiten kannst!
+  price: + 25 €
+  image: /assets/images/general-tools.png
+- name: 24/7-Zugang
+  desc: Du bekommst deinen eigenen Schlüssel für 24/7-Zugang!
+  price: + 50 €
+  image: /assets/images/general-tools.png
+- name: Eigene Werkbank
+  desc: Werde ein CoMaker mit deiner eigenen Werkbank!
+  price: + 100 €
+  image: /assets/images/general-tools.png
+- name: 
+  desc: Alle Preise beziehen sich auf den monatlichen Beitrag für sechsmonatige Mitgliedschaften. <br/>Weitere Optionen findest du auf unserem Mitgliedsantrag.
+  price: 
+  image: 
+  

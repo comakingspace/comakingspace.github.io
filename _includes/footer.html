@@ -1,93 +1,66 @@
 <!-- Footer -->
-<footer id="myFooter" class="footer">
+<footer class="footer">
         {%- assign social = site.social_links -%}
         <!-- Footer Links -->
-        <div class="justify-content-center">
-
-                <!-- Grid row -->
-
-                <div class="row">
-                        <!-- Grid column -->
-                        <div class=" col-md-3 mx-auto">
-                                <h5>Anschrift</h5>
-                                CoMakingSpace gemeinnützige GmbH<br>
-                                Mönchgasse 6<br />
-                                69117 Heidelberg
-                        </div>
-                        <!-- Grid column -->
-                        <hr class="clearfix w-100 d-md-none">
-
-                        <!-- Grid column -->
-                        <div class=" col-md-3 mx-auto">
-                                <h5>Kontakt</h5>
-                                <ul class="list-unstyled">
-                                        {% for item in site.data.footer_nav %}
-                                        <li>
-                                                <a href="{{ item.link }}">{{ item.name}}</a>
-
-                                        </li>
-                                        {% endfor %}
-
-                                </ul>
-
-                        </div>
-                        <!-- Grid column -->
-                        <!--                        <hr class="clearfix w-100 d-md-none">-->
-
-                        <!-- Grid column -->
-                        <div class="col-md-3 mx-auto">
-                                <h5>Social Media</h5>
-                                <ul class="list-unstyled">
-                                        {%- if social.facebook -%}<li><a
-                                                        href="https://www.facebook.com/{{ social.facebook | cgi_escape | escape }}"
-                                                        title="{{ social.facebook | escape }}"> <i
-                                                                class="fa fa-facebook"></i> Facebook</a></li>
-                                        {%- endif -%}
-                                        {%- if social.github -%}<li><a
-                                                        href="https://github.com/{{ social.github | cgi_escape | escape }}"
-                                                        title="{{ social.github | escape }}"> <i
-                                                                class="fa fa-github"></i> GitHub</a></li>
-                                        {%- endif -%}
-                                        {%- if social.instagram -%}<li><a
-                                                        href="https://www.instagram.com/{{ social.instagram | cgi_escape | escape }}"
-                                                        title="{{ social.instagram | escape }}"><i
-                                                                class="fa fa-instagram"></i> Instagram</a>
-                                        </li>
-                                        {%- endif -%}
-                                        {%- if social.twitter -%}<li><a
-                                                        href="https://twitter.com/{{ social.twitter | cgi_escape | escape }}"
-                                                        title="{{ social.twitter | escape }}"><i
-                                                                class="fa fa-twitter"></i> Twitter</a></li>
-                                        {%- endif -%}
-                                        {%- if social.youtube -%}<li><a
-                                                        href="https://www.youtube.com/{{ social.youtube | cgi_escape | escape }}"
-                                                        title="{{ social.youtube | escape }}"> <i
-                                                                class="fa fa-youtube"></i> YouTube</a></li>
-                                        {%- endif -%}
-                                        {%- if social.youtube_channel -%}<li><a
-                                                        href="https://www.youtube.com/channel/{{ social.youtube_channel | cgi_escape | escape }}"
-                                                        title="{{ social.youtube_channel_name | escape | default: 'YouTube' }}">
-                                                        <i class="fa fa-youtube"></i> YouTube</a></li>
-                                        {%- endif -%}
-                                        {%- if social.telegram -%}<li><a
-                                                        href="https://t.me/{{ social.telegram | cgi_escape | escape }}"
-                                                        title="{{ social.telegram | escape }}"> <i
-                                                                class="fa fa-telegram"></i> Telegram</a></li>
-                                        {%- endif -%}
-                                </ul>
-                        </div>
-                        <!-- Grid column -->
-
-                        <!--                        <hr class="clearfix w-100 d-md-none">-->
-                </div>
-                <!-- Grid row -->
-
+        <div class="footer-address">
+                <h5>Anschrift</h5>
+                CoMakingSpace gemeinnützige GmbH<br>
+                Siemensstraße 40<br />
+                69123 Heidelberg
         </div>
-        <!-- Footer Links -->
+        <div class="footer-contact">
+                <h5>Kontakt</h5>
+                <ul class="list-unstyled">
+                        {% for item in site.data.footer_nav %}
+                        <li>
+                                <a href="{{ item.link }}">{{ item.name}}</a>
 
-        <!-- Copyright -->
-        <div class="footer-copyright text-center">2017 - 2019 © <a href="/"> CoMakingSpace gemeinnützige GmbH - offene Werkstatt und Makerspace in Heidelberg</a>
+                        </li>
+                        {% endfor %}
+                </ul>
         </div>
-        <!-- Copyright -->
+        <div class="footer-social">
+                <h5>Social Media</h5>
+                <ul class="list-unstyled">
+                        {%- if social.facebook -%}<li><a
+                                        href="https://www.facebook.com/{{ social.facebook | cgi_escape | escape }}"
+                                        title="{{ social.facebook | escape }}"> <i class="fa fa-facebook"></i>
+                                        Facebook</a></li>
+                        {%- endif -%}
+                        {%- if social.github -%}<li><a
+                                        href="https://github.com/{{ social.github | cgi_escape | escape }}"
+                                        title="{{ social.github | escape }}"> <i class="fa fa-github"></i> GitHub</a>
+                        </li>
+                        {%- endif -%}
+                        {%- if social.instagram -%}<li><a
+                                        href="https://www.instagram.com/{{ social.instagram | cgi_escape | escape }}"
+                                        title="{{ social.instagram | escape }}"><i class="fa fa-instagram"></i>
+                                        Instagram</a>
+                        </li>
+                        {%- endif -%}
+                        {%- if social.twitter -%}<li><a
+                                        href="https://twitter.com/{{ social.twitter | cgi_escape | escape }}"
+                                        title="{{ social.twitter | escape }}"><i class="fa fa-twitter"></i> Twitter</a>
+                        </li>
+                        {%- endif -%}
+                        {%- if social.youtube -%}<li><a
+                                        href="https://www.youtube.com/{{ social.youtube | cgi_escape | escape }}"
+                                        title="{{ social.youtube | escape }}"> <i class="fa fa-youtube"></i> YouTube</a>
+                        </li>
+                        {%- endif -%}
+                        {%- if social.youtube_channel -%}<li><a
+                                        href="https://www.youtube.com/channel/{{ social.youtube_channel | cgi_escape | escape }}"
+                                        title="{{ social.youtube_channel_name | escape | default: 'YouTube' }}">
+                                        <i class="fa fa-youtube"></i> YouTube</a></li>
+                        {%- endif -%}
+                        {%- if social.telegram -%}<li><a href="https://t.me/{{ social.telegram | cgi_escape | escape }}"
+                                        title="{{ social.telegram | escape }}"> <i class="fa fa-telegram"></i>
+                                        Telegram</a></li>
+                        {%- endif -%}
+                </ul>
+        </div>
+        <div class="footer-copyright">2017 - 2020 © <a href="/"> CoMakingSpace gemeinnützige GmbH - offene
+                        Werkstatt und Makerspace in Heidelberg</a>
+        </div>
 </footer>
 <!-- Footer -->

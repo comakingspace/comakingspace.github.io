@@ -1,4 +1,3 @@
-
 .team{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -35,15 +34,18 @@
     grid-area: picture;
     float: left;
   }
+
   .team-text {
     grid-area: teaser;
     float: right;
     flex-wrap: nowrap;
   }
+
   .team-text-name {
     width: 100%;
     flex-wrap: nowrap;
   }
+
   .team-text-desc {
     width: 100%;
     flex-wrap: nowrap;

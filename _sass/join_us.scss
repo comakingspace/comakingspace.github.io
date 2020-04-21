@@ -1,0 +1,51 @@
+.first_paragraph {
+    text-align: center;
+}
+
+.first_paragraph p {
+    font-size: 22px;
+    line-height: 1.2;
+    font-weight: lighter;
+}
+
+.membership-blocks {
+    display: grid;
+    grid-row-gap: 1em;
+}
+
+.membership-blocks-rounded-top {
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+}
+
+.membership-blocks-rounded-bottom {
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+
+.membership-element {
+    display: grid;
+    grid-template-columns: 2fr 6fr 2fr;
+    border: solid 1px black;
+    min-height: 193px;
+}
+
+.membership-element span {
+    text-align: center;
+}
+
+.membership-element img {
+    place-self: center;
+    justify-self: center;
+    max-width: 100px;
+}
+.membership-element span {
+    place-self: center;
+    justify-self: center;
+}
+
+.membership-element > h1 {
+    place-self: center;
+    justify-self: center;
+    font-size: 47px;
+}
