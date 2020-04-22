@@ -1,33 +1,30 @@
 <div class="header">
-    <div class="disclaimer">
-        DISCLAIMER: This is just a test so far! <br />
-        Please check out our official site at <a href="https://comakingspace.org/">www.comakingspace.org/</a>. for
-        further
-        information about our organization.
+<!--    <div class="disclaimer">-->
+<!--        DISCLAIMER: This is just a test so far! <br/>-->
+<!--        Please check out our official site at <a href="https://comakingspace.org/">www.comakingspace.org/</a>. for-->
+<!--        further-->
+<!--        information about our organization.-->
+<!--    </div>-->
+    <div class="logo">
+        <a href="/">
+            <img src="/assets/images/Logo.svg">
+        </a>
+        <p>Heidelberg's Community Makerspace</p>
     </div>
 
-    <nav class="navbar navbar-expand-md navbar-light">
-        <div class="navbar-logo">
-            <a href="/" style="height: 100px;">
-                <img src="/assets/images/Logo.svg">
-            </a>
-            Heidelberg's Community Makerspace
-        </div>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+    <nav id="page-nav">
+        <!--         [THE HAMBURGER]-->
+        <label for="hamburger">&#9776;</label>
+        <input type="checkbox" id="hamburger"/>
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav">
-                {% for item in site.data.header_nav %}
-                <li class="nav-item {% if page.url == item.link %}active{% endif %}">
-                    <a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>
-                </li>
-                {% endfor %}
-            </ul>
-        </div>
+        <!-- [MENU ITEMS] -->
+        <ul>
+            {% for item in site.data.header_nav %}
+            <li class="{% if page.url == item.link %}active{% endif %}">
+                <a href="{{ item.link }}">{{ item.name }}</a>
+            </li>
+            {% endfor %}
+        </ul>
     </nav>
-
 
 </div>

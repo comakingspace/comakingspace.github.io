@@ -34,7 +34,7 @@ body {
     grid-template-columns: 1fr 8fr 1fr 1fr;
     grid-template-areas:
       ". header header ."
-      ". content sidebar ."
+      ". content content sidebar"
       ". footer footer .";
   }
 }
@@ -64,6 +64,10 @@ body {
   top: 0;
   z-index: 1020;
   background-color: white;
+
+  display: grid;
+  grid-template-rows: auto 3fr 1fr;
+  place-items: center;
 }
 
 .main-content {
