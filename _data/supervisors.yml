@@ -1,8 +1,12 @@
 - name: E
   desc: abcde
+  image: https://place-hold.it/300x400
 - name: F
   desc: fghi
+  image: https://place-hold.it/300x400
 - name: G
   desc: jklmn
+  image: https://place-hold.it/300x400
 - name: H
   desc: op
+  image: https://place-hold.it/300x400

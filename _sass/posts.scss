@@ -1,59 +1,58 @@
-.post{
-    display: grid;
-    grid-row-gap: 2em;
-    //grid-template-rows: 1fr 7fr 3fr;
-    grid-template-columns: 2fr 8fr;
-    grid-template-areas:
-        "picture teaser";
-    padding-top: 1em;
-    padding-bottom: 1em;
-    border-bottom-color: grey;
-    border-bottom-style: dashed;
+%post_grid {
+  display: grid;
+  grid-row-gap: 2em;
+  //grid-template-rows: 1fr 7fr 3fr;
+  column-gap: 0.4rem;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-bottom-color: grey;
+  border-bottom-style: dashed;
+}
+
+.post {
+  grid-template-columns: 2fr 8fr;
+  grid-template-areas: "picture teaser";
+  @extend %post_grid;
+}
+
+.post-alternate {
+  grid-template-columns: 8fr 2fr;
+  grid-template-areas: "teaser picture";
+  @extend %post_grid;
+}
+.post-image {
+  grid-area: picture;
+  float: left;
+  img {
+    border-radius: 0.3rem;
   }
-  
-  .post-alternate{
-    display: grid;
-    grid-row-gap: 2em;
-    //grid-template-rows: 1fr 7fr 3fr;
-    grid-template-columns: 8fr 2fr;
-    grid-template-areas:
-        "teaser picture";
-    padding-top: 1em;
-    padding-bottom: 1em;
-    border-bottom-color: grey;
-    border-bottom-style: dashed;
-  }
-  
+}
+.post-teaser {
+  grid-area: teaser;
+  float: right;
+  flex-wrap: nowrap;
+}
+.post-teaser-title {
+  width: 100%;
+  flex-wrap: nowrap;
+}
+.post-teaser-content {
+  width: 100%;
+  flex-wrap: nowrap;
+}
+
+@media only screen and (max-width: 576px) {
+  //padding-bottom: 30rem;
   .post-image {
-    grid-area: picture;
-    float: left;
+    width: 100%;
   }
   .post-teaser {
-    grid-area: teaser;
-    float: right;
-    flex-wrap: nowrap;
+    width: 100%;
   }
   .post-teaser-title {
     width: 100%;
-    flex-wrap: nowrap;
   }
   .post-teaser-content {
     width: 100%;
-    flex-wrap: nowrap;
   }
-  
-  @media only screen and (max-width: 576px) {
-    //padding-bottom: 30rem;
-    .post-image {
-      width: 100%;
-    }
-    .post-teaser {
-      width: 100%;
-    }
-    .post-teaser-title {
-      width: 100%;
-    }
-    .post-teaser-content {
-      width: 100%;
-    }
-  }
+}

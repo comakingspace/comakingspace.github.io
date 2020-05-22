@@ -22,7 +22,7 @@ Hier findet ihr unsere Leiter. Diese sorgen dafür, dass "der Laden läuft":
 
 <div class="team">
 {% for item in site.data.managers %}
-  <div class="{% cycle 'team-regular', 'team-alternate' %}">
+  <div class="{% cycle 'team-regular', 'team-regular' %}">
     <div class="team-image">
       <img src="{{item.image}}">
     </div>

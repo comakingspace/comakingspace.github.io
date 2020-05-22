@@ -1,3 +1,15 @@
+%team_grid {
+  display: grid;
+  //grid-row-gap: 2em;
+  //grid-template-rows: 1fr 7fr 3fr;
+
+  column-gap: 0.4rem;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  border-bottom-color: grey;
+  border-bottom-style: dashed;
+}
+
 .team{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -5,40 +17,42 @@
 }
 
 .team-regular{
-    display: grid;
-    grid-row-gap: 2em;
-    //grid-template-rows: 1fr 7fr 3fr;
-    grid-template-columns: 2fr 8fr;
+    @extend %team_grid;
+    // grid-template-columns: 2fr 8fr;
+    // grid-template-areas:
+    //     "picture teaser";
+    grid-template-rows: auto auto;
     grid-template-areas:
-        "picture teaser";
-    padding-top: 1em;
-    padding-bottom: 1em;
-    border-bottom-color: grey;
-    border-bottom-style: dashed;
+        "picture"
+        "teaser";
   }
   
   .team-alternate{
-    display: grid;
-    grid-row-gap: 2em;
-    //grid-template-rows: 1fr 7fr 3fr;
+    @extend %team_grid;
     grid-template-columns: 8fr 2fr;
     grid-template-areas:
         "teaser picture";
-    padding-top: 1em;
-    padding-bottom: 1em;
-    border-bottom-color: grey;
-    border-bottom-style: dashed;
+
   }
   
   .team-image {
     grid-area: picture;
     float: left;
+    place-self: center;
+
+    img {
+      width: 300px;
+      height: 300px;
+      object-fit: cover;
+      border-radius: 75%;
+    }
   }
 
   .team-text {
     grid-area: teaser;
     float: right;
     flex-wrap: nowrap;
+    text-align: justify;
   }
 
   .team-text-name {
@@ -49,4 +63,5 @@
   .team-text-desc {
     width: 100%;
     flex-wrap: nowrap;
+    text-align: justify;
   }

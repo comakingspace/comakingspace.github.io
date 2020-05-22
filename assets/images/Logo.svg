@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="143.51579mm"
-   height="61.938225mm"
-   viewBox="0 0 508.5205 219.46615"
+   width="123.51746mm"
+   height="41.147999mm"
+   viewBox="0 0 437.66028 145.8"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
-   sodipodi:docname="Logo-transparent.svg">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Logo.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,20 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="206.16235"
-     inkscape:cy="125.80175"
+     inkscape:zoom="2"
+     inkscape:cx="289.5935"
+     inkscape:cy="-106.72925"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     fit-margin-top="10"
-     fit-margin-left="10"
-     fit-margin-right="10"
-     fit-margin-bottom="10"
-     inkscape:window-width="1920"
-     inkscape:window-height="1138"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-width="3000"
+     inkscape:window-height="1793"
+     inkscape:window-x="-13"
+     inkscape:window-y="-13"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -48,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,13 +52,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-48.918955,-692.76325)">
+     transform="translate(-84.346096,-728.19631)">
     <path
-       transform="matrix(1,0,-0.10452847,0.99452189,0,0)"
        d="m 279.21381,868.78151 c 0,0 -0.264,0.55935 -8.98564,4.26861 -8.72164,3.70926 -18.31058,5.7604 -28.37597,5.7604 -40.26156,0 -72.9,-32.81822 -72.9,-73.30155 0,-40.48333 32.63844,-73.30155 72.9,-73.30155 10.06539,0 19.65433,2.05114 28.37597,5.7604 8.72163,3.70926 20.42394,12.57783 27.02009,19.21031 l -19.87181,19.88155 -3.63374,-3.61689 c -8.203,-8.16496 -19.43649,-13.28224 -31.89051,-13.28224 -24.90804,0 -45.1,20.30318 -45.1,45.34842 0,25.04525 20.19196,45.34843 45.1,45.34843 12.45402,0 23.21733,-5.63623 23.21733,-5.63623 0,0 1.40212,5.7838 4.85174,11.83909 3.58969,6.30116 9.29254,11.72125 9.29254,11.72125 z"
        id="circle5535"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csssssccsssscsc" />
+       sodipodi:nodetypes="csssssccsssscsc"
+       transform="matrix(1,0,-0.10452847,0.99452189,0,0)" />
     <path
        inkscape:connector-curvature="0"
        d="m 310.8064,744.89636 c 9.9,-1.1 18.7,-1.6 26.6,-1.6 3.6,0 6.4,1.1 8.4,3.3 2,2.2 2.7,5.1 2.4,8.7 l -3.3,31.2 h -12.4 l -0.4,-4 c -2.7,1.7 -5.4,2.9 -8.1,3.6 -2.7,0.8 -5,1.2 -6.8,1.2 h -2.8 c -3.6,0 -6.4,-1.1 -8.4,-3.3 -2,-2.2 -2.7,-5.1 -2.4,-8.7 l 0.4,-3.6 c 0.4,-3.6 1.8,-6.5 4.2,-8.7 2.4,-2.2 5.4,-3.3 9.1,-3.3 h 16.4 l 0.3,-3.2 c 0.1,-0.8 -0.1,-1.5 -0.6,-2 -0.5,-0.5 -1.1,-0.8 -1.9,-0.8 -3.5,0 -7.3,0.2 -11.5,0.5 -4.2,0.3 -7.6,0.6 -10.2,0.7 z m 11.5,31.2 c 2.8,0 6.1,-0.5 9.8,-1.6 l 0.5,-4.8 h -11.6 c -0.8,0 -1.5,0.3 -2.1,0.8 -0.6,0.5 -0.9,1.2 -1,2 l -0.1,0.8 c -0.1,0.8 0.1,1.5 0.6,2 0.5,0.5 1.1,0.8 1.9,0.8 z"

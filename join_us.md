@@ -3,19 +3,12 @@ layout: default
 title: Mach mit
 permalink: /mach_mit/
 ---
-ToDos:
-==
-* Ersten Absatz in Markdown schreiben
-* Letzte membership ggf. anders stylen
+## ToDos:
 * Link "Lerne uns kennen" stylen
 
-<div class="first_paragraph">
-<h4>WIE DAS GANZE FUNKTIONIERT</h4>
-<p>
+### WIE DAS GANZE FUNKTIONIERT 
 Wir haben unseren CoMakingSpace als gemeinnützige GmbH gegründet. Dadurch können wir passende Räumlichkeiten mieten, Versicherungen abschließen etc. und diese Rechtsform bietet eine solide Grundlage für eine Gemeinschaftswerkstatt mit Bestand.
-</p>
-<small>Offene Werkstatt und Makerspace in Heidelberg</small>
-</div>
+
 
 <div class="membership-blocks">
     {% for item in site.data.memberships %}

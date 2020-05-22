@@ -18,16 +18,18 @@
     border-top-right-radius: 40px;
 }
 
-.membership-blocks-rounded-bottom {
-    border-bottom-left-radius: 40px;
-    border-bottom-right-radius: 40px;
-}
 
 .membership-element {
     display: grid;
     grid-template-columns: 2fr 6fr 2fr;
     border: solid 1px black;
     min-height: 193px;
+}
+
+.membership-blocks-rounded-bottom {
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    min-height: 1px;
 }
 
 .membership-element span {
