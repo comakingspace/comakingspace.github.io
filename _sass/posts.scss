@@ -25,6 +25,8 @@
   float: left;
   img {
     border-radius: 0.3rem;
+    max-height: 100%;
+    max-width: 100%;
   }
 }
 .post-teaser {
@@ -35,6 +37,10 @@
 .post-teaser-title {
   width: 100%;
   flex-wrap: nowrap;
+  h2
+  {
+    margin-top: 0rem;
+  }
 }
 .post-teaser-content {
   width: 100%;

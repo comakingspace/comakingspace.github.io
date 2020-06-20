@@ -3,7 +3,7 @@
   //grid-row-gap: 2em;
   //grid-template-rows: 1fr 7fr 3fr;
 
-  column-gap: 0.4rem;
+  column-gap: 0.6rem;
   padding-top: 1em;
   padding-bottom: 1em;
   border-bottom-color: grey;
@@ -13,7 +13,13 @@
 .team{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 10px;
+    grid-gap: 1rem;
+}
+
+@media only screen and (max-width: 980px) {
+  .team {
+    grid-template-columns: auto;
+  }
 }
 
 .team-regular{
@@ -21,6 +27,7 @@
     // grid-template-columns: 2fr 8fr;
     // grid-template-areas:
     //     "picture teaser";
+    min-width: 300px;
     grid-template-rows: auto auto;
     grid-template-areas:
         "picture"
@@ -29,9 +36,11 @@
   
   .team-alternate{
     @extend %team_grid;
-    grid-template-columns: 8fr 2fr;
+    grid-template-rows: auto auto;
     grid-template-areas:
-        "teaser picture";
+         "picture"
+         "teaser"
+         ;
 
   }
   

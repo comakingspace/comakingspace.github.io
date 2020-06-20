@@ -3,10 +3,8 @@ layout: default
 title: Mach mit
 permalink: /mach_mit/
 ---
-## ToDos:
-* Link "Lerne uns kennen" stylen
-
-### WIE DAS GANZE FUNKTIONIERT 
+## WIE DAS GANZE FUNKTIONIERT 
+{: .center}
 Wir haben unseren CoMakingSpace als gemeinnützige GmbH gegründet. Dadurch können wir passende Räumlichkeiten mieten, Versicherungen abschließen etc. und diese Rechtsform bietet eine solide Grundlage für eine Gemeinschaftswerkstatt mit Bestand.
 
 
@@ -23,6 +21,5 @@ Wir haben unseren CoMakingSpace als gemeinnützige GmbH gegründet. Dadurch kön
     {% endfor %}
 </div>
 
-<btn-link href="Kontakt">
-<a href="/contact.html">LERNE UNS KENNEN</a>
-</btn-link>
+[LERNE UNS KENNEN](/contact) 
+{: .center .large-text .space-button }

@@ -1,70 +1,74 @@
 .footer {
-    grid-area: footer;
-    grid-row-start: footer;
-    grid-column-start: footer;
-    grid-row-end: footer;
-    grid-column-end: footer;
-    padding:1em;
-    border-top-style: double;
-    border-color: grey;
-    display: grid;
-    grid-column-gap: 1em;
-    grid-row-gap: 2em;
-    grid-template-columns: 1fr 1fr 1fr;
-    grid-template-areas:
-        "address contact social"
-        "copyright copyright copyright";
+  grid-area: footer;
+  grid-row-start: footer;
+  grid-column-start: footer;
+  grid-row-end: footer;
+  grid-column-end: footer;
+  padding: 1em;
+  border-top-style: double;
+  border-color: grey;
+  display: grid;
+  grid-column-gap: 1em;
+  grid-row-gap: 0.5rem;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-areas:
+    "address contact social"
+    "copyright copyright copyright";
 
-        
-    a {
-      text-decoration: none;
-    }
-  
-    a:link {
-      color: #292929;
-    }
-  
-    a:visited {
-      color: #292929;
-    }
-  
-    a:hover {
-      color: gray;
-      text-underline: none;
-    }
-  
-    a:active {
-      color: #2e2e2e;
-    }
+  a {
+    text-decoration: none;
   }
 
-  .footer-address{
-    grid-area: address;
-    grid-row-start: address;
-    grid-column-start: address;
-    grid-row-end: address;
-    grid-column-end: address;
+  a:link {
+    color: #292929;
   }
-  .footer-contact{
-    grid-area: contact;
-    grid-row-start: contact;
-    grid-column-start: contact;
-    grid-row-end: contact;
-    grid-column-end: contact;
+
+  a:visited {
+    color: #292929;
   }
-  .footer-social{
-    grid-area: social;
-    grid-row-start: social;
-    grid-column-start: social;
-    grid-row-end: social;
-    grid-column-end: social;
-    align-content: right;
+
+  a:hover {
+    color: gray;
+    text-underline: none;
   }
-  .footer-copyright{
-    grid-area: copyright;
-    grid-row-start: copyright;
-    grid-column-start: copyright;
-    grid-row-end: copyright;
-    grid-column-end: copyright;
-    text-align: center;
+
+  a:active {
+    color: #2e2e2e;
   }
+
+  ul{
+    list-style: none;
+    display: contents;
+  }
+}
+
+.footer-address {
+  grid-area: address;
+  grid-row-start: address;
+  grid-column-start: address;
+  grid-row-end: address;
+  grid-column-end: address;
+}
+.footer-contact {
+  grid-area: contact;
+  grid-row-start: contact;
+  grid-column-start: contact;
+  grid-row-end: contact;
+  grid-column-end: contact;
+}
+.footer-social {
+  grid-area: social;
+  grid-row-start: social;
+  grid-column-start: social;
+  grid-row-end: social;
+  grid-column-end: social;
+  align-content: right;
+}
+.footer-copyright {
+  grid-area: copyright;
+  grid-row-start: copyright;
+  grid-column-start: copyright;
+  grid-row-end: copyright;
+  grid-column-end: copyright;
+  text-align: center;
+}

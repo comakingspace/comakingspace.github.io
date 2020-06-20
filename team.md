@@ -46,7 +46,7 @@ Um die Leitung des CoMakingSpace zu unterstützen, übernehmen einige Mitglieder
 
 <div class="team">
     {% for item in site.data.supervisors %}
-  <div class="{% cycle 'team-regular', 'team-alternate' %}">
+  <div class="{% cycle 'team-regular', 'team-regular' %}">
     <div class="team-image">
       <img src="{{item.image}}">
     </div>
