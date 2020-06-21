@@ -1,9 +1,9 @@
-- name: Tom Meister
+- name: Lukas Frese
+  desc: Biologe mit besonderer Vorliebe für Holz, Upcycling und nachhaltigen Konsum. Wenn er nicht gerade anderen Mitgliedern beim Einstieg hilft, experimentiert er im CoMakingSpace am liebsten mit individuellen Möbeln und selbstgebauten Werkzeugen.<br/><br/>Für den CoMakingSpace kümmert sich Lukas vor allem um das Community Management
+  image: /assets/images/Lukas_at_saw.jpg
+- name: John Doe
   desc: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-  image: https://place-hold.it/500x600
-- name: Berty Bacon
-  desc: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-  image: https://place-hold.it/300x400
-- name: Frank Moses
-  desc: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-  image: https://place-hold.it/300x400
+  image: https://place-hold.it/300x300
+- name: Martin Vogel
+  desc: Informatiker und Nerd mit einem Faible für das Handwerk. Privat arbeitet er vor allem gerne an Projekten rund um den Raspberry Pi und Heimautomatisierung.<br/><br/>Für den CoMakingSpace kümmert sich Martin vor allem um Finanzen und IT.  
+  image: /assets/images/Martin_Routing.jpg

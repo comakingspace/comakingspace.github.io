@@ -3,24 +3,11 @@ layout: default
 title: Team
 permalink: /team/
 ---
-ToDos:
-* Namen hinzufügen
-* Bilder hinzufügen
-* Beschreibung hinzufügen
-
-
 Leitung
 =
-  {% for post in site.posts %}
+Hier findet ihr unsere Leiter. Diese sorgen dafür, dass "der Laden läuft".
 
-  {% endfor %}
-
-
-
-Hier findet ihr unsere Leiter. Diese sorgen dafür, dass "der Laden läuft":
-
-
-<div class="team">
+<div class="manager">
 {% for item in site.data.managers %}
   <div class="{% cycle 'team-regular', 'team-regular' %}">
     <div class="team-image">

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+permalink: /
 ---
 
 # WERDE TEIL DER WACHSENDEN MAKER-BEWEGUNG
