@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
@@ -14,8 +14,7 @@ body {
   display: grid;
   grid-column-gap: 1em;
   grid-row-gap: 2em;
-  grid-template-rows: auto 1fr 0fr auto;
-  //grid-template-columns: 1fr 4fr 1fr;
+  grid-template-rows: auto 1fr 0 auto;
   grid-template-areas:
     "header"
     "content"
@@ -46,7 +45,7 @@ body {
     grid-column-gap: 1em;
     grid-row-gap: 2em;
     grid-template-rows: auto auto 1fr auto;
-    grid-template-columns: 1fr 8fr 1fr 1fr;
+    grid-template-columns: 1fr 8fr minmax(265px, 1fr) 1fr;
     grid-template-areas:
       ". header header ."
       ". content sidebar ."
@@ -62,7 +61,7 @@ body {
     grid-column-gap: 1em;
     grid-row-gap: 2em;
     grid-template-rows: auto auto 1fr auto;
-    grid-template-columns: 2fr 4fr 1fr 2fr;
+    grid-template-columns: 2fr 4fr minmax(265px, 1fr) 2fr;
     grid-template-areas:
       ". header header ."
       ". content sidebar ."
@@ -111,6 +110,10 @@ body {
   text-align: center;
   position: sticky;
   top: 5rem;
+
+  .fc-header-toolbar {
+    flex-flow: row wrap;
+  }
 }
 
 html {
