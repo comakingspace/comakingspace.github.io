@@ -1,14 +1,49 @@
-- name: Home
-  link: /
-- name: Mach mit
-  link: /mach_mit/
-- name: Neuigkeiten
-  link: /blog/
-- name: Events
-  link: /calendar/
-- name: Unterstützung
-  link: /support/
-- name: Team
-  link: /team/
-- name: Wiki &#9757;
-  link: https://wiki.comakingspace.de
+home:
+  name:
+    de: Home
+    en: Home
+  link:
+    de: /
+    en: /home/
+join_us:
+  name:
+    de: Mach Mit
+    en: Join Us
+  link:
+    de: /mach_mit/
+    en: /join_us/
+blog:
+  name:
+    de: Neuigkeiten
+    en: News
+  link:
+    de: /neuigkeiten/
+    en: /news/
+events:
+  name:
+    de: Events
+    en: Events
+  link:
+    de: /kalender/
+    en: /calendar/
+support:
+  name:
+    de: Unterstützung
+    en: Support
+  link:
+    de: /unterstuetzung/
+    en: /support/
+team:
+  name:
+    de: Team
+    en: Team
+  link:
+    de: /team_de/
+    en: /team_en/
+wiki:
+  name:
+    de: Wiki &#9757;
+    en: Wiki &#9757;
+  link:
+    de: https://wiki.comakingspace.de
+    en: https://wiki.comakingspace.de

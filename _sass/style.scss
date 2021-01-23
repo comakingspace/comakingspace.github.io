@@ -110,7 +110,9 @@ body {
   text-align: center;
   position: sticky;
   top: 5rem;
-
+  .fc .fc-list-event-title a {
+    word-break: break-word;
+  }
   .fc-header-toolbar {
     flex-flow: row wrap;
   }

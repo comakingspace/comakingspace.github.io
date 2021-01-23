@@ -1,21 +1,39 @@
-- name: Mitgliedschaft
-  desc: Günstige Einstiegsmöglichkeit mit Zugang während aller beaufsichtigten Öffnungszeiten.
+- name: 
+    de: Mitgliedschaft
+    en: Base Membership
+  desc: 
+    de: Günstige Einstiegsmöglichkeit mit Zugang während aller beaufsichtigten Öffnungszeiten.
+    en: Base membership with full access during all supervised opening times.
   price: 25 €
   image: /assets/images/general-tools.png
-- name: Spind
-  desc: Lass deine Materialien und Projekte bei uns, wo du am besten daran arbeiten kannst!
+- name: 
+    de: Spind
+    en: Storage
+  desc: 
+    de: Lass deine Materialien und Projekte bei uns, wo du am besten daran arbeiten kannst!
+    en: Keep your materials and projects on site, where you can work on them conveniently!
   price: + 25 €
   image: /assets/images/locker.png
-- name: 24/7-Zugang
-  desc: Du bekommst deinen eigenen Schlüssel für 24/7-Zugang!
+- name: 
+    de: 24/7-Zugang
+    en: 24/7 Access
+  desc: 
+    de: Du bekommst deinen eigenen Schlüssel für 24/7-Zugang!
+    en: You get your very own key for complete 24/7 access!
   price: + 50 €
   image: /assets/images/key.png
-- name: Fahrzeug-Werkplatz
-  desc: Zum Beispiel für DIY-Wohnmobile!
+- name: 
+    de: Fahrzeug-Werkplatz
+    en: Vehicle Workspace
+  desc: 
+    de: Zum Beispiel für DIY-Wohnmobile!
+    en: e.g. for a camper van conversion!
   price: + 100 €
   image: /assets/images/camper icon.png
 - name: 
-  desc: Alle Preise beziehen sich auf den monatlichen Beitrag für sechsmonatige Mitgliedschaften. <br/>Weitere Optionen findest du auf unserem <a href="https://wiki.comaking.space/images/d/df/Mitgliedsantrag.pdf">Mitgliedsantrag</a> .
+  desc: 
+    de: Alle Preise beziehen sich auf den monatlichen Beitrag für sechsmonatige Mitgliedschaften. <br/>Weitere Optionen findest du auf unserem <a href="https://wiki.comaking.space/images/d/df/Mitgliedsantrag.pdf">Mitgliedsantrag</a>.
+    en: All prices refer to the monthly rate for a three-month membership. <br/>More options can be found on our <a href="https://wiki.comaking.space/images/d/df/Mitgliedsantrag.pdf">membership application form</a>.
   price: 
   image: 
   

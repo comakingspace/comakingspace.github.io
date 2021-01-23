@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Impressum
-permalink: /imprint/
+lang: de
+ref: legal_notice
+permalink: /impressum/
 ---
 
 # ToDos

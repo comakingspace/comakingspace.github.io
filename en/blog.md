@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Neuigkeiten
-lang: de
+title: news
+lang: en
 ref: news
-permalink: /neuigkeiten/
+permalink: /news/
 ---
 
-<h1>Neuigkeiten</h1>
+<h1>Latest Posts</h1>
 
 {% comment %}
   {% for post in site.posts %}

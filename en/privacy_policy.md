@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Privacy Policy
-permalink: /privacy_policy_en/
+lang: en
+ref: privacy_policy
+permalink: /privacy_policy/
 ---
 Privacy Policy
 =

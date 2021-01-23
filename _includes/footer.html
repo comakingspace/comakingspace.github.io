@@ -13,7 +13,7 @@
                 <ul class="list-unstyled">
                         {% for item in site.data.footer_nav %}
                         <li>
-                                <a href="{{ item.link }}">{{ item.name}}</a>
+                                <a href="{{ item[1].link[page.lang] }}">{{ item[1].name[page.lang] }}</a>
 
                         </li>
                         {% endfor %}

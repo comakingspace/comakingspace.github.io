@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Markdown Testing
-lang: de
+lang: en
 ref: markdown_test
 permalink: /md_test/
 ---

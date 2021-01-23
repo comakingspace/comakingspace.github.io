@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Anfahrt & Kontakt
-lang: de
+title: Directions & Contact
+lang: en
 ref: contact
-permalink: /kontakt/
+permalink: /contact/
 ---
 # ToDos
 - Formular link anpassen

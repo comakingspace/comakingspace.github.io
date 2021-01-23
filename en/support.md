@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Unterstützung
-lang: de
+lang: en
 ref: support
-permalink: /unterstuetzung/
+permalink: /support/
 ---
-Wir sind dankbar für die Unterstützung, die wir von den folgendend Organisationen erhalten haben und erhalten:
+We are thankful for the support we have and still are getting from the following organizations:
 <div class="sponsors">
     {% for item in site.data.supporters %}
             <a class="sponsor"  href="{{ item.link }}">

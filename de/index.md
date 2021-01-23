@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Home
+lang: de
+ref: home
 permalink: /
 ---
-
 # WERDE TEIL DER WACHSENDEN MAKER-BEWEGUNG
 {: .center}
 Der Keller ist zu klein oder du würdest die Nachbarn stören? Eine Garage zu mieten ist zu teuer? Lasst uns unsere Werkstatt teilen und die Kosten reduzieren! Dinge im gemeinschaftlich genutzten Raum mit Gleichgesinnten zu erschaffen hat viele Vorteile: zum Beispiel gibt es jede Menge Platz, über den man sich vorübergehend ausbreiten kann, und Geräte die man sich alleine nicht leisten würde weil man sie selten benötigt oder sie schlicht zu teuer sind.
@@ -35,7 +36,7 @@ Zahlreiche ehrenamtliche Tutoren helfen dir in unserem Space, deine verrückten 
   
 {% endfor %}
 
-Weitere Neuigkeiten findest du in unserem [Blog](/blog/). 
+Weitere Neuigkeiten findest du in unserem [Blog](/neuigkeiten/). 
 
 # Bildung umdenken: Gemeinsam & gemeinschaftlich lernen
 “Making” ist eine Lebenseinstellung und man lernt nie aus. Jedes Projekt ist eine Chance, daran zu wachsen, und es gibt immer neue Erfahrungen zu machen! Deshalb bieten wir eine solidarische, gemeinschaftsbasierte Ressource die den Einzelnen hilft, ihre persönlichen Fähigkeiten weiterzuentwickeln.

@@ -1,6 +1,21 @@
-- name: Anfahrt & Kontakt
-  link: /contact/
-- name: Datenschutzerklärung
-  link: /privacy_policy/
-- name: Impressum
-  link: /imprint/
+contact:
+  name:
+    de: Anfahrt & Kontakt
+    en: Contact
+  link:
+    de: /kontakt/
+    en: /contact/
+privacy_policy:
+  name:
+    de: Datenschutzerklärung
+    en: Privacy Policy
+  link:
+    de: /datenschutz/
+    en: /privacy_policy/
+legal_notice:
+  name:
+    de: Impressum
+    en: Legal Notice
+  link:
+    de: /impressum/
+    en: /legal_notice/

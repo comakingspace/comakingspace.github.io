@@ -21,9 +21,25 @@
         <ul>
             {% for item in site.data.header_nav %}
             <li class="{% if page.url == item.link %}active{% endif %}">
-                <a href="{{ item.link }}">{{ item.name }}</a>
+                <a href="{{ item[1].link[page.lang] }}">{{ item[1].name[page.lang] }}</a>
             </li>
             {% endfor %}
+
+            {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+            {% for post in posts %}
+                <li>
+                <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+                </li>
+            {% endfor %}
+            
+            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+            {% for page in pages %}
+                <li>
+                <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+                </li>
+            {% endfor %}
+
+
         </ul>
     </nav>
 
