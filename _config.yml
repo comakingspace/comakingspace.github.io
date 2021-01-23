@@ -26,6 +26,14 @@ url: "comakingspace.github.io" # the base hostname & protocol for your site, e.g
 twitter_username: comakingspace
 github_username: comakingspace
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      ref: "default_ref"
+      lang: "de"
+
 # Build settings
 markdown: kramdown
 kramdown:

@@ -1,4 +1,5 @@
 
+{% assign same_lang_posts=site.posts | where:"lang", page.lang %}
 {% for post in site.posts %}
 <div class="{% cycle 'post', 'post' %}">
   <div class="post-image">
