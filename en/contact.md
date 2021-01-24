@@ -28,12 +28,12 @@ The best way is to just step by during our [Opening Hous](/calendar)!
 
 Alternatively, just send us an [e-mail](mailto://info@comaking.space) or fill out our contact form:
 
-<form id="contact-form" class="contact-form" action="//api.comakingspace.org/contact" method="post" enctype="application/x-www-form-urlencoded">
+<form id="contact-form" class="contact-form" action="https://contact.comakingspace.de" method="post" enctype="application/x-www-form-urlencoded">
     <label for="name">Name*</label>
-    <input type="text"  id="name" placeholder="Your name" required>
+    <input type="text"  id="name" name="name" placeholder="Your name" required>
     <label for="email">Your e-mail address*</label>
-    <input type="email"  id="email" placeholder="Your e-mail address" required>
+    <input type="email"  id="email" name="email" placeholder="Your e-mail address" required>
     <label for="message">Message*</label>
-    <textarea  id="message" rows="3" required></textarea>
+    <textarea  id="message" name="message" rows="3" required></textarea>
     <input type="submit" value="Send" />
 </form>
