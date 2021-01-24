@@ -1,9 +1,9 @@
 - name: Lukas Frese
   desc: 
     de: Biologe mit besonderer Vorliebe für Holz, Upcycling und nachhaltigen Konsum. Wenn er nicht gerade anderen Mitgliedern beim Einstieg hilft, experimentiert er im CoMakingSpace am liebsten mit individuellen Möbeln und selbstgebauten Werkzeugen.<br/><br/>Für den CoMakingSpace kümmert sich Lukas vor allem um das Community Management
-    en: Testing english description
+    en: Biologist with a special affection for wood, upcycling and sustainable consumption. If he´s not helping other members with their projects, he likes to experiment with furniture and selfe-made tools.<br/><br/>At the CoMakingSpace, Lukas is taking care of the community management.
   image: /assets/images/Lukas_at_saw.jpg
-- name: John Doe
+- name: Patrick Kübler
   desc:  
     de: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
     en: Testing english description
@@ -11,5 +11,5 @@
 - name: Martin Vogel
   desc:  
     de: Informatiker und Nerd mit einem Faible für das Handwerk. Privat arbeitet er vor allem gerne an Projekten rund um den Raspberry Pi und Heimautomatisierung.<br/><br/>Für den CoMakingSpace kümmert sich Martin vor allem um Finanzen und IT.  
-    en: Testing english description
+    en: Technology enthusiast and nerd with a soft spot for craftmanship. In his private life, he likes to work on projects around the Raspberry Pi and home automation.<br/><br/>At the CoMakingSpace, Martin is taking care of finance and IT.
   image: /assets/images/Martin_Routing.jpg

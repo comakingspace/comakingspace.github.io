@@ -8,32 +8,32 @@ permalink: /contact/
 # ToDos
 - Formular link anpassen
 
-# So erreichst du uns
-[![Anfahrtsbeschreibung ](https://wiki.comakingspace.de/images/b/be/Businesscard_Map_Arrowless.svg "Anfahrtsbeschreibung zum CoMakingSpace Heidelberg")
-Auf Openstreetmap anzeigen
+# How to get to us?
+[![Directions Sketch](https://wiki.comakingspace.de/images/b/be/Businesscard_Map_Arrowless.svg "Directions sketch to the CoMakingSpace Heidelberg")
+Show on Openstreetmap
 ](https://www.openstreetmap.org/?mlat=49.40833&amp;mlon=8.64655#map=19/49.40833/8.64655){:target="_blank"}
 
-#### Mit der Straßenbahn: 
-Nimm die Straßenbahnlinie 5 bis zur Haltestelle Heidelberg Ochsenkopf. Von dort aus kannst du durch die Unterführung unter den Bahnlinien zur Henkel-Terosonstraße laufen, die du überquerst. Durch die Hans-Bunte Straße kommst du zur Siemensstraße. Dort biegst du rechts ab und läufst zur Hausnummer 40. Dann wieder rechts und du bist auf dem Gelände.
-#### Mit dem Zug:
-Nimm die S3 bis Heidelberg Pfaffengrund/Wieblingen. Auf der Brücke läufst du Richtung Pfaffengrund. Bei der Hand-Bunte Straße biegst du links ab und läufst bis zu Siemensstraße. Dort biegst du wieder links ab und läufst bis zur Hausnummer 40. Dort biegst du rechts ab und du bist auf dem Gelände.
-#### Mit dem Bus
-Mit dem Bus nimmst du die Linie 34 bis zur Hans-Bunte Straße. Die Hans-Bunte Straße gehst du entlang bis zur Siemensstraße. Dort biegst du links ab und läufst bis zur Hausnummer 40. Dort biegst du rechts ab und du bist auf dem Gelände.
+#### By Tram: 
+Take Tram 5 to Heidelberg Ochsenkopf. From there, walk below the tram lines and cross Henkel-Terosonstraße in order to enter Hans-Bunte Straße. Take a right at Siemensstraße and get to number 40. Take a right and enter the area.
+#### By Train: 
+Take S3 to Heidelberg Pfaffengrund/Wieblingen. On the bridge, walk towards Pfaffengrund. Take a right at Hans-Bunte Straße and a left at Siemensstraße. Get to number 40 and take a right to enter the area.
+#### By Bus: 
+Take Bus 34 to Hans-Bunte Straße. Enter Hans-Bunte Straße and walk towards Siemensstraße. Take a left at Siemensstraße and get to number 40. Take a right and enter the area.
 
-Den CoMakingSpace kannst du an den "CoMakingSpace" Schilder identifizieren!
+You can identify our part of the hall by the "CoMakingSpace" signs!
 
-# So kannst du uns kontaktieren
+# Contact us
 
-Am besten ist es, wenn du während unserer [Öffnungszeiten](/calendar) einfach vorbei kommst!
+The best way is to just step by during our [Opening Hous](/calendar)!
 
-Alternativ kannst du uns auch einfach eine [E-Mail](mailto://info@comaking.space) schicken oder das Formular ausfüllen:
+Alternatively, just send us an [e-mail](mailto://info@comaking.space) or fill out our contact form:
 
 <form id="contact-form" class="contact-form" action="//api.comakingspace.org/contact" method="post" enctype="application/x-www-form-urlencoded">
     <label for="name">Name*</label>
-    <input type="text"  id="name" placeholder="Dein Vor-und Nachname" required>
-    <label for="email">E-Mail Adresse*</label>
-    <input type="email"  id="email" placeholder="Deine E-Mail Adresse" required>
+    <input type="text"  id="name" placeholder="Your name" required>
+    <label for="email">Your e-mail address*</label>
+    <input type="email"  id="email" placeholder="Your e-mail address" required>
     <label for="message">Message*</label>
     <textarea  id="message" rows="3" required></textarea>
-    <input type="submit" value="Senden" />
+    <input type="submit" value="Send" />
 </form>

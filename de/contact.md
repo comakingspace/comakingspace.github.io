@@ -24,7 +24,7 @@ Den CoMakingSpace kannst du an den "CoMakingSpace" Schilder identifizieren!
 
 # So kannst du uns kontaktieren
 
-Am besten ist es, wenn du während unserer [Öffnungszeiten](/calendar) einfach vorbei kommst!
+Am besten ist es, wenn du während unserer [Öffnungszeiten](/kalender) einfach vorbei kommst!
 
 Alternativ kannst du uns auch einfach eine [E-Mail](mailto://info@comaking.space) schicken oder das Formular ausfüllen:
 

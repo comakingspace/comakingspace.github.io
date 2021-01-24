@@ -47,6 +47,6 @@ Find more news in our [Blog](/news/).
 # Rethink education: learn together in a community
 "Making" is a lifestyle and you never stop learning. Each project is a change to grow and gather new experiences! This is the reason why we offer shared resources helping individuals to grow their individual skills.
 
-Der CoMakingSpace ist der ideale Ort, um Mitstreiter für deine verrückten Projekte zu finden. Gemeinsam etwas zu gestalten ist eine hervorragende Möglichkeit, Fähigkeiten zu erlernen und weiterzugeben. "Learning by doing", wie es richtig Spaß macht!
+The CoMakingSpace is the ideal place to find the resources to turn your crazy ideas and project into life. Creating something together is an outstanding opportunity to develope new skills and help other. Learning by doing is how learning is fun"
 
-Außerdem sind wir eine freundliche Gemeinschaft, die Inspiration oder neue Erkenntnisse in deine Arbeit einbringen kann. Mitstreiter für größere Unterfangen zu finden oder einfach in Ruhe im Sozialbereich zu reden ist genauso wichtig wie wirklich einen Hammer zu schwingen! 
+Apart from that, we are also a nice community which can add additional inspiration or knowledge to your work. Exchanging ideas and skills for larger projects or chilling in our social area is just as important as working in the workshop!

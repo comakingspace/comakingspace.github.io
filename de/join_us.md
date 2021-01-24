@@ -12,5 +12,5 @@ Wir haben unseren CoMakingSpace als gemeinnützige GmbH gegründet. Dadurch kön
 
 {%- include common_sites/membership_options.md -%}
 
-[LERNE UNS KENNEN](/contact) 
+[LERNE UNS KENNEN](/kontakt) 
 {: .center .large-text .space-button }
