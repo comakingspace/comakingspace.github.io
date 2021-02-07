@@ -14,6 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+plugins:
+  - jekyll-seo-tag
+
 title: CoMakingSpace - Heidelberg's Community Makerspace|Let's MAKE a difference together!
 email: info@comakingspace.org
 description: >- # this means to ignore newlines until "baseurl:"
@@ -22,9 +25,20 @@ description: >- # this means to ignore newlines until "baseurl:"
   that is built on a combination of Makerspace and Co-Working concepts.
   It is also similar to a FabLab or Hackerspace in many ways - in short: your space for all things "DIY"!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "comakingspace.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: comakingspace
+url: "https://comakingspace.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "/assets/images/CoMakingSpaceLogo.png"
+twitter:
+  username: comakingspace
+  card: summary
 github_username: comakingspace
+social:
+  name: CoMakingSpace
+  links:
+    - https://twitter.com/comakingspace
+    - https://www.facebook.com/comakingspace
+    - https://www.linkedin.com/company/comakingspace
+    - https://github.com/comakingspace
+    - https://www.instagram.com/comakingspace
 
 defaults:
   -
