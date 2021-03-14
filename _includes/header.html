@@ -1,6 +1,6 @@
 <div class="header">
     <div class="disclaimer">
-        DISCLAIMER: This is just a test so far! <br/>
+        DISCLAIMER: This is just a test so far! <br />
         Please check out our official site at <a href="https://comakingspace.org/">www.comakingspace.org/</a> for
         further
         information about our organization.
@@ -15,47 +15,55 @@
     <nav id="page-nav">
         <!--         [THE HAMBURGER]-->
         <label for="hamburger">&#9776;</label>
-        <input type="checkbox" id="hamburger"/>
+        <input type="checkbox" id="hamburger" />
 
         <!-- [MENU ITEMS] -->
         <ul>
             {%- comment -%}
             {% if page.ref %}
-                <li>
+            <li>
                 TRUE
-                </li>
-                {% assign reference=page.ref %}
+            </li>
+            {% assign reference=page.ref %}
             {% else %}
             {% assign reference='' %}
-                <li>
-                    FALSE "{{reference}}" 
-                    </li>
+            <li>
+                FALSE "{{reference}}"
+            </li>
             {% endif %}
             {%- endcomment -%}
 
             {% for item in site.data.header_nav %}
-            <li class="{% if page.url == item.link %}active{% endif %}">
-                <a href="{{ item[1].link[page.lang] }}">{{ item[1].name[page.lang] }}</a>
-            </li>
+                <li class="{% if page.url == item.link %}active{% endif %}">
+                    <a href="{{ item[1].link[page.lang] }}">{{ item[1].name[page.lang] }}</a>
+                </li>
             {% endfor %}
 
             {% if page.ref == "default_ref" %}
             {% else %}
-                {% assign same_posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+                {% assign same_posts = site.posts | where: "ref", page.ref | sort: 'lang' %}
                 {% for post in same_posts %}
                     <li>
-                    <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+                        <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
                     </li>
                 {% endfor %}
 
-                {% assign same_pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-                {% for page in same_pages %}
+                {% assign same_pages = site.pages | where: "ref", page.ref | sort: 'lang' %}
+                {% if same_pages.size == 1 %}
                     <li>
-                    <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+                        <a href="{{ same_pages[0].url }}" class="de">de</a>
                     </li>
-                {% endfor %}
+                    <li>
+                        <a href="{{ same_pages[0].url }}" class="en">en</a>
+                    </li>
+                {% else %}
+                    {% for page in same_pages %}
+                        <li>
+                            <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a>
+                        </li>
+                    {% endfor %}
+                {% endif %}
             {% endif %}
-
 
 
         </ul>

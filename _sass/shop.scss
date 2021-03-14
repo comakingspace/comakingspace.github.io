@@ -1,0 +1,19 @@
+.shop-form {
+  border-radius: 5px;
+  border: 1px darkgray solid;
+  padding: 1rem;
+
+
+  input[type="text"],input[type="email"] {
+    width: 100%;
+    height: 1.9rem;
+    margin-bottom: 1rem;
+  }
+
+  input[type="submit"] {
+    @extend .space-button;
+
+    border: none;
+    cursor: pointer;
+  }
+}

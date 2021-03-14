@@ -44,6 +44,17 @@ wiki:
   name:
     de: Wiki &#9757;
     en: Wiki &#9757;
+tor4:
+  name:
+    de: Tor 4
+    en: Tor 4
   link:
-    de: https://wiki.comakingspace.de
-    en: https://wiki.comakingspace.de
+    de: /tor4/
+    en: /tor4/
+shop:
+  name:
+    de: Shop
+    en: Shop
+  link:
+    de: /shop/
+    en: /shop/
