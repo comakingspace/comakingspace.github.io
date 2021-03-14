@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Access allowed again"
-date: 2021-03-12 00:00:00 +0200
+title: "Werkstattnutzung wieder möglich"
+date: 2021-03-12 09:00:00 +0200
 author: Martin
 image: /assets/images/Logo.svg
 lang: de
