@@ -21,8 +21,7 @@ title: CoMakingSpace - Heidelberg's Community Makerspace|Let's MAKE a difference
 email: info@comakingspace.org
 description: >- # this means to ignore newlines until "baseurl:"
   CoMakingSpace - Community Workshop in Heidelberg.
-  The CoMakingSpace is an open workshop in Heidelberg
-  that is built on a combination of Makerspace and Co-Working concepts.
+  The CoMakingSpace is an open workshop / makerspace for Makers from all backgrounds. We aim to provide everyone with the tools, space and skills to make whatever they come up with.
   It is also similar to a FabLab or Hackerspace in many ways - in short: your space for all things "DIY"!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://comakingspace.github.io" # the base hostname & protocol for your site, e.g. http://example.com
