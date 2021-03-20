@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Werkstattnutzung wieder möglich"
-date: 2021-03-12 09:00:00 +0200
+date: 2021-03-12 
 author: Martin
 image: /assets/images/Logo.svg
 lang: de

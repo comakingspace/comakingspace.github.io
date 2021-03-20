@@ -1,6 +1,6 @@
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
     <link rel="stylesheet" href="/assets/css/main.css">
 
     <link rel="shortcut icon"
@@ -9,5 +9,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <title>CoMakingSpace | {{page.title}}</title>
-    {% seo title=false %}
+    {%- include seo_general.html -%}
+    {%- include schemas/website.html -%}
+    {%- include schemas/localBusiness.html -%}
 </head>

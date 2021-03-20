@@ -14,15 +14,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-title: CoMakingSpace - Heidelberg's Community Makerspace|Let's MAKE a difference together!
+title: 
+  de: CoMakingSpace - Offene Werkstatt und Makerspace in Heidelberg|Let's MAKE a difference together
+  en: CoMakingSpace - Heidelberg's Community Makerspace|Let's MAKE a difference together!
 email: info@comakingspace.org
-description: >- # this means to ignore newlines until "baseurl:"
-  CoMakingSpace - Community Workshop in Heidelberg.
-  The CoMakingSpace is an open workshop / makerspace for Makers from all backgrounds. We aim to provide everyone with the tools, space and skills to make whatever they come up with.
-  It is also similar to a FabLab or Hackerspace in many ways - in short: your space for all things "DIY"!
+postal_code: 69123
+street_address: Siemensstraße 40
+country: DE
+latitude: 49.4083074
+longitude: 8.6465549
+
+description: 
+  en: >- # this means to ignore newlines until "baseurl:"
+    CoMakingSpace - Community Workshop in Heidelberg.
+    The CoMakingSpace is an open workshop / makerspace for Makers from all backgrounds. We aim to provide everyone with the tools, space and skills to make whatever they come up with.
+    It is also similar to a FabLab or Hackerspace in many ways - in short: your space for all things "DIY"!
+  de: >-
+    CoMakingSpace - Gemeinschaftswerkstatt in Heidelberg.
+    Der CoMakingSpace ist eine offene Werkstatt in Heidelberg, deren Fokus neben dem Makerspace als Ort vor allem auf der Communit liegt. 
+    Auch mit einem FabLab oder Hackerspace gibt es viele Parallelen - kurz: dein Raum zum Selbermachen!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://comakingspace.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/images/CoMakingSpaceLogo.png"
@@ -39,14 +49,6 @@ social:
     - https://github.com/comakingspace
     - https://www.instagram.com/comakingspace
 
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      ref: "default_ref"
-      lang: "de"
-
 # Build settings
 markdown: kramdown
 kramdown:
@@ -57,3 +59,5 @@ social_links:
     github:  comakingspace
     facebook: comakingspace
     instagram: comakingspace
+
+timezone: Europe/Berlin
