@@ -2,6 +2,8 @@
 layout: default
 title: Home
 permalink: /index_old/
+sitemap:
+    exclude: yes
 ---
 
 <link rel="stylesheet" href="assets/css/index.css">

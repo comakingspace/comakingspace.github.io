@@ -28,7 +28,7 @@ Zahlreiche ehrenamtliche Tutoren helfen dir in unserem Space, deine verrückten 
   
 <div class="{% cycle 'post', 'post' %}">
 <div class="post-image">
-  <a href="{{ post.url }}"><img src="{{post.image}}"></a>
+  <a href="{{ post.url }}"><img src="{{post.image}}" alt="{{post.title}}"></a>
 </div>
 <div class="post-teaser">
   <div class="post-teaser-title">
