@@ -36,9 +36,21 @@
     color: #2e2e2e;
   }
 
-  ul{
+  ul {
     list-style: none;
     display: contents;
+  }
+}
+
+@media (max-width: 500px) {
+  .footer {
+    grid-template-columns: auto;
+    grid-template-rows: auto auto auto auto;
+    grid-template-areas:
+        "address"
+        "contact"
+        "social"
+        "copyright";
   }
 }
 
@@ -49,6 +61,7 @@
   grid-row-end: address;
   grid-column-end: address;
 }
+
 .footer-contact {
   grid-area: contact;
   grid-row-start: contact;
@@ -56,6 +69,7 @@
   grid-row-end: contact;
   grid-column-end: contact;
 }
+
 .footer-social {
   grid-area: social;
   grid-row-start: social;
@@ -64,6 +78,7 @@
   grid-column-end: social;
   align-content: right;
 }
+
 .footer-copyright {
   grid-area: copyright;
   grid-row-start: copyright;

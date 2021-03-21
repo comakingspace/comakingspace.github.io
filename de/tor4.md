@@ -7,7 +7,7 @@ permalink: /tor4/
 ---
 
 
-![TOR4 Logo](/assets/images/basf_tor4.png "Tor4 Logo"){:class="img-center"}
+![TOR4 Logo](/assets/images/basf_tor4.png "Tor4 Logo"){: .img-center .img-responsive}
 
 
 # YOU CAN MAKE IT!
@@ -17,7 +17,7 @@ permalink: /tor4/
 
 Wie geht Freiheit wirklich? Wir sagen: indem man umsetzt, was immer man sich vornimmt! 
 
-| Vor dem ersten Schritt zur kreativen Selbstverwirklichung steht jedoch leider häufig eine hohe “ich kann das doch bestimmt nicht”-Barriere. Um diese zu durchbrechen, werden wir im zweiten Halbjahr 2020 mit freundlicher Unterstützung der BASF eine öffentliche Kursreihe mit handwerklich- künstlerischen Projekten anbieten, die bei Interessierten die Begeisterung für die projektgetriebene Selbstentwicklung entfachen. | ![Recard Player](/assets/images/recard_player.jpeg) *Der selbstgebaute “ReCard Player” ermöglicht die Rückkehr zu greifbaren, bewusst auszuwählenden Tonträgern in einer digitalen Medienbibliothek* |
+| Vor dem ersten Schritt zur kreativen Selbstverwirklichung steht jedoch leider häufig eine hohe “ich kann das doch bestimmt nicht”-Barriere. Um diese zu durchbrechen, werden wir im zweiten Halbjahr 2020 mit freundlicher Unterstützung der BASF eine öffentliche Kursreihe mit handwerklich- künstlerischen Projekten anbieten, die bei Interessierten die Begeisterung für die projektgetriebene Selbstentwicklung entfachen. | ![Recard Player](/assets/images/recard_player.jpeg){: .img-responsive} *Der selbstgebaute “ReCard Player” ermöglicht die Rückkehr zu greifbaren, bewusst auszuwählenden Tonträgern in einer digitalen Medienbibliothek* |
 
 Ein wichtiges Kernkonzept unserer Gemeinschaft ist der freie Austausch: Die spontane Entwicklung neuer Ideen und das gegenseitige Vermitteln von neuen Fähigkeiten. Nach den ersten Schritten in der Werkstatt beobachten wir immer wieder, dass Teilnehmer sich rasch Wissen und Selbstbewusstsein für die Umsetzung neuer und komplexer Ideen aneignen. Diese Selbstverwirklichung ist eine Form der Freiheit in zweierlei Hinsicht: Die des eigenen künstlerischen Ausdrucks, und die der Unabhängigkeit vom vorgegebenen Marktangebot. 
 

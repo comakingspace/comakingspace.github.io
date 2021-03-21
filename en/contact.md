@@ -5,8 +5,6 @@ lang: en
 ref: contact
 permalink: /contact/
 ---
-# ToDos
-- Formular link anpassen
 
 # How to get to us?
 [![Directions Sketch](https://wiki.comakingspace.de/images/b/be/Businesscard_Map_Arrowless.svg "Directions sketch to the CoMakingSpace Heidelberg")
@@ -34,6 +32,6 @@ Alternatively, just send us an [e-mail](mailto://info@comaking.space) or fill ou
     <label for="email">Your e-mail address*</label>
     <input type="email"  id="email" name="email" placeholder="Your e-mail address" required>
     <label for="message">Message*</label>
-    <textarea  id="message" name="message" rows="3" required></textarea>
+    <textarea  id="message" name="message" rows="5" required></textarea>
     <input type="submit" value="Send" />
 </form>

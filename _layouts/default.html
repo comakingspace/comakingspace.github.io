@@ -8,9 +8,11 @@
     <div class="main-content">
         {{content}}
         </div>
-
     </div>
-    {%- include sidebar.html -%}
+
+    {% unless page.ref == 'calendar' %}
+        {%- include sidebar.html -%}
+    {% endunless %}
     {%- include footer.html -%}
 
 
