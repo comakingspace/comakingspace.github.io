@@ -4,6 +4,8 @@ title: Unterstützung
 lang: en
 ref: support
 permalink: /support/
+sitemap:
+    expclude: yes
 ---
 We are thankful for the support we have and still are getting from the following organizations:
 <div class="sponsors">

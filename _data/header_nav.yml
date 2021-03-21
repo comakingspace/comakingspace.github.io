@@ -26,17 +26,17 @@ events:
   link:
     de: /kalender/
     en: /calendar/
-support:
-  name:
-    de: Unterstützung
-    en: Support
-  link:
-    de: /unterstuetzung/
-    en: /support/
+#support:
+#  name:
+#    de: Unterstützung
+#    en: Support
+#  link:
+#    de: /unterstuetzung/
+#    en: /support/
 team:
   name:
-    de: Team
-    en: Team
+    de: Helfer
+    en: Helpers
   link:
     de: /team_de/
     en: /team_en/
