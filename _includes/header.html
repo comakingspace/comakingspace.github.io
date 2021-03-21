@@ -22,7 +22,7 @@
                     </li>
                 {% else %}
                     <li>
-                        <a href="{{ item[1].outside_link }}" target="_blank">{{ item[1].name[lang] }}</a>
+                        <a href="{{ item[1].outside_link }}" target="_blank" rel="noreferrer">{{ item[1].name[lang] }}</a>
                     </li>
                 {% endif %}
             {% endfor %}
@@ -61,7 +61,7 @@
     </nav>
     <div class="logo">
         <a href="/">
-            <img src="/assets/images/Logo.svg">
+            <img src="/assets/images/Logo.svg" alt="CoMakingSpace Logo">
         </a>
         <!-- <p>Heidelberg's Community Makerspace</p> -->
     </div>
