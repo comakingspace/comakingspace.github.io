@@ -8,9 +8,15 @@ permalink: /home/
  
 # COME AND JOIN THE GROWING MAKER MOVEMENT
 {: .center}
+
+![Banner](/assets/images/banner.png "Banner"){: .img-center}
+
 The basement is too small or you would disturb the neighbors? Renting a garage is too expensive? Let's share our workshop and split the cost!
 The CoMakingSpace is an open workshop for Makers from all backgrounds. We aim to provide everyone with the tools, space and skills to make whatever they come up with.
 Wouldn't it be awesome if you could work on your projects any time, even after work hours? You just need a large workshop with proper tools in easy reach.
+
+[GET IN TOUCH](/contact) 
+{: .center .large-text .space-button }
 
 This idea is not new: the so-called Maker Movement started years before we became active in Heidelberg and is a worldwide phenomenon driven by a vast community of Makers who want to regain control over the objects surrounding us in our everyday life. The workshops they maintain for this purpose are also called "Makerspaces" or "Fablabs". Besides being highly innovative, the principle of local or "desktop" design and fabrication has the potential to replace conventional industry in certain sectors as the importance of sustainability is increasingly acknowledged.
 

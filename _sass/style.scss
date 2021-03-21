@@ -120,6 +120,9 @@ body {
   grid-row-end: content;
   grid-column-end: content;
   font-size: 1.2rem;
+  img {
+    max-width: 100%;
+  }
 }
 
 .sidebar {
@@ -216,4 +219,10 @@ html {
 
 .img-responsive {
   max-width: 100%;
+}
+
+.table-align-top {
+  td {
+    vertical-align: top;
+  }
 }

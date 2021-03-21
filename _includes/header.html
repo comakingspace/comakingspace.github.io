@@ -16,7 +16,7 @@
         <!--         [THE HAMBURGER]-->
         <label for="hamburger">&#9776;</label>
         <input type="checkbox" id="hamburger" />
-        {% assign lang = page.lang | default: 'de' %}
+        {% assign lang = page.lang %}
 
         <!-- [MENU ITEMS] -->
         <ul>
@@ -33,7 +33,7 @@
                 {% endif %}
             {% endfor %}
 
-            {% assign reference = page.ref | default: 'default_ref' %}
+            {% assign reference = page.ref %}
 
             {% unless reference == "default_ref" %}
                 {% assign same_posts = site.posts | where: "ref", reference | sort: 'lang' %}

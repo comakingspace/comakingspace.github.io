@@ -61,3 +61,12 @@ social_links:
     instagram: comakingspace
 
 timezone: Europe/Berlin
+
+# The defaults are needed in order to not break the header navigation!
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      ref: "default_ref"
+      lang: "de"
