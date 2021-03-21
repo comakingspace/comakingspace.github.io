@@ -4,6 +4,8 @@ title: Home
 lang: en
 ref: home
 permalink: /home/
+redirect_from:
+  - /startseite/home.html
 ---
  
 # COME AND JOIN THE GROWING MAKER MOVEMENT

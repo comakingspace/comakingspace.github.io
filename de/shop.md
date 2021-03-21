@@ -4,6 +4,8 @@ title: Shop
 lang: de
 ref: shop
 permalink: /shop/
+redirect_from:
+  - /shop.html
 ---
 
 ## Wir haben neue T-Shirts!

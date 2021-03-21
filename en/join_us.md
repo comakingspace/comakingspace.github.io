@@ -4,6 +4,8 @@ title: Join Us
 lang: en
 ref: join_us
 permalink: /join_us/
+redirect_from:
+  - /mach_mit/join_us.html
 ---
 ## HOW IT WORKS
 {: .center}

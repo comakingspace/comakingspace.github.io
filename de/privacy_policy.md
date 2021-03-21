@@ -4,6 +4,8 @@ title: Datenschutzerklärung
 lang: de
 ref: privacy_policy
 permalink: /datenschutz/
+redirect_from:
+  - /datenschutz.html
 ---
 # Datenschutzerklärung
 

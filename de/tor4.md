@@ -4,6 +4,8 @@ title: Tor4
 lang: de
 ref: tor4
 permalink: /tor4/
+redirect_from:
+  - /tor4.html
 ---
 
 

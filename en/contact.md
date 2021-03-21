@@ -4,6 +4,8 @@ title: Directions & Contact
 lang: en
 ref: contact
 permalink: /contact/
+redirect_from:
+  - /kontakt/contact.html
 ---
 
 # How to get to us?
