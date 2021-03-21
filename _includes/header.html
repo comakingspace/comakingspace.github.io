@@ -5,16 +5,10 @@
         further
         information about our organization.
     </div>
-    <div class="logo">
-        <a href="/">
-            <img src="/assets/images/Logo.svg">
-        </a>
-        <!-- <p>Heidelberg's Community Makerspace</p> -->
-    </div>
 
     <nav id="page-nav">
         <!--         [THE HAMBURGER]-->
-        <label for="hamburger">&#9776;</label>
+        <label for="hamburger" style="cursor: pointer;">&#9776;</label>
         <input type="checkbox" id="hamburger" />
         {% assign lang = page.lang %}
 
@@ -53,9 +47,11 @@
                     </li>
                 {% else %}
                     {% for same_page in same_pages %}
-                        <li>
-                            <a href="{{ same_page.url }}" class="{{ same_page.lang }}">{{ same_page.lang }}</a>
-                        </li>
+                        {% unless same_page.ref == 'default_ref' %}
+                            <li>
+                                <a href="{{ same_page.url }}" class="{{ same_page.lang }}">{{ same_page.lang }}</a>
+                            </li>
+                        {% endunless %}
                     {% endfor %}
                 {% endif %}
             {% endunless %}
@@ -63,5 +59,11 @@
 
         </ul>
     </nav>
+    <div class="logo">
+        <a href="/">
+            <img src="/assets/images/Logo.svg">
+        </a>
+        <!-- <p>Heidelberg's Community Makerspace</p> -->
+    </div>
 
 </div>
