@@ -10,7 +10,7 @@ permalink: /shop/
 
 Es gibt jetzt auch die Möglichkeit, uns mit dem Kauf eines schicken T-Shirts zu unterstützen! Für nur **20&nbsp;€** bekommt ihr ein fair produziertes T-Shirt aus Bio-Baumwolle (Fair Wear Foundation) in einer der folgenden Farben:
 
-![T-Shirt](/assets/images/tshirts.png){: .img-center}
+![T-Shirt](/assets/images/tshirts.png){: .img-center .img-responsive}
 
 Da wir uns keinen Vorrat leisten können, sondern erst mit Kenntnis eurer Größen bestellen werden, wird der Auftrag erst nach **25 Bestellungen bzw. spätestens am 15. März 2021** an unsere Drucker weitergegeben und ihr könnt die Shirts dann so bald wie möglich bei uns im Space abholen - bestimmt rechtzeitig zum Sommerwetter!
 

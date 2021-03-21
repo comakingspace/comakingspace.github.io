@@ -6,9 +6,6 @@ ref: home
 permalink: /home/
 ---
  
-# ToDos
-* Translate
-
 # COME AND JOIN THE GROWING MAKER MOVEMENT
 {: .center}
 The basement is too small or you would disturb the neighbors? Renting a garage is too expensive? Let's share our workshop and split the cost!
