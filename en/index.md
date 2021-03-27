@@ -48,8 +48,8 @@ Our volunteers can help you at the CoMakingSpace to make your crazy ideas become
 Find more news in our [Blog](/news/). 
 
 # Rethink education: learn together in a community
-"Making" is a lifestyle and you never stop learning. Each project is a change to grow and gather new experiences! This is the reason why we offer shared resources helping individuals to grow their individual skills.
+"Making" is a lifestyle and you never stop learning. Each project is a chance to grow and gather new experiences! This is the reason why we offer shared resources helping individuals to grow their individual skills.
 
-The CoMakingSpace is the ideal place to find the resources to turn your crazy ideas and project into life. Creating something together is an outstanding opportunity to develope new skills and help other. Learning by doing is how learning is fun"
+The CoMakingSpace is the ideal place to find the resources to turn your crazy ideas and projects into life. Creating something together is an outstanding opportunity to develop new skills and help each other. Learning by doing, the fun way!
 
-Apart from that, we are also a nice community which can add additional inspiration or knowledge to your work. Exchanging ideas and skills for larger projects or chilling in our social area is just as important as working in the workshop!
+Apart from that, we are also a supportive community which can add additional inspiration or knowledge to your work. Exchanging ideas and skills for larger projects or hanging out in our social area is just as important as working in the workshop!
