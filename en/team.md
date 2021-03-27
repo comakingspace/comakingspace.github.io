@@ -7,7 +7,7 @@ permalink: /team_en/
 ---
 Managers
 =
-Here you can see our managers. These ensure that the CoMakingSpace stays "up and running":
+Here you can see our managers. They ensure that the CoMakingSpace stays "up and running":
 
 {%- include common_sites/managers.md -%}
 
