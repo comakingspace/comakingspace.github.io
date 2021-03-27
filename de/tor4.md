@@ -19,7 +19,7 @@ redirect_from:
 
 Wie geht Freiheit wirklich? Wir sagen: indem man umsetzt, was immer man sich vornimmt! 
 
-| Vor dem ersten Schritt zur kreativen Selbstverwirklichung steht jedoch leider häufig eine hohe “ich kann das doch bestimmt nicht”-Barriere. Um diese zu durchbrechen, werden wir im zweiten Halbjahr 2020 mit freundlicher Unterstützung der BASF eine öffentliche Kursreihe mit handwerklich- künstlerischen Projekten anbieten, die bei Interessierten die Begeisterung für die projektgetriebene Selbstentwicklung entfachen. | ![Recard Player](/assets/images/recard_player.jpeg) *Der selbstgebaute “ReCard Player” ermöglicht die Rückkehr zu greifbaren, bewusst auszuwählenden Tonträgern in einer digitalen Medienbibliothek* |
+| Vor dem ersten Schritt zur kreativen Selbstverwirklichung steht jedoch leider häufig eine hohe “ich kann das doch bestimmt nicht”-Barriere. Um diese zu durchbrechen, bieten wir seit dem zweiten Halbjahr 2020 mit freundlicher Unterstützung der BASF eine öffentliche Kursreihe mit handwerklich- künstlerischen Projekten an, die bei Interessierten die Begeisterung für die projektgetriebene Selbstentwicklung entfachen. | ![Recard Player](/assets/images/recard_player.jpeg) *Der selbstgebaute “ReCard Player” ermöglicht die Rückkehr zu greifbaren, bewusst auszuwählenden Tonträgern in einer digitalen Medienbibliothek* |
 {: .table-align-top}
 
 Ein wichtiges Kernkonzept unserer Gemeinschaft ist der freie Austausch: Die spontane Entwicklung neuer Ideen und das gegenseitige Vermitteln von neuen Fähigkeiten. Nach den ersten Schritten in der Werkstatt beobachten wir immer wieder, dass Teilnehmer sich rasch Wissen und Selbstbewusstsein für die Umsetzung neuer und komplexer Ideen aneignen. Diese Selbstverwirklichung ist eine Form der Freiheit in zweierlei Hinsicht: Die des eigenen künstlerischen Ausdrucks, und die der Unabhängigkeit vom vorgegebenen Marktangebot. 
@@ -34,14 +34,14 @@ Während der Kurse werden verschiedene Aspekte der Selbstverwirklichung diskutie
 * **Upcycling,** das Wiederverwenden vermeintlich wertloser Materialien, womit wir auf die weit verbreitete
   Wegwerfmentalität hinweisen und reagieren möchten.
     * [31. Oktober und 1. November](https://www.eventbrite.de/e/120516164091) (zweitägiger Workshop)
-    * [31. Oktober](https://www.eventbrite.de/e/120518362667) (Diskussionsrunde
-        - [hier](https://whereby.com/comakingspace-tor4) könnt ihr online teilnehmen!)
+    * [31. Oktober](https://www.eventbrite.de/e/120518362667) (Diskussionsrunde)
+    * weitere Termine folgen im Frühling 2021!
 
 * **Präzisionstechnik und Kunst** bietet schließlich die Gelegenheit, eigene künstlerische Ideen mit einem modernen
   Laserschneider frei zum Ausdruck zu bringen ohne sich vor schwierigen Detailarbeiten scheuen zu müssen.
     * Nachmittags-Workshops:
-        * [24. Oktober](https://www.eventbrite.de/e/120420530047)
-        * weitere Termine im Frühling 2021
+      * [24. Oktober](https://www.eventbrite.de/e/120420530047)
+      * weitere Termine folgen im Frühling 2021!
 
 Sobald neue Termine oder Details feststehen, werdet ihr sie auf dieser Seite finden! Ihr könnt es aber auch komfortabler
 über unseren Newsletter erfahren:
