@@ -5,8 +5,8 @@
   image: /assets/images/Lukas_at_saw.jpg
 - name: Patrick Kübler
   desc:  
-    de: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the Patrick's standard dummy text ever since the 1500s, when a Martin took a galley of type and scrambled it to make an entry for his CoMakingSpace "team" section. It has survived not only five centuries, but also frequent bugging, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    en: Testing english description
+    de: Masterstudent in Molekularbiologie mit Erfahrung in Elektronik, 3D-Druck und Embedded-Programmierung.<br/><br/>Für den CoMakingSpace kümmert Patrick sich darum, alles zu reparieren, was im Laufe der Zeit oder während der Benutzung kaputt geht.
+    en: Molecular biology student with experience in electronics, 3D printing and embedded software.<br/><br/>At the CoMakingSpace, Patrick is taking care of fixing stuff that breaks throughout time or during usage.
   image: /assets/images/Patrick.jpg
 - name: Martin Vogel
   desc:  
