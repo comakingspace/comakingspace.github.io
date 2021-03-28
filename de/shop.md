@@ -8,17 +8,25 @@ redirect_from:
   - /shop.html
 ---
 
-## Wir haben neue T-Shirts!
-
+## WIR HABEN NEUE T-SHIRTS!
+{: .center}
 Es gibt jetzt auch die Möglichkeit, uns mit dem Kauf eines schicken T-Shirts zu unterstützen! Für nur **20&nbsp;€** bekommt ihr ein fair produziertes T-Shirt aus Bio-Baumwolle (Fair Wear Foundation) in einer der folgenden Farben:
 
 ![T-Shirt](/assets/images/tshirts.png){: .img-center}
 
-Da wir uns keinen Vorrat leisten können, sondern erst mit Kenntnis eurer Größen bestellen werden, wird der Auftrag erst nach **25 Bestellungen bzw. spätestens am 15. März 2021** an unsere Drucker weitergegeben und ihr könnt die Shirts dann so bald wie möglich bei uns im Space abholen - bestimmt rechtzeitig zum Sommerwetter!
-
 
 Von XS bis 5XL sollte für alle die richtige Größe dabei sein! Die Shirts fallen "normal" aus (genaues s. [Datenblatt des Herstellers](https://www.stanleystella.com/de-de/product/attachment?productId=STTU758&attachmentName=Product+Sheet.pdf)), für schlanke Leute liegt die Grenze zwischen M und L unserer Erfahrung nach bei ca. 1,90 m Körpergröße.
 
+Wir können uns leider keinen Großen Vorrat leisten und haben daher erst mit Kenntnis der konkreten Größen bestellt. Der Auftrag wurde inzwischen an die Drucker weitergegeben.
+
+### Für alle, die noch nicht bestellt haben: Es gibt noch einige Shirts zum Abverkauf im CoMakingSpace. 
+{: .center}
+### Sprecht uns einfach an!
+{: .center}
+
+Der Einkauf erlaubt auch die Abgabe eures "[Dankescheins](https://www.vielmehr.heidelberg.de/dankstelle/comakingspace/)", worüber wir uns natürlich sehr freuen würden! Natürlich ist das jedoch keine Voraussetzung.
+
+{%- comment -%}
 Bitte gebt zur Bestellung die folgenden Daten an:
 <form id="shop-form" class="shop-form" action="//contact.comakingspace.de/?success=%2Ferfolgreich-abgeschickt&failure=%2Fabschicken-fehlgeschlagen%2F" method="post" enctype="application/x-www-form-urlencoded">
     <input type="text" id="subject" name="subject" value="T-Shirt Bestellung von {name}" hidden/>
@@ -40,5 +48,5 @@ Bitte gebt zur Bestellung die folgenden Daten an:
 </form>
 
 Die Rechnung schicken wir per E-Mail an die angegebene Adresse. Eine Bestellung ist gültig, sobald das Geld bei uns eingegangen ist.
+{%- endcomment -%}
 
-Der Einkauf erlaubt auch die Abgabe eures "[Dankescheins](https://www.vielmehr.heidelberg.de/dankstelle/comakingspace/)", worüber wir uns natürlich sehr freuen würden! Natürlich ist das jedoch keine Bestellvoraussetzung.
