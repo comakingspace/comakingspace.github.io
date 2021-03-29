@@ -34,7 +34,8 @@
 .manager{
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 1rem;
+  row-gap: 1rem;
+  column-gap: 2rem;
   img {
     max-width: 100%;
     max-height: 100%;
