@@ -36,7 +36,7 @@ description:
     Der CoMakingSpace ist eine offene Werkstatt in Heidelberg, deren Fokus neben dem Makerspace als Ort vor allem auf der Community zum Austausch mit Gleichgesinnten liegt.
     Auch mit einem FabLab oder Hackerspace gibt es viele Parallelen - kurz: dein Raum zum Selbermachen!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://comakingspace.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.comakingspace.org" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/images/CoMakingSpaceLogo.png"
 twitter:
   username: comakingspace
