@@ -9,18 +9,18 @@
             "logo":
             {
                 "@type":"ImageObject",
-                "url":"{{site.url}}{{site.logo}}"
+                "url": {{site.url | append: site.logo | jsonify}}
             }
         },
-        "headline":"{{page.title}}",
+        "headline":{{page.title | jsonify}},
         "sameAs":
             [
-            {% for link in site.social.links %}"{{link}}" {% unless forloop.last %},
+            {% for link in site.social.links %}{{link | jsonify}} {% unless forloop.last %},
             {% endunless %}{% endfor %}
             ],
-        "url":"{{site.url}}",
-        "description":"{{site.description.[page.lang]}}",
-        "name":"{{site.title.[page.lang]}}"
+        "url":{{site.url | jsonify}},
+        "description":{{site.description.[page.lang] | jsonify}},
+        "name":{{site.title.[page.lang] | jsonify}}
     }
 </script>
 <!-- End of website information -->

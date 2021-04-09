@@ -5,28 +5,28 @@
         "@type":"LocalBusiness",
         "address": {
             "@type": "PostalAddress",
-            "addressCountry": "{{site.country}}",
-            "postalCode": "{{site.postal_code}}",
-            "streetAddress": "{{site.street_address}}"
+            "addressCountry": {{site.country | jsonify}},
+            "postalCode": {{site.postal_code | jsonify}},
+            "streetAddress": {{site.street_address | jsonify}}
           },
           "location": {
             "@type": "PostalAddress",
-            "addressCountry": "{{site.country}}",
-            "postalCode": "{{site.postal_code}}",
-            "streetAddress": "{{site.street_address}}"
+            "addressCountry": {{site.country | jsonify}},
+            "postalCode": {{site.postal_code | jsonify}},
+            "streetAddress": {{site.street_address | jsonify}}
           },
           "geo": {
             "@type": "GeoCoordinates",
-            "latitude": "{{site.latitude}}",
-            "longitude": "{{site.longitude}}"
+            "latitude": {{site.latitude | jsonify}},
+            "longitude": {{site.longitude | jsonify}}
           },
           "name": "CoMakingSpace gGmbH",
-          "email": "{{site.email}}",
+          "email": {{site.email | jsonify}},
           "openingHours": [
           ],
           "priceRange": "$",
-          "url": "{{site.url}}",
-          "image": "{{site.url}}{{site.logo}}"
+          "url": {{site.url | jsonify}},
+          "image": {{site.url | append: site.logo | jsonify}}
     }
 </script>
 <!-- End of LocalBusiness information -->
