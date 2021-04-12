@@ -17,14 +17,13 @@ Es gibt jetzt auch die Möglichkeit, uns mit dem Kauf eines schicken T-Shirts zu
 
 Von XS bis 5XL sollte für alle die richtige Größe dabei sein! Die Shirts fallen "normal" aus (genaues s. [Datenblatt des Herstellers](https://www.stanleystella.com/de-de/product/attachment?productId=STTU758&attachmentName=Product+Sheet.pdf)), für schlanke Leute liegt die Grenze zwischen M und L unserer Erfahrung nach bei ca. 1,90 m Körpergröße.
 
-Wir können uns leider keinen Großen Vorrat leisten und haben daher erst mit Kenntnis der konkreten Größen bestellt. Der Auftrag wurde inzwischen an die Drucker weitergegeben.
+Wir können uns leider keinen großen Vorrat leisten und haben daher erst mit Kenntnis der gewünschten Größen bestellt. Der Auftrag wurde inzwischen an die Drucker weitergegeben.
 
 ### Für alle, die noch nicht bestellt haben: Es gibt noch einige Shirts zum Abverkauf im CoMakingSpace. 
 {: .center}
 ### Sprecht uns einfach an!
 {: .center}
 
-Der Einkauf erlaubt auch die Abgabe eures "[Dankescheins](https://www.vielmehr.heidelberg.de/dankstelle/comakingspace/)", worüber wir uns natürlich sehr freuen würden! Natürlich ist das jedoch keine Voraussetzung.
 
 {%- comment -%}
 Bitte gebt zur Bestellung die folgenden Daten an:
