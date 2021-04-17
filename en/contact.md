@@ -35,5 +35,6 @@ Alternatively, just send us an [e-mail](mailto://info@comaking.space) or fill ou
     <input type="email"  id="email" name="email" placeholder="Your e-mail address" required>
     <label for="message">Message*</label>
     <textarea  id="message" name="message" rows="5" required></textarea>
+    <input type="text" name="filter" style="display: none;">
     <input type="submit" value="Send" />
 </form>

@@ -43,6 +43,7 @@ Bitte gebt zur Bestellung die folgenden Daten an:
     <br>
     <input type="radio" id="wire_transfer" name="payment" value="Per Überweisung" required>
     <label for="wire_transfer">Überweisung</label><br>
+    <input type="text" name="filter" style="display: none;">
     <input type="submit" value="Bestellen" />
 </form>
 
