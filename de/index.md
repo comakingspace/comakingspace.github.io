@@ -4,6 +4,7 @@ title: Home
 lang: de
 ref: home
 permalink: /
+image: /assets/images/banner.png
 ---
 # WERDE TEIL DER WACHSENDEN MAKER-BEWEGUNG
 {: .center}

@@ -3,7 +3,7 @@
 {% for item in site.data.managers %}
   <div class="{% cycle 'team-regular', 'team-regular' %}">
     <div class="team-image">
-      <img src="{{item.image}}">
+      <img src="/assets/images/managers/{{item.image}}">
     </div>
     <div class="team-name">
       <div class="team-text-name">

@@ -6,6 +6,7 @@ ref: home
 permalink: /home/
 redirect_from:
   - /startseite/home.html
+image: /assets/images/banner.png
 ---
  
 # COME AND JOIN THE GROWING MAKER MOVEMENT
