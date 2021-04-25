@@ -1,0 +1,648 @@
+{
+    "query": {
+        "printrequests": [
+            {
+                "label": "",
+                "key": "",
+                "redi": "",
+                "typeid": "_wpg",
+                "mode": 2
+            },
+            {
+                "label": "Has image",
+                "key": "Has_image",
+                "redi": "",
+                "typeid": "_wpg",
+                "mode": 1,
+                "format": ""
+            },
+            {
+                "label": "Has caption",
+                "key": "Has_caption",
+                "redi": "",
+                "typeid": "_wpg",
+                "mode": 1,
+                "format": ""
+            }
+        ],
+        "results": {
+            "Belt Sander": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Beltsander AEG HBSE100.jpg",
+                            "fullurl": "https://wiki.comakingspace.de/File:Beltsander_AEG_HBSE100.jpg",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Belt Sander",
+                            "fullurl": "https://wiki.comakingspace.de/Belt_Sander",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Belt Sander",
+                "fullurl": "https://wiki.comakingspace.de/Belt_Sander",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Biscuit Joiner": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Toolson PRO-DF 860.jpg",
+                            "fullurl": "https://wiki.comakingspace.de/File:Toolson_PRO-DF_860.jpg",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Biscuit Joiner",
+                            "fullurl": "https://wiki.comakingspace.de/Biscuit_Joiner",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Biscuit Joiner",
+                "fullurl": "https://wiki.comakingspace.de/Biscuit_Joiner",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Chop Saw": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Bosch GCM 12 GDL.jpg",
+                            "fullurl": "https://wiki.comakingspace.de/File:Bosch_GCM_12_GDL.jpg",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Chop Saw",
+                            "fullurl": "https://wiki.comakingspace.de/Chop_Saw",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Chop Saw",
+                "fullurl": "https://wiki.comakingspace.de/Chop_Saw",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Circular Saws": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Festool TS 75 EBQ.jpg",
+                            "fullurl": "https://wiki.comakingspace.de/File:Festool_TS_75_EBQ.jpg",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Circular Saws",
+                            "fullurl": "https://wiki.comakingspace.de/Circular_Saws",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Circular Saws",
+                "fullurl": "https://wiki.comakingspace.de/Circular_Saws",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Corded Drills": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Bosch GBM 10 RE.jpg",
+                            "fullurl": "https://wiki.comakingspace.de/File:Bosch_GBM_10_RE.jpg",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        },
+                        {
+                            "fulltext": "File:Elu BM 11 E.jpg",
+                            "fullurl": "https://wiki.comakingspace.de/File:Elu_BM_11_E.jpg",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Corded Drills",
+                            "fullurl": "https://wiki.comakingspace.de/Corded_Drills",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Corded Drills",
+                "fullurl": "https://wiki.comakingspace.de/Corded_Drills",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Cordless Drills": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Makita DDF484 with charger.jpeg",
+                            "fullurl": "https://wiki.comakingspace.de/File:Makita_DDF484_with_charger.jpeg",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Cordless Drills",
+                            "fullurl": "https://wiki.comakingspace.de/Cordless_Drills",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Cordless Drills",
+                "fullurl": "https://wiki.comakingspace.de/Cordless_Drills",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Drying Ovens": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Drying oven.JPG",
+                            "fullurl": "https://wiki.comakingspace.de/File:Drying_oven.JPG",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Drying Ovens",
+                            "fullurl": "https://wiki.comakingspace.de/Drying_Ovens",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Drying Ovens",
+                "fullurl": "https://wiki.comakingspace.de/Drying_Ovens",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Dust Extractors": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Bamato.jpg",
+                            "fullurl": "https://wiki.comakingspace.de/File:Bamato.jpg",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Dust Extractors",
+                            "fullurl": "https://wiki.comakingspace.de/Dust_Extractors",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Dust Extractors",
+                "fullurl": "https://wiki.comakingspace.de/Dust_Extractors",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Eccentric Sanders": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Festo RO 2 E.jpg",
+                            "fullurl": "https://wiki.comakingspace.de/File:Festo_RO_2_E.jpg",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Eccentric Sanders",
+                            "fullurl": "https://wiki.comakingspace.de/Eccentric_Sanders",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Eccentric Sanders",
+                "fullurl": "https://wiki.comakingspace.de/Eccentric_Sanders",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Flatiron": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Old flatiron.JPG",
+                            "fullurl": "https://wiki.comakingspace.de/File:Old_flatiron.JPG",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Flatiron",
+                            "fullurl": "https://wiki.comakingspace.de/Flatiron",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Flatiron",
+                "fullurl": "https://wiki.comakingspace.de/Flatiron",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Hot Glue Gun": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Rapid EG212.JPG",
+                            "fullurl": "https://wiki.comakingspace.de/File:Rapid_EG212.JPG",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Hot Glue Gun",
+                            "fullurl": "https://wiki.comakingspace.de/Hot_Glue_Gun",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Hot Glue Gun",
+                "fullurl": "https://wiki.comakingspace.de/Hot_Glue_Gun",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Impact Drills": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:SKIL 6365.jpg",
+                            "fullurl": "https://wiki.comakingspace.de/File:SKIL_6365.jpg",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Impact Drills",
+                            "fullurl": "https://wiki.comakingspace.de/Impact_Drills",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Impact Drills",
+                "fullurl": "https://wiki.comakingspace.de/Impact_Drills",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Jointer-Planer": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Hammer A3-31.jpg",
+                            "fullurl": "https://wiki.comakingspace.de/File:Hammer_A3-31.jpg",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Jointer-Planer",
+                            "fullurl": "https://wiki.comakingspace.de/Jointer-Planer",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Jointer-Planer",
+                "fullurl": "https://wiki.comakingspace.de/Jointer-Planer",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Metabo BS 1638 W": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Metabo BS 1638 W.jpg",
+                            "fullurl": "https://wiki.comakingspace.de/File:Metabo_BS_1638_W.jpg",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Metabo BS 1638 W",
+                            "fullurl": "https://wiki.comakingspace.de/Metabo_BS_1638_W",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Metabo BS 1638 W",
+                "fullurl": "https://wiki.comakingspace.de/Metabo_BS_1638_W",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Oscillating Tool": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Fein Multimaster.JPG",
+                            "fullurl": "https://wiki.comakingspace.de/File:Fein_Multimaster.JPG",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Oscillating Tool",
+                            "fullurl": "https://wiki.comakingspace.de/Oscillating_Tool",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Oscillating Tool",
+                "fullurl": "https://wiki.comakingspace.de/Oscillating_Tool",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Router Table": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Router Table.JPG",
+                            "fullurl": "https://wiki.comakingspace.de/File:Router_Table.JPG",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Router Table",
+                            "fullurl": "https://wiki.comakingspace.de/Router_Table",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Router Table",
+                "fullurl": "https://wiki.comakingspace.de/Router_Table",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Routers": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Routing a recess.JPG",
+                            "fullurl": "https://wiki.comakingspace.de/File:Routing_a_recess.JPG",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Routers",
+                            "fullurl": "https://wiki.comakingspace.de/Routers",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Routers",
+                "fullurl": "https://wiki.comakingspace.de/Routers",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Scroll Saw": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:ScrollSaw.gif",
+                            "fullurl": "https://wiki.comakingspace.de/File:ScrollSaw.gif",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Scroll Saw",
+                            "fullurl": "https://wiki.comakingspace.de/Scroll_Saw",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Scroll Saw",
+                "fullurl": "https://wiki.comakingspace.de/Scroll_Saw",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Sheet Sanders": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Sheet sander motion.png",
+                            "fullurl": "https://wiki.comakingspace.de/File:Sheet_sander_motion.png",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Sheet Sanders",
+                            "fullurl": "https://wiki.comakingspace.de/Sheet_Sanders",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Sheet Sanders",
+                "fullurl": "https://wiki.comakingspace.de/Sheet_Sanders",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Shop Vacs": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Festool CTM26 E AC.jpg",
+                            "fullurl": "https://wiki.comakingspace.de/File:Festool_CTM26_E_AC.jpg",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        },
+                        {
+                            "fulltext": "File:ShopVac Super K11-SQ14.JPG",
+                            "fullurl": "https://wiki.comakingspace.de/File:ShopVac_Super_K11-SQ14.JPG",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Shop Vacs",
+                            "fullurl": "https://wiki.comakingspace.de/Shop_Vacs",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Shop Vacs",
+                "fullurl": "https://wiki.comakingspace.de/Shop_Vacs",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Table Saw": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Elektra Beckum PK 255.jpg",
+                            "fullurl": "https://wiki.comakingspace.de/File:Elektra_Beckum_PK_255.jpg",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Table Saw",
+                            "fullurl": "https://wiki.comakingspace.de/Table_Saw",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Table Saw",
+                "fullurl": "https://wiki.comakingspace.de/Table_Saw",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            },
+            "Wood Lathes": {
+                "printouts": {
+                    "Has image": [
+                        {
+                            "fulltext": "File:Güde Drechselbank uninstalled.JPG",
+                            "fullurl": "https://wiki.comakingspace.de/File:G%C3%BCde_Drechselbank_uninstalled.JPG",
+                            "namespace": 6,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ],
+                    "Has caption": [
+                        {
+                            "fulltext": "Wood Lathes",
+                            "fullurl": "https://wiki.comakingspace.de/Wood_Lathes",
+                            "namespace": 0,
+                            "exists": "1",
+                            "displaytitle": ""
+                        }
+                    ]
+                },
+                "fulltext": "Wood Lathes",
+                "fullurl": "https://wiki.comakingspace.de/Wood_Lathes",
+                "namespace": 0,
+                "exists": "1",
+                "displaytitle": ""
+            }
+        },
+        "serializer": "SMW\\Serializers\\QueryResultSerializer",
+        "version": 2,
+        "meta": {
+            "hash": "c5bed402101855e2cab1751d452e9cdb",
+            "count": 22,
+            "offset": 0,
+            "source": "",
+            "time": "0.048505"
+        }
+    }
+}
