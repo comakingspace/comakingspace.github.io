@@ -4,6 +4,8 @@ title: Markdown Testing
 lang: en
 ref: markdown_test
 permalink: /md_test/
+sitemap:
+    exclude: 'yes'
 ---
 
 ### This README can be used as a reference for github-flavored-markdown styling (and possibly behavior).

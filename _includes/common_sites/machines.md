@@ -1,15 +1,6 @@
----
-layout: default
-title: Metall Werkstatt
-lang: de
-ref: metal_workshop
-permalink: /metall_werkstatt/
-sitemap:
-    exclude: 'yes'
----
 
 <div class="machines">
-{% for machine in site.data.Workshops.MetalWorkshop_Machines.query.results %}
+{% for machine in include.wikidata %}
     {% assign image_url = machine[1].printouts['Has image'][0].fullurl | replace: "File:", "Special:Redirect/file/" | append: "?width=400%26height=400" %}
   <div class="{% cycle 'machine-regular', 'machine-regular' %}">
     <div class="machine-image">
