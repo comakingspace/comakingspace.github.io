@@ -26,14 +26,4 @@ Am besten ist es, wenn du während unserer [Öffnungszeiten](/kalender) einfach 
 
 Alternativ kannst du uns auch einfach eine [E-Mail](mailto://info@comaking.space) schicken oder das Formular ausfüllen:
 
-<form id="contact-form" class="contact-form" action="//contact.comakingspace.de/?success=%2Ferfolgreich-abgeschickt&failure=%2Fabschicken-fehlgeschlagen%2F" method="post" enctype="application/x-www-form-urlencoded">
-    <label for="name">Name*</label>
-    <input type="text"  id="name" name="name" placeholder="Dein Vor-und Nachname" required>
-    <label for="email">E-Mail Adresse*</label>
-    <input type="email"  id="email" name="email" placeholder="Deine E-Mail Adresse" required>
-    <label for="message">Nachricht*</label>
-    <textarea id="message" name="message" rows="5" required></textarea>
-    <label for="filter" style="display: none;">Bitte leerlassen</label>
-    <input type="text"  id="filter" name="filter" placeholder="Bitte lasse dieses Feld leer" style="display: none;">
-    <input type="submit" value="Senden" />
-</form>
+{% include contact_de.html %}

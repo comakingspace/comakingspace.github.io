@@ -2,3 +2,7 @@
 .contact-form {
   @extend .shop-form
 }
+
+#filter, #filter-label {
+  display: none;
+}
