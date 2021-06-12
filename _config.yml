@@ -73,3 +73,4 @@ defaults:
     values:
       ref: "default_ref"
       lang: "de"
+      author: "CoMakingSpace"

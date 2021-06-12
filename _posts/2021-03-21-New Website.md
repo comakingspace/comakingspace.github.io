@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "New Website!"
-date: 2021-04-08 00:00:00
+date: 2021-04-08
 author: Martin
-image: /assets/images/CoMS_Website.png
+image: /assets/images/posts/CoMS_Website.png
 summary: Our new website went live! Check out the details of the development.
 ---
 

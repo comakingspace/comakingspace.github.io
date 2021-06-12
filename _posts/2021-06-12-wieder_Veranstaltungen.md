@@ -4,12 +4,11 @@ title: "Rückkehr der Making Hours"
 date: 2021-06-12 
 author: Lukas
 image: /assets/images/Logo.svg
+summary: Wir dürfen wieder Veranstaltungen wie unsere Making Hours ausrichten! Die Personenzahl ist begrenzt auf 1 pro 10 m², aber wir haben eine große Halle!
 lang: de
 ---
 
-Hallo zusammen,
-
-es ist soweit: wir dürfen wieder Veranstaltungen wie unsere Making Hours ausrichten! Die Personenzahl ist dabei zwar theoretisch auf 1 pro 10 m² begrenzt, aber da kommt uns jetzt unsere große Halle zugute und das wird erfahrungsgemäß nicht zum Problem werden :-)
+Es ist soweit: wir dürfen wieder Veranstaltungen wie unsere Making Hours ausrichten! Die Personenzahl ist dabei zwar theoretisch auf 1 pro 10 m² begrenzt, aber da kommt uns jetzt unsere große Halle zugute und das wird erfahrungsgemäß nicht zum Problem werden :-)
 
 Eine vorherige Anmeldung ist für diese Abende daher nicht mehr nötig, aber an ihre Stelle tritt eine andere Hürde: wer kommen möchte, muss sich wie z. B. auch in der Gastronomie als getestet, geimpft oder genesen ausweisen.
 
