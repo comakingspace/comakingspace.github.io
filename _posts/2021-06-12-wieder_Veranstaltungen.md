@@ -3,7 +3,7 @@ layout: post
 title: "Rückkehr der Making Hours"
 date: 2021-06-12 
 author: Lukas
-image: /assets/images/posts/2021-06-12_Wiedereroeffnung.png
+image: /assets/images/posts/2021-06-12_Wiedereroeffnung_S.png
 summary: Wir dürfen wieder Veranstaltungen wie unsere Making Hours ausrichten! Die Personenzahl ist begrenzt auf 1 pro 10 m², aber wir haben eine große Halle!
 lang: de
 ---
