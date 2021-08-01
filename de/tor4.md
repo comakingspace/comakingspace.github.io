@@ -29,19 +29,23 @@ Während der Kurse werden verschiedene Aspekte der Selbstverwirklichung diskutie
 * **Urban Gardening** behandelt die Schaffung und Gestaltung von neuem, nachhaltigem Freiraum in Stadtwohnungen. Baut
   eure eigene vertikale Farm im Kurs und diskutiert mit Vortragenden und anderen Gästen über die Potenziale dieses
   Trends!
-    * Termine folgen im Frühling 2021!
+    * [21. und 22. August 2021](https://www.eventbrite.de/e/you-can-make-it-handwerk-fur-alle-urban-gardening-tickets-164979182175) (zweitägiger Workshop)
+    * [21. August 2021](https://www.eventbrite.de/e/diskussionsabend-urban-gardening-tickets-164979557297) (Diskussionsrunde)
 
 * **Upcycling,** das Wiederverwenden vermeintlich wertloser Materialien, womit wir auf die weit verbreitete
   Wegwerfmentalität hinweisen und reagieren möchten.
-    * [31. Oktober und 1. November](https://www.eventbrite.de/e/120516164091) (zweitägiger Workshop)
-    * [31. Oktober](https://www.eventbrite.de/e/120518362667) (Diskussionsrunde)
-    * weitere Termine folgen im Frühling 2021!
+    * [31. Oktober und 1. November 2020](https://www.eventbrite.de/e/120516164091) (zweitägiger Workshop)
+    * [31. Oktober 2020](https://www.eventbrite.de/e/120518362667) (Diskussionsrunde)
 
 * **Präzisionstechnik und Kunst** bietet schließlich die Gelegenheit, eigene künstlerische Ideen mit einem modernen
   Laserschneider frei zum Ausdruck zu bringen ohne sich vor schwierigen Detailarbeiten scheuen zu müssen.
     * Nachmittags-Workshops:
-      * [24. Oktober](https://www.eventbrite.de/e/120420530047)
-      * weitere Termine folgen im Frühling 2021!
+      * [24. Oktober 2020](https://www.eventbrite.de/e/120420530047)
+      * [28. August 2021](https://www.eventbrite.de/e/you-can-make-it-prazisionstechnik-trifft-kunst-tickets-165678333355)
+    * Diskussionsabend:
+      * [28. August 2021](https://www.eventbrite.de/e/diskussionsabend-prazisionstechnik-trifft-kunst-tickets-165679444679)
+
+**Die Diskussionsabende finden in 2021 "hybrid" statt, d.h. neben streng begrenzten Plätzen vor Ort gibt es die Möglichkeit der virtuellen Teilnahme. Die Details zur Einwahl werden vor der jeweiligen Veranstaltung hier veröffentlicht!**
 
 Sobald neue Termine oder Details feststehen, werdet ihr sie auf dieser Seite finden! Ihr könnt es aber auch komfortabler
 über unseren Newsletter erfahren:
