@@ -45,7 +45,7 @@ Während der Kurse werden verschiedene Aspekte der Selbstverwirklichung diskutie
     * Diskussionsabend:
       * [28. August 2021](https://www.eventbrite.de/e/diskussionsabend-prazisionstechnik-trifft-kunst-tickets-165679444679)
 
-**Die Diskussionsabende finden in 2021 "hybrid" statt, d.h. neben streng begrenzten Plätzen vor Ort gibt es die Möglichkeit der virtuellen Teilnahme unter https://whereby.com/comakingspace!**
+**Die Diskussionsabende finden in 2021 "hybrid" statt, d.h. neben streng begrenzten Plätzen vor Ort gibt es die Möglichkeit der virtuellen Teilnahme unter [whereby.com/comakingspace](https://whereby.com/comakingspace)!**
 
 Sobald neue Termine oder Details feststehen, werdet ihr sie auf dieser Seite finden! Ihr könnt es aber auch komfortabler
 über unseren Newsletter erfahren:
