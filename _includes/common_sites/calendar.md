@@ -1,6 +1,6 @@
 
-<link href='https://unpkg.com/fullcalendar-scheduler/main.css' rel='stylesheet' />
-<script src='https://unpkg.com/fullcalendar-scheduler/main.js'></script>
+<link href='https://unpkg.com/fullcalendar-scheduler@5.0/main.css' rel='stylesheet' />
+<script src='https://unpkg.com/fullcalendar-scheduler@5.0/main.js'></script>
 
 
 
