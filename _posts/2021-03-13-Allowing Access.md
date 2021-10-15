@@ -4,6 +4,7 @@ title: "Werkstattnutzung wieder möglich"
 date: 2021-03-12 
 author: Martin
 image: /assets/images/Logo.svg
+summary: Wie ihr sicherlich alle in den letzten Tagen über die Medien erfahren habt stehen aktuell die ersten Öffnungen nach dem Lockdown an.
 lang: de
 ---
 Wie ihr sicherlich alle in den letzten Tagen über die Medien erfahren habt stehen aktuell die ersten Öffnungen nach dem Lockdown an.
