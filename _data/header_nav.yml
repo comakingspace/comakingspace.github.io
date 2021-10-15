@@ -21,8 +21,8 @@ blog:
     en: /news/
 events:
   name:
-    de: Events
-    en: Events
+    de: Kalendar
+    en: Calendar
   link:
     de: /kalender/
     en: /calendar/
