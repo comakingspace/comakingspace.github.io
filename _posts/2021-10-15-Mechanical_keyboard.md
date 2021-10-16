@@ -22,7 +22,4 @@ A full tutorial is available on my [YouTube](https://www.youtube.com/c/KalunHo) 
 
 # Impressions
 
-![Mechanical Keyboard 2](/assets/images/posts/2021-10-15_Mechanical_Keyboard_2.jpg) 
-![Mechanical Keyboard 3](/assets/images/posts/2021-10-15_Mechanical_Keyboard_3.jpg) 
-![Mechanical Keyboard 4](/assets/images/posts/2021-10-15_Mechanical_Keyboard_4.jpg) 
-![Mechanical Keyboard 5](/assets/images/posts/2021-10-15_Mechanical_Keyboard_5.jpg)
+| ![Mechanical Keyboard 2](/assets/images/posts/2021-10-15_Mechanical_Keyboard_2.jpg) | ![Mechanical Keyboard 3](/assets/images/posts/2021-10-15_Mechanical_Keyboard_3.jpg) | ![Mechanical Keyboard 4](/assets/images/posts/2021-10-15_Mechanical_Keyboard_4.jpg) | ![Mechanical Keyboard 5](/assets/images/posts/2021-10-15_Mechanical_Keyboard_5.jpg) |
