@@ -36,7 +36,7 @@ Zahlreiche ehrenamtliche Tutoren helfen dir in unserem Space, deine verrückten 
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   </div>
   <div class="post-teaser-content">
-  <p>{{ post.excerpt }}</p>
+  <p>{{ post.summary }}</p>
   </div>
 </div>
 </div>

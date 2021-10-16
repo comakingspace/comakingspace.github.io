@@ -41,7 +41,7 @@ Our volunteers can help you at the CoMakingSpace to make your crazy ideas become
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   </div>
   <div class="post-teaser-content">
-  <p>{{ post.excerpt }}</p>
+  <p>{{ post.summary }}</p>
   </div>
 </div>
 </div>
