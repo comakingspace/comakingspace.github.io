@@ -12,14 +12,14 @@ jobs:
       - name: fetch data
         run: |
           mkdir -p _data/Workshops
-          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3AWood%20Workshop%5D%5D%20%5B%5BCategory%3AMachines%5D%5D%7C%3FHas%20image%7C%3FHas%20caption&utf8=1&formatversion=1" > _data/Workshops/WoodWorkshop_Machines.json
-          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3AWood%20Workshop%5D%5D%20%5B%5BCategory%3ATools%5D%5D%7C%3FHas%20image%7C%3FHas%20caption&utf8=1&formatversion=1" > _data/Workshops/WoodWorkshop_Tools.json
-          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3AMetal%20Workshop%5D%5D%20%5B%5BCategory%3AMachines%5D%5D%7C%3FHas%20image%7C%3FHas%20caption&utf8=1&formatversion=1" > _data/Workshops/MetalWorkshop_Machines.json
-          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3AMetal%20Workshop%5D%5D%20%5B%5BCategory%3ATools%5D%5D%7C%3FHas%20image%7C%3FHas%20caption&utf8=1&formatversion=1" > _data/Workshops/MetalWorkshop_Tools.json
-          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3AElectronics%20Room%5D%5D%20%5B%5BCategory%3AMachines%5D%5D%7C%3FHas%20image%7C%3FHas%20caption&utf8=1&formatversion=1" > _data/Workshops/ERoom_Machines.json
-          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3AElectronics%20Room%5D%5D%20%5B%5BCategory%3ATools%5D%5D%7C%3FHas%20image%7C%3FHas%20caption&utf8=1&formatversion=1" > _data/Workshops/ERoom_Tools.json
-          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3ACNC%20Corner%5D%5D%20%5B%5BCategory%3AMachines%5D%5D%7C%3FHas%20image%7C%3FHas%20caption&utf8=1&formatversion=1" > _data/Workshops/CNC_Machines.json
-          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3ACNC%20Room%5D%5D%20%5B%5BCategory%3ATools%5D%5D%7C%3FHas%20image%7C%3FHas%20caption&utf8=1&formatversion=1" > _data/Workshops/CNC_Tools.json
+          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3AWood%20Workshop%5D%5D%20%5B%5BCategory%3AMachines%5D%5D%7C%3FHas%20image%7C%3FHas%20caption%7C%3FHas%20German&utf8=1&formatversion=1" > _data/Workshops/WoodWorkshop_Machines.json
+          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3AWood%20Workshop%5D%5D%20%5B%5BCategory%3ATools%5D%5D%7C%3FHas%20image%7C%3FHas%20caption%7C%3FHas%20German&utf8=1&formatversion=1" > _data/Workshops/WoodWorkshop_Tools.json
+          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3AMetal%20Workshop%5D%5D%20%5B%5BCategory%3AMachines%5D%5D%7C%3FHas%20image%7C%3FHas%20caption%7C%3FHas%20German&utf8=1&formatversion=1" > _data/Workshops/MetalWorkshop_Machines.json
+          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3AMetal%20Workshop%5D%5D%20%5B%5BCategory%3ATools%5D%5D%7C%3FHas%20image%7C%3FHas%20caption%7C%3FHas%20German&utf8=1&formatversion=1" > _data/Workshops/MetalWorkshop_Tools.json
+          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3AElectronics%20Room%5D%5D%20%5B%5BCategory%3AMachines%5D%5D%7C%3FHas%20image%7C%3FHas%20caption%7C%3FHas%20German&utf8=1&formatversion=1" > _data/Workshops/ERoom_Machines.json
+          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3AElectronics%20Room%5D%5D%20%5B%5BCategory%3ATools%5D%5D%7C%3FHas%20image%7C%3FHas%20caption%7C%3FHas%20German&utf8=1&formatversion=1" > _data/Workshops/ERoom_Tools.json
+          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3ACNC%20Corner%5D%5D%20%5B%5BCategory%3AMachines%5D%5D%7C%3FHas%20image%7C%3FHas%20caption%7C%3FHas%20German&utf8=1&formatversion=1" > _data/Workshops/CNC_Machines.json
+          curl "https://wiki.comakingspace.de/api.php?action=ask&format=json&query=%5B%5BLocation%3A%3ACNC%20Room%5D%5D%20%5B%5BCategory%3ATools%5D%5D%7C%3FHas%20image%7C%3FHas%20caption%7C%3FHas%20German&utf8=1&formatversion=1" > _data/Workshops/CNC_Tools.json
           - run: |
             git config user.name github-actions
             git config user.email github-actions@github.com
