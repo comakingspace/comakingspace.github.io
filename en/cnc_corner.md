@@ -11,6 +11,3 @@ sitemap:
 ## Machines
 
 {%- include common_sites/machines.md wikidata=site.data.Workshops.CNC_Machines.query.results -%}
-
-## Tools
-{%- include common_sites/machines.md wikidata=site.data.Workshops.CNC_Tools.query.results -%}

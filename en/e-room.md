@@ -11,6 +11,3 @@ sitemap:
 ## Machines
 
 {%- include common_sites/machines.md wikidata=site.data.Workshops.ERoom_Machines.query.results -%}
-
-## Tools
-{%- include common_sites/machines.md wikidata=site.data.Workshops.ERoom_Tools.query.results -%}

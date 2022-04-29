@@ -11,6 +11,3 @@ sitemap:
 ## Machines
 
 {%- include common_sites/machines.md wikidata=site.data.Workshops.WoodWorkshop_Machines.query.results -%}
-
-## Tools
-{%- include common_sites/machines.md wikidata=site.data.Workshops.WoodWorkshop_Tools.query.results -%}
