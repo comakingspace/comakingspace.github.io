@@ -7,7 +7,7 @@ image: /assets/images/Logo-400px-Party.png
 summary: Wir feiern unser Jubiläum mit einem Tag der offenen Tür!
 lang: de
 ---
-#Wir feiern unser Jubiläum mit einem Tag der offenen Tür#
+## Wir feiern unser Jubiläum mit einem Tag der offenen Tür! ##
 
 Im September gibt es den CoMakingSpace, Heidelbergs "Community Makerspace", bereits seit fünf Jahren! In dieser Zeit konnten wir mit großem Engagement der mittlerweile fast 100 aktiven Mitglieder einen einzigartigen Ort des Selbermachens schaffen und möchten die Freude darüber bei einem Tag der offenen Tür mit euch teilen. Alle Interessierten sind herzlich willkommen!
 
@@ -15,6 +15,6 @@ Im September gibt es den CoMakingSpace, Heidelbergs "Community Makerspace", bere
 
 **Wo?** Siemensstraße 40, 69123 Heidelberg ([Anfahrt](https://wiki.comakingspace.de/Anfahrt))
 
-#Noch offener als sonst?#
+## Noch offener als sonst? ##
 
 Als offene Werkstatt haben wir ja ohnehin bei den meisten Veranstaltungen eine "offene Tür" -  zur Feier des Tages wird es dieses Mal außerdem viele einfache Mitmachstationen zum "Schnuppern" in verschiedene Handwerksbereiche, eine Projektausstellung der vergangenen Jahre und natürlich etwas zu naschen geben. Also schnappt euch Freunde oder Familie und kommt vorbei, wir freuen uns auf euch!
