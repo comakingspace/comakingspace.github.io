@@ -3,7 +3,7 @@ layout: post
 title: "Fünf Jahre CoMakingSpace"
 date: 2022-08-26 
 author: Lukas
-image: /assets/images/Logo-400px-Party.png
+image: /assets/images/posts/2022-08-26_Logo-400px-Party.png
 summary: Wir feiern unser Jubiläum mit einem Tag der offenen Tür!
 lang: de
 ---

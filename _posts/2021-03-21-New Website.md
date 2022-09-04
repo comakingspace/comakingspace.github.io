@@ -3,7 +3,7 @@ layout: post
 title: "New Website!"
 date: 2021-04-08
 author: Martin
-image: /assets/images/posts/CoMS_Website.png
+image: /assets/images/posts/2021-03-21_CoMS_Website.png
 summary: Our new website went live! Check out the details of the development.
 ---
 
@@ -29,7 +29,7 @@ In order to be as informative as possible, the website features the following:
 - Show off our [team](/team_en)
 
 ## Further Development
-Any idea and suggestion you have is more than welcome. From our perspective, the following content will be able at some future version:
+Any idea and suggestion you have is more than welcome. From our perspective, the following content will be available at some future version:
 - Specific pages showing our workshops and machines
 - A page which names our supporters
 - See more ideas (or add your own) in the [issue list](https://github.com/comakingspace/comakingspace.github.io/issues)
