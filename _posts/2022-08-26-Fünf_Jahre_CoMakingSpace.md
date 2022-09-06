@@ -3,7 +3,7 @@ layout: post
 title: "Fünf Jahre CoMakingSpace"
 date: 2022-08-26 
 author: Lukas
-image: /assets/images/posts/2022-08-26_Logo-400px-Party.png
+image: /assets/images/posts/2022-08-26_sq-poster_5-jahre.jpg
 summary: Wir feiern unser Jubiläum mit einem Tag der offenen Tür!
 lang: de
 ---
@@ -18,3 +18,7 @@ Im September gibt es den CoMakingSpace, Heidelbergs "Community Makerspace", bere
 ## Noch offener als sonst? ##
 
 Als offene Werkstatt haben wir ja ohnehin bei den meisten Veranstaltungen eine "offene Tür" -  zur Feier des Tages wird es dieses Mal außerdem viele einfache Mitmachstationen zum "Schnuppern" in verschiedene Handwerksbereiche, eine Projektausstellung der vergangenen Jahre und natürlich etwas zu naschen geben. Also schnappt euch Freunde oder Familie und kommt vorbei, wir freuen uns auf euch!
+
+## Bilder
+
+![OpenDay_Banner](/assets/images/2022-09-24_CoMakingSpace-5-Jahre_Banner.jpg)
