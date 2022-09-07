@@ -19,5 +19,5 @@ Im September gibt es den CoMakingSpace, Heidelbergs "Community Makerspace", bere
 
 Als offene Werkstatt haben wir ja ohnehin bei den meisten Veranstaltungen eine "offene Tür" -  zur Feier des Tages wird es dieses Mal außerdem viele einfache Mitmachstationen zum "Schnuppern" in verschiedene Handwerksbereiche, eine Projektausstellung der vergangenen Jahre und natürlich etwas zu naschen geben. Also schnappt euch Freunde oder Familie und kommt vorbei, wir freuen uns auf euch!
 
-##
+
 ![OpenDay_Banner](/assets/images/2022-09-24_CoMakingSpace-5-Jahre_Banner.jpg)
