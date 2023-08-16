@@ -4,6 +4,24 @@ You can use the [editor on GitHub](https://github.com/comakingspace/comakingspac
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+You can also run Jekyll locally to get a live preview of the site. To do so...
+
+```sh
+$ git clone git@github.com:comakingspace/comakingspace.github.io.git
+...
+$ cd comakingspace.github.io/
+$ gem install jekyll bundler
+...
+$ bundle add webrick
+...
+$ bundle exec jekyll serve
+...
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+```
+
+For more options, visit the [Jekyll docs](https://jekyllrb.com/docs/).
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
