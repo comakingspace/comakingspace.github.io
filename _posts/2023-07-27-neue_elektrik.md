@@ -17,3 +17,6 @@ Es hat eine Weile gedauert, aber nun ist die neue Elektro-Installation in unsere
 - Brandneue Luftfilter, die auch bei staubigen Aktivitäten für gute Luft sorgen
 
 Vielen Dank an alle, die hier mitgeholfen haben (egal ob durch Spenden, tatkräftige Unterstützung vor Ort, Kontakte oder durch Planung)!
+
+
+![Schaltschrank](/assets/images/posts/2023-07-27_elektrik.jpeg)
