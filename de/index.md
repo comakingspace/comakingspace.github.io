@@ -9,9 +9,7 @@ image: /assets/images/banner.png
 # WERDE TEIL DER WACHSENDEN MAKER-BEWEGUNG
 {: .center}
 
-{% comment %} ![Banner](/assets/images/banner.png "Banner"){: .img-center} {% endcomment %}
-{% comment %}<a href="2022/08/26/Fünf_Jahre_CoMakingSpace.html">![Banner](/assets/images/2022-09-24_CoMakingSpace-5-Jahre_Banner.jpg "Banner"){: .img-center} </a>{% endcomment %}
-[![5 Jahre CoMakingSpace Heidelberg](/assets/images/2022-09-24_CoMakingSpace-5-Jahre_Banner.jpg)](/2022/08/26/Fünf_Jahre_CoMakingSpace.html){: .img-center}
+![Banner](/assets/images/banner.png "Banner"){: .img-center}
 
 Der Keller ist zu klein oder du würdest die Nachbarn stören? Eine Garage zu mieten ist zu teuer? Lasst uns unsere Werkstatt teilen und die Kosten reduzieren! Dinge im gemeinschaftlich genutzten Raum mit Gleichgesinnten zu erschaffen hat viele Vorteile: zum Beispiel gibt es jede Menge Platz, über den man sich vorübergehend ausbreiten kann, und Geräte die man sich alleine nicht leisten würde weil man sie selten benötigt oder sie schlicht zu teuer sind.
 
