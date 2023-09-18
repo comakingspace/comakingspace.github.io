@@ -10,4 +10,4 @@ sitemap:
 # Metal Workshop
 ## Machines
 
-{%- include common_sites/machines.md wikidata=site.data.Workshops.MetalWorkshop_Machines.query.results -%}
+{%- include common_sites/machines.md wikidata=site.data.Workshops.MetalWorkshop_Machines.machines -%}
