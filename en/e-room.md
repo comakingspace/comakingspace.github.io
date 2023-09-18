@@ -10,4 +10,4 @@ sitemap:
 # Electronics Room
 ## Machines
 
-{%- include common_sites/machines.md wikidata=site.data.Workshops.ERoom_Machines -%}
+{%- include common_sites/machines.md wikidata=site.data.Workshops.ERoom_Machines.machines -%}
