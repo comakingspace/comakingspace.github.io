@@ -10,4 +10,4 @@ sitemap:
 # Wood Workshop
 ## Machines
 
-{%- include common_sites/machines.md wikidata=site.data.Workshops.WoodWorkshop_Machines.machines -%}
+{%- include common_sites/machines.md wikidata=site.data.Workshops.WoodWorkshop_Machines -%}
