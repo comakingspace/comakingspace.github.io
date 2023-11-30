@@ -26,7 +26,7 @@
 *Vertreten durch:*
 {: .center}
 
-*Lukas Frese, Patrick Kübler und Martin Vogel*
+*Dr. Lukas Frese, Patrick Kübler, Martin Vogel, Johannes Gruhler*
 {: .center}
 
 <br />
