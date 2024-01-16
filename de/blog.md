@@ -6,6 +6,8 @@ ref: news
 permalink: /neuigkeiten/
 ---
 
+{% include newsletter_de.md %}
+
 <h1>Neuigkeiten</h1>
 
 {% comment %}

@@ -1,14 +1,4 @@
----
-layout: default
-title: Newsletter
-lang: de
-ref: newsletter
-permalink: /newsletter_de/
-sitemap:
-    exclude: 'yes'
----
-
-# Newsletter
+<h1>Newsletter</h1>
 
 Du kannst auch unseren Newsletter abonnieren, um über Neuigkeiten informiert zu werden.
 

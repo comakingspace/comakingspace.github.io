@@ -29,3 +29,5 @@ The best way is to just step by during our [Opening Hous](/calendar)!
 Alternatively, just send us an [e-mail](mailto://info@comaking.space) or fill out our contact form:
 
 {% include contact_en.html %}
+
+{% include newsletter_en.md %}

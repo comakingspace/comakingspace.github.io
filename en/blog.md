@@ -6,7 +6,9 @@ ref: news
 permalink: /news/
 ---
 
-<h1>Latest Posts</h1>
+{% include newsletter_en.md %}
+
+<h1>Latest News</h1>
 
 {% comment %}
   {% for post in site.posts %}

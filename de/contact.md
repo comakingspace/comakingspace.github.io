@@ -27,3 +27,5 @@ Am besten ist es, wenn du während unserer [Öffnungszeiten](/kalender) einfach 
 Alternativ kannst du uns auch einfach eine [E-Mail](mailto://info@comaking.space) schicken oder das Formular ausfüllen:
 
 {% include contact_de.html %}
+
+{% include newsletter_de.md %}

@@ -1,14 +1,4 @@
----
-layout: default
-title: Newsletter
-lang: en
-ref: newsletter
-permalink: /newsletter/
-sitemap:
-    exclude: 'yes'
----
-
-# Newsletter
+<h1>Newsletter</h1>
 
 You can also stay in touch with us by signing up to newsletter:
 

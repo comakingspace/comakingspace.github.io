@@ -42,11 +42,11 @@ team:
     en: /team_en/
 shop:
   name:
-    de: Shop
-    en: Shop
+    de: Kontakt
+    en: Contact
   link:
-    de: /shop/
-    en: /shop/
+    de: /kontakt/
+    en: /contact/
 wiki:
   name:
     de: Wiki &#9757;
