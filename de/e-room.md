@@ -1,13 +1,13 @@
 ---
 layout: default
-title: E Room
-lang: en
+title: Elektronikraum
+lang: de
 ref: e_room
-permalink: /e-room/
+permalink: /elektronikraum/
 sitemap:
     exclude: 'yes'
 ---
-# Electronics Room
-## Machines
+# Elektronikraum
+## Maschinen
 
 {%- include common_sites/machines.md wikidata=site.data.Workshops.ERoom_Machines -%}
