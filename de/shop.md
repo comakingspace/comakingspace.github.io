@@ -6,6 +6,8 @@ ref: shop
 permalink: /shop/
 redirect_from:
   - /shop.html
+sitemap:
+    exclude: 'yes'
 ---
 
 ## WIR HABEN NEUE T-SHIRTS!
