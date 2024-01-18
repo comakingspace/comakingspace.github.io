@@ -7,7 +7,7 @@ permalink: /holzwerkstatt/
 sitemap:
     exclude: 'yes'
 ---
-# Wood Workshop
-## Machines
+# Holzwerkstatt
+## Maschinen
 
 {%- include common_sites/machines.md wikidata=site.data.Workshops.WoodWorkshop_Machines -%}

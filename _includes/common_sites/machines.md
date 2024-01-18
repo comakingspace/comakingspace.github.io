@@ -1,19 +1,20 @@
+{% assign machines = "" | split: ',' %}
+
+    {% if page.lang == 'de' %}
+      {% assign machines = include.wikidata | sort: "German", "last" %}
+    {% else %}
+      {% assign machines = include.wikidata | sort: "Caption", "last" %}
+    {% endif %}
 
 <div class="machines">
-{% for machine in include.wikidata %}
-    {% assign image_url = machine[1].printouts['Has image'][0].fullurl | replace: "File:", "Special:Redirect/file/" | append: "?width=400%26height=400" %}
-    {% if page.lang == 'de' %}
-      {% assign caption = machine[1].printouts['Has German'][0] %}
-    {% else %}
-      {% assign caption = machine[1].printouts['Has caption'][0] %}
-    {% endif %}
+{% for machine in machines %}
   <div class="{% cycle 'machine-regular', 'machine-regular' %}">
     <div class="machine-image">
-      <a href = "{{machine[1].printouts['MachineType'][0].fullurl}}"><img src="{{ image_url}}"></a>
+      <a href = "{{machine['MachineTypeUrl']}}"><img src="{{ machine['Image'] | replace: 'File:', 'Special:Redirect/file/' | append: '?width=400%26height=400' }}"></a>
     </div>
     <div class="machine-name">
       <div class="machine-text-name">
-        <h2>{{caption}}</h2>
+        <h2>{% if page.lang == 'de' %}{{machine["German"]}}{% else %}{{machine["Caption"]}}{% endif %}</h2>
       </div>
     </div>
     </div>

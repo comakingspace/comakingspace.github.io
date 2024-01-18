@@ -7,6 +7,7 @@ permalink: /metallwerkstatt/
 sitemap:
     exclude: 'yes'
 ---
-
+# Metallwerkstatt
 ## Maschinen
+
 {%- include common_sites/machines.md wikidata=site.data.Workshops.MetalWorkshop_Machines -%}
