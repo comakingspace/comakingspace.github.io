@@ -12,16 +12,16 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Rotary_Tool"
   },
   {
-    "Image": "https://wiki.comakingspace.de/File:Einhell_Air_Tech_Euro_2200-1.JPG",
-    "Caption": "Compressor",
-    "German": "Kompressor",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Compressor"
-  },
-  {
     "Image": "https://wiki.comakingspace.de/File:Herkules_HMB_4000_Horizontal_Bandsaw.jpg",
     "Caption": "Horizontal Bandsaw",
     "German": "Herkules HMB 4000",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Horizontal_Bandsaw"
+  },
+  {
+    "Image": "https://wiki.comakingspace.de/File:Herkules_Pro-Line_Fl%C3%BCsterkompressor_Siltek_24.jpeg",
+    "Caption": "Compressor",
+    "German": "Kompressor",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Compressor"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Beltdiscsander.jpg",
