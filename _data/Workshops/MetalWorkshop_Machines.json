@@ -1,9 +1,9 @@
 [
   {
     "Image": "https://wiki.comakingspace.de/File:CMI_C_S_BS_250.JPG",
-    "Caption": "Bandsaw",
+    "Caption": "Vertical Bandsaw",
     "German": "Bandsäge (Metall)",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Bandsaws"
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Vertical_Bandsaws"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Dremel_4000.jpg",
@@ -31,15 +31,21 @@
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Makita_9565_HRZ.jpg",
-    "Caption": "Disc Grinder",
+    "Caption": "Corded Disc Grinder",
     "German": "Winkelschleifer",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Disc_Grinders"
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Corded_Disc_Grinder"
+  },
+  {
+    "Image": "https://wiki.comakingspace.de/File:Makita_9565_HRZ.jpg",
+    "Caption": "Corded Disc Grinder",
+    "German": "Winkelschleifer",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Corded_Disc_Grinder"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Makita_dga511.jpg",
-    "Caption": "Disc Grinder",
+    "Caption": "Cordless Disc Grinder",
     "German": "Winkelschleifer (Akku)",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Disc_Grinders"
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Cordless_Disc_Grinder"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Drying_oven.JPG",
