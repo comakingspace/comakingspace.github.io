@@ -190,6 +190,12 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Drill_Presses"
   },
   {
+    "Image": "https://wiki.comakingspace.de/File:Severin_BA_9676.jpg",
+    "Caption": "Flatiron",
+    "German": "Bügeleisen",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Flatiron"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:ShopVac_Super_K11-SQ14.JPG",
     "Caption": "Shop Vac",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Shop_Vacs"
