@@ -16,6 +16,12 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Scanners"
   },
   {
+    "Image": "https://wiki.comakingspace.de/File:Machine-default.png",
+    "Caption": "Airbrush Compressor",
+    "German": "Airbrush Kompressor",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Airbrush_Compressor"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:KSGER_T12_soldering_station.jpeg",
     "Caption": "Soldering Iron",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Soldering_Irons"
