@@ -85,6 +85,11 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Printers"
   },
   {
+    "Image": "https://wiki.comakingspace.de/File:Machine-default.png",
+    "Caption": "3D Printer",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Printers"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:RND_320-KD3005D.JPG",
     "Caption": "Lab Power Supply",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Lab_Power_Supplies"
