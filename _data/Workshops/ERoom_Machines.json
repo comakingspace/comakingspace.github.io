@@ -1,5 +1,15 @@
 [
   {
+    "Image": "https://wiki.comakingspace.de/File:Machine-default.png",
+    "Caption": "3D Printer",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Printers"
+  },
+  {
+    "Image": "https://wiki.comakingspace.de/File:Machine-default.png",
+    "Caption": "3D Printer",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Printers"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:Water_chiller_CW4000.JPG",
     "Caption": "Water Chiller",
     "German": "Wasserkühlung",
