@@ -57,11 +57,6 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Dust_Extractors"
   },
   {
-    "Image": "https://wiki.comakingspace.de/File:Ferm_FBF-1050E.JPG",
-    "Caption": "Handheld Router",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Handheld_Routers"
-  },
-  {
     "Image": "https://wiki.comakingspace.de/File:Festo_RO_2_E.jpg",
     "Caption": "Eccentric Sander",
     "German": "Exzenterschleifer",
@@ -169,11 +164,6 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Shop_Vacs"
   },
   {
-    "Image": "https://wiki.comakingspace.de/File:SKIL_7210.jpg",
-    "Caption": "Sheet Sander",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Sheet_Sanders"
-  },
-  {
     "Image": "https://wiki.comakingspace.de/File:Sauter_OFL2.0_Router_Table.jpg",
     "Caption": "Router Table",
     "German": "Frästisch",
@@ -194,11 +184,6 @@
     "Image": "https://wiki.comakingspace.de/File:ShopVac_Super_K11-SQ14.JPG",
     "Caption": "Shop Vac",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Shop_Vacs"
-  },
-  {
-    "Image": "https://wiki.comakingspace.de/File:SKIL_6365.jpg",
-    "Caption": "Impact Drill",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Impact_Drills"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Steinel_Gluefix.jpg",
