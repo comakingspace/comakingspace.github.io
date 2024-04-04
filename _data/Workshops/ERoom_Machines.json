@@ -43,11 +43,6 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Laser_Cutter"
   },
   {
-    "Image": "https://wiki.comakingspace.de/File:MaxTrack_ZLS_2_L.JPG",
-    "Caption": "Soldering Iron",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Soldering_Irons"
-  },
-  {
     "Image": "https://wiki.comakingspace.de/File:Drying_oven.JPG",
     "Caption": "Drying Oven",
     "German": "Trockenöfen",
