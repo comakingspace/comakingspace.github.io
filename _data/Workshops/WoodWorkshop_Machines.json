@@ -1,10 +1,5 @@
 [
   {
-    "Image": "https://wiki.comakingspace.de/File:Bosch_GBM_10_RE.jpg",
-    "Caption": "Corded Drill",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Corded_Drills"
-  },
-  {
     "Image": "https://wiki.comakingspace.de/File:Bosch_GCM_12_GDL.jpg",
     "Caption": "Chop Saw",
     "German": "Kappsäge",
@@ -40,11 +35,6 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Table_Saw"
   },
   {
-    "Image": "https://wiki.comakingspace.de/File:Elu_BM_11_E.jpg",
-    "Caption": "Corded Drill",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Corded_Drills"
-  },
-  {
     "Image": "https://wiki.comakingspace.de/File:Fein_Multimaster.JPG",
     "Caption": "Oscillating Tool",
     "German": "Oszillierer",
@@ -55,6 +45,11 @@
     "Caption": "Dust Extractor",
     "German": "Absaugung",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Dust_Extractors"
+  },
+  {
+    "Image": "https://wiki.comakingspace.de/File:Ferm_FBF-1050E.JPG",
+    "Caption": "Handheld Router",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Handheld_Routers"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Festo_RO_2_E.jpg",
