@@ -1,5 +1,11 @@
 [
   {
+    "Image": "https://wiki.comakingspace.de/File:Altendorf_F45.jpeg",
+    "Caption": "Sliding Table Saw",
+    "German": "Formatkreissäge",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Sliding_Table_Saw"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:Bosch_GCM_12_GDL.jpg",
     "Caption": "Chop Saw",
     "German": "Kappsäge",
@@ -52,6 +58,11 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Handheld_Routers"
   },
   {
+    "Image": "https://wiki.comakingspace.de/File:Festo_RO_150_E.jpg",
+    "Caption": "Eccentric Sander",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Eccentric_Sanders"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:Festo_RO_2_E.jpg",
     "Caption": "Eccentric Sander",
     "German": "Exzenterschleifer",
@@ -61,13 +72,13 @@
     "Image": "https://wiki.comakingspace.de/File:Festool_CTM26_E_AC.jpg",
     "Caption": "Shop Vac",
     "German": "Staubsauger",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Shop_Vacs"
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Dust_Extractors"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Festool_CTM26_E_AC.jpg",
     "Caption": "Shop Vac",
     "German": "Staubsauger",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Shop_Vacs"
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Dust_Extractors"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Festool_DTS_400_REQ.jpeg",
@@ -148,12 +159,6 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Plastic_Shredder"
   },
   {
-    "Image": "https://wiki.comakingspace.de/File:Scroll_saw.JPG",
-    "Caption": "Scroll Saw",
-    "German": "Dekupiersäge",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Scroll_Saw"
-  },
-  {
     "Image": "https://wiki.comakingspace.de/File:Sauter_OFL2.0_Router_Table.jpg",
     "Caption": "Router Table",
     "German": "Frästisch",
@@ -168,12 +173,12 @@
     "Image": "https://wiki.comakingspace.de/File:Severin_BA_9676.jpg",
     "Caption": "Flatiron",
     "German": "Bügeleisen",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Flatiron"
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Flat_Iron"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:ShopVac_Super_K11-SQ14.JPG",
     "Caption": "Shop Vac",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Shop_Vacs"
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Dust_Extractors"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Steinel_Gluefix.jpg",
