@@ -2,124 +2,73 @@
   {
     "Image": "https://wiki.comakingspace.de/File:BambuLabP1S_P7.jpeg",
     "Caption": "3D Printer",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Printers"
-  },
-  {
-    "Image": "https://wiki.comakingspace.de/File:BambuLabP1S_P7.jpeg",
-    "Caption": "3D Printer",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Printers"
+    "German": "3D Printer ",
+    "MachineTypeUrl ": "https://wiki.comakingspace.de/3D_Printers"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Water_chiller_CW4000.JPG",
     "Caption": "Water Chiller",
-    "German": "Wasserkühlung",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Water_Chiller"
+    "German": "Wasserkühlung ",
+    "MachineTypeUrl ": "https://wiki.comakingspace.de/Water_Chiller"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:EleksMill.jpg",
     "Caption": "CNC Router",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/CNC_Router"
+    "German": "CNC Router ",
+    "MachineTypeUrl ": "https://wiki.comakingspace.de/CNC_Router"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:3D_Scanner_open.JPG",
     "Caption": "3D Scanner",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Scanners"
+    "German": "3D Scanner ",
+    "MachineTypeUrl ": "https://wiki.comakingspace.de/3D_Scanners"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:HBM_AS188.jpeg",
     "Caption": "Airbrush Compressor",
-    "German": "Airbrush-Kompressor",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Airbrush_Compressor"
+    "German": "Airbrush-Kompressor ",
+    "MachineTypeUrl ": "https://wiki.comakingspace.de/Airbrush_Compressor"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:KSGER_T12_soldering_station.jpeg",
     "Caption": "Soldering Iron",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Soldering_Irons"
+    "German": "Soldering Iron ",
+    "MachineTypeUrl ": "https://wiki.comakingspace.de/Soldering_Irons"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Laserscript_LS6090.JPG",
     "Caption": "Laser Cutter",
-    "German": "Laserschneider",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Laser_Cutter"
+    "German": "Laserschneider ",
+    "MachineTypeUrl ": "https://wiki.comakingspace.de/Laser_Cutter"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Memmert_UM_400-1.jpg",
     "Caption": "Drying Oven",
-    "German": "Trockenöfen",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Drying_Ovens"
-  },
-  {
-    "Image": "https://wiki.comakingspace.de/File:OpenScan.jpeg",
-    "Caption": "3D Scanner",
-    "German": "3D-Scanner",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Scanners"
-  },
-  {
-    "Image": "https://wiki.comakingspace.de/File:PACE_ADS200.jpg",
-    "Caption": "Soldering Iron",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Soldering_Irons"
-  },
-  {
-    "Image": "https://wiki.comakingspace.de/File:Prusa_i3_MK2S.JPG",
-    "Caption": "3D Printer",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Printers"
-  },
-  {
-    "Image": "https://wiki.comakingspace.de/File:Prusa_i3_MK2S_(-2).jpg",
-    "Caption": "3D Printer",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Printers"
-  },
-  {
-    "Image": "https://wiki.comakingspace.de/File:Prusa_i3_MK2S.JPG",
-    "Caption": "3D Printer",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Printers"
-  },
-  {
-    "Image": "https://wiki.comakingspace.de/File:Prusa_i3_MK2S.JPG",
-    "Caption": "3D Printer",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Printers"
-  },
-  {
-    "Image": "https://wiki.comakingspace.de/File:Prusa_i3_MK2S.JPG",
-    "Caption": "3D Printer",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Printers"
-  },
-  {
-    "Image": "https://wiki.comakingspace.de/File:MultiMaterialPrinter.JPG",
-    "Caption": "3D Printer",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Printers"
-  },
-  {
-    "Image": "https://wiki.comakingspace.de/File:Original_Prusa_i3_MK3S%2B.jpg",
-    "Caption": "3D Printer",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Printers"
+    "German": "Trockenöfen ",
+    "MachineTypeUrl ": "https://wiki.comakingspace.de/Drying_Ovens"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:RND_320-KD3005D.JPG",
     "Caption": "Lab Power Supply",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Lab_Power_Supplies"
+    "German": "Lab Power Supply ",
+    "MachineTypeUrl ": "https://wiki.comakingspace.de/Lab_Power_Supplies"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Rigol_DS1022CD.JPG",
     "Caption": "Oscilloscope",
-    "German": "Oszilloskop",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Oscilloscope"
+    "German": "Oszilloskop ",
+    "MachineTypeUrl ": "https://wiki.comakingspace.de/Oscilloscope"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Voltcraft_FG-506.JPG",
     "Caption": "Function Generator",
-    "German": "Funktionsgenerator",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Function_Generator"
-  },
-  {
-    "Image": "https://wiki.comakingspace.de/File:Voltcraft_LPS1305.JPG",
-    "Caption": "Lab Power Supply",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Lab_Power_Supplies"
+    "German": "Funktionsgenerator ",
+    "MachineTypeUrl ": "https://wiki.comakingspace.de/Function_Generator"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Hot_air_station.jpg",
     "Caption": "Hot Air Soldering Station",
-    "German": "Heißluftlötstation",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Hot_Air_Soldering_Station"
+    "German": "Heißluftlötstation ",
+    "MachineTypeUrl ": "https://wiki.comakingspace.de/Hot_Air_Soldering_Station"
   }
 ]
