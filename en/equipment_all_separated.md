@@ -1,14 +1,12 @@
 ---
 layout: default
-title: Ausrüstung
-lang: de
-ref: ausrüstung_getrennt
-permalink: /ausrüstung_getrennt/
+title: Equipment
+lang: en
+ref: equipment_separated
+permalink: /equipment_separated/
 sitemap:
     exclude: 'yes'
 ---
-
-# Wood Workshop
 
 {% assign machines_wood = "" | split: ',' %}
 {% assign machines_metal = "" | split: ',' %}
@@ -23,6 +21,8 @@ sitemap:
       {% assign machines_metal = site.data.Workshops.MetalWorkshop_Machines | sort: "Caption", "last" %}
       {% assign machines_eroom = site.data.Workshops.ERoom_Machines | sort: "Caption", "last" %}
     {% endif %}
+
+# Wood Workshop
 
 <div class="machines">
 {% for machine in machines_wood %}
@@ -48,7 +48,7 @@ sitemap:
 {% endfor %}
 </div>
 
-# Electronics-Room
+# Electronics Room
 
 <div class="machines">
 {% for machine in machines_eroom %}
