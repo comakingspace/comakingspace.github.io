@@ -13,4 +13,4 @@ Der CoMakingSpace ist in verschiedene Werkstätten für verschiedene Materialien
 
 ## <a href="/holzwerkstatt/">Holzwerkstatt</a>
 ## <a href="/metallwerkstatt/">Metallwerkstatt</a>
-## <a href="/elektronikraum/">Electronikraum</a>
+## <a href="/elektronikraum/">Elektronikraum</a>
