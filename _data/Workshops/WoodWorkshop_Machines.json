@@ -14,7 +14,7 @@
   {
     "Image": "https://wiki.comakingspace.de/File:Bosch_GEX_40-150.jpeg",
     "Caption": "Eccentric Sander",
-    "German": "Eccentric Sander",
+    "German": "Exzenterschleifer",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Eccentric_Sanders"
   },
   {
@@ -56,7 +56,7 @@
   {
     "Image": "https://wiki.comakingspace.de/File:Ferm_FBF-1050E.JPG",
     "Caption": "Handheld Router",
-    "German": "Handheld Router",
+    "German": "Oberfräse",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Handheld_Routers"
   },
   {
@@ -74,7 +74,7 @@
   {
     "Image": "https://wiki.comakingspace.de/File:Festool_TS_75_EBQ.jpg",
     "Caption": "Handheld Circular Saw",
-    "German": "Handheld Circular Saw",
+    "German": "Tauchsäge",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Handheld_Circular_Saws"
   },
   {
@@ -116,7 +116,7 @@
   {
     "Image": "https://wiki.comakingspace.de/File:Plastic_Shredder.jpg",
     "Caption": "Plastic Shredder",
-    "German": "Plastic Shredder",
+    "German": "Kunststoffschredder",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Plastic_Shredder"
   },
   {
@@ -146,7 +146,7 @@
   {
     "Image": "https://wiki.comakingspace.de/File:THOMAS_Centri_776_SEL.jpg",
     "Caption": "Spin Dryer",
-    "German": "Spin Dryer",
+    "German": "Trockenschleuder",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Spin_Dryer"
   },
   {
