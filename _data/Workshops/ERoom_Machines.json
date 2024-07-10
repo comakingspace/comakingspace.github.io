@@ -2,7 +2,7 @@
   {
     "Image": "https://wiki.comakingspace.de/File:BambuLabP1S_P7.jpeg",
     "Caption": "3D Printer",
-    "German": "3D Printer",
+    "German": "3D-Drucker",
     "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Printers"
   },
   {
@@ -14,13 +14,13 @@
   {
     "Image": "https://wiki.comakingspace.de/File:EleksMill.jpg",
     "Caption": "CNC Router",
-    "German": "CNC Router",
+    "German": "CNC-Fräse",
     "MachineTypeUrl": "https://wiki.comakingspace.de/CNC_Router"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:3D_Scanner_open.JPG",
     "Caption": "3D Scanner",
-    "German": "3D Scanner",
+    "German": "3D-Scanner",
     "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Scanners"
   },
   {
@@ -32,7 +32,7 @@
   {
     "Image": "https://wiki.comakingspace.de/File:KSGER_T12_soldering_station.jpeg",
     "Caption": "Soldering Iron",
-    "German": "Soldering Iron",
+    "German": "Lötkolben",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Soldering_Irons"
   },
   {
@@ -50,7 +50,7 @@
   {
     "Image": "https://wiki.comakingspace.de/File:RND_320-KD3005D.JPG",
     "Caption": "Lab Power Supply",
-    "German": "Lab Power Supply",
+    "German": "Labornetzteil",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Lab_Power_Supplies"
   },
   {
