@@ -120,6 +120,12 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Plastic_Shredder"
   },
   {
+    "Image": "https://wiki.comakingspace.de/File:Scroll_saw.JPG",
+    "Caption": "Scroll Saw",
+    "German": "Dekupiersäge",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Scroll_Saw"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:Sauter_OFL2.0_Router_Table.jpg",
     "Caption": "Router Table",
     "German": "Frästisch",
