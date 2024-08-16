@@ -26,6 +26,13 @@ events:
   link:
     de: /kalender/
     en: /calendar/
+equipment:
+  name:
+    de: Werkzeuge
+    en: Machines
+  link:
+    de: /werkzeuge/
+    en: /machines/
 #support:
 #  name:
 #    de: Unterstützung

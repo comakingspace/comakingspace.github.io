@@ -219,3 +219,16 @@ html {
     vertical-align: top;
   }
 }
+details {
+  summary {
+    list-style-position: outside;
+    list-style-type: '👇';
+}
+}
+details[open]{
+  summary {
+    list-style-position: outside;
+    list-style-type: '☝';
+}
+}
+

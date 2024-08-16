@@ -2,8 +2,8 @@
 layout: default
 title: Equipment
 lang: en
-ref: equipment_separated
-permalink: /equipment_separated/
+ref: machines
+permalink: /machines/
 sitemap:
     exclude: 'yes'
 ---
@@ -22,8 +22,12 @@ sitemap:
       {% assign machines_eroom = site.data.Workshops.ERoom_Machines | sort: "Caption", "last" %}
     {% endif %}
 
-# Wood Workshop
+# WORKSHOPS
+{: .center}
+We offer different sections in our workshop, each focusing on various materials. Click through the individual sections and take a look at our equipment. If you want more information about the devices, the images will lead you to our wiki, where you can find more details. If you still have questions, step by or [drop us an email](/kontakt).
 
+<details>
+<summary><h2>Wood Workshop</h2></summary>
 <div class="machines">
 {% for machine in machines_wood %}
   <div class="machine-container">
@@ -34,8 +38,9 @@ sitemap:
   </div>
 {% endfor %}
 </div>
-
-# Metal Workshop
+</details>
+<details>
+<summary><h2>Metal Workshop</h2></summary>
 
 <div class="machines">
 {% for machine in machines_metal %}
@@ -47,8 +52,9 @@ sitemap:
   </div>
 {% endfor %}
 </div>
-
-# Electronics Room
+</details>
+<details>
+<summary><h2>Electronics Room</h2></summary>
 
 <div class="machines">
 {% for machine in machines_eroom %}
@@ -60,3 +66,4 @@ sitemap:
   </div>
 {% endfor %}
 </div>
+</details>

@@ -2,13 +2,11 @@
 layout: default
 title: Ausrüstung
 lang: de
-ref: ausrüstung_getrennt
-permalink: /ausrüstung_getrennt/
+ref: machines
+permalink: /werkzeuge/
 sitemap:
     exclude: 'yes'
 ---
-
-# Holzwerkstatt
 
 {% assign machines_wood = "" | split: ',' %}
 {% assign machines_metal = "" | split: ',' %}
@@ -24,6 +22,12 @@ sitemap:
       {% assign machines_eroom = site.data.Workshops.ERoom_Machines | sort: "Caption", "last" %}
     {% endif %}
 
+# WERKSTÄTTEN
+{: .center}
+Wir bieten in unserer Werkstatt verschiedene Bereiche, die den Fokus auf verschiedene Materialien legen. Klick dich durch die einzelnen Bereiche und schau dir unsere Geräte an. Falls du mehr Informationen zu den Geräten möchtest führen die Bilder dich in unser Wiki, in dem mehr Details stehen. Falls du noch weitere Fragen hast komm vorbei oder [schreib uns eine Mail](/kontakt).
+
+<details>
+<summary><h2>Holzwerkstatt</h2></summary>
 <div class="machines">
 {% for machine in machines_wood %}
   <div class="machine-container">
@@ -34,9 +38,12 @@ sitemap:
   </div>
 {% endfor %}
 </div>
+</details>
 
-# Metallwerkstatt
-
+<details>
+<summary>
+<h2>Metallwerkstatt</h2>
+</summary>
 <div class="machines">
 {% for machine in machines_metal %}
   <div class="machine-container">
@@ -47,9 +54,11 @@ sitemap:
   </div>
 {% endfor %}
 </div>
-
-# Elektronik-Raum
-
+</details>
+<details>
+<summary>
+<h2>Elektronik-Raum</h2>
+</summary>
 <div class="machines">
 {% for machine in machines_eroom %}
   <div class="machine-container">
@@ -60,3 +69,4 @@ sitemap:
   </div>
 {% endfor %}
 </div>
+</details>
