@@ -4,8 +4,6 @@ title: Equipment
 lang: en
 ref: machines
 permalink: /machines/
-sitemap:
-    exclude: 'yes'
 ---
 
 {% assign machines_wood = "" | split: ',' %}

@@ -4,8 +4,6 @@ title: Ausrüstung
 lang: de
 ref: machines
 permalink: /werkzeuge/
-sitemap:
-    exclude: 'yes'
 ---
 
 {% assign machines_wood = "" | split: ',' %}
