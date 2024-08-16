@@ -25,7 +25,9 @@ permalink: /machines/
 We offer different sections in our workshop, each focusing on various materials. Click through the individual sections and take a look at our equipment. If you want more information about the devices, the images will lead you to our wiki, where you can find more details. If you still have questions, step by or [drop us an email](/kontakt).
 
 <details>
-<summary><h2>Wood Workshop</h2></summary>
+<summary>
+<h2>Wood Workshop</h2>
+</summary>
 <div class="machines">
 {% for machine in machines_wood %}
   <div class="machine-container">
@@ -37,9 +39,11 @@ We offer different sections in our workshop, each focusing on various materials.
 {% endfor %}
 </div>
 </details>
-<details>
-<summary><h2>Metal Workshop</h2></summary>
 
+<details>
+<summary>
+<h2>Metal Workshop</h2>
+</summary>
 <div class="machines">
 {% for machine in machines_metal %}
   <div class="machine-container">
@@ -51,9 +55,11 @@ We offer different sections in our workshop, each focusing on various materials.
 {% endfor %}
 </div>
 </details>
-<details>
-<summary><h2>Electronics Room</h2></summary>
 
+<details>
+<summary>
+<h2>Electronics Room</h2>
+</summary>
 <div class="machines">
 {% for machine in machines_eroom %}
   <div class="machine-container">

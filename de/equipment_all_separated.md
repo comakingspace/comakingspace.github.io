@@ -25,7 +25,9 @@ permalink: /werkzeuge/
 Wir bieten in unserer Werkstatt verschiedene Bereiche, die den Fokus auf verschiedene Materialien legen. Klick dich durch die einzelnen Bereiche und schau dir unsere Geräte an. Falls du mehr Informationen zu den Geräten möchtest führen die Bilder dich in unser Wiki, in dem mehr Details stehen. Falls du noch weitere Fragen hast komm vorbei oder [schreib uns eine Mail](/kontakt).
 
 <details>
-<summary><h2>Holzwerkstatt</h2></summary>
+<summary>
+<h2>Holzwerkstatt</h2>
+</summary>
 <div class="machines">
 {% for machine in machines_wood %}
   <div class="machine-container">
@@ -53,6 +55,7 @@ Wir bieten in unserer Werkstatt verschiedene Bereiche, die den Fokus auf verschi
 {% endfor %}
 </div>
 </details>
+
 <details>
 <summary>
 <h2>Elektronik-Raum</h2>
