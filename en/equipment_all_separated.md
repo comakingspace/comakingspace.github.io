@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Equipment
+title: Machines
 lang: en
 ref: machines
 permalink: /machines/

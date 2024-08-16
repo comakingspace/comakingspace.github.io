@@ -221,14 +221,18 @@ html {
 }
 details {
   summary {
-    list-style-position: outside;
     list-style-type: '👇';
-}
+    h2 {
+    display: inline;
+    }
+  }
 }
 details[open]{
   summary {
-    list-style-position: outside;
     list-style-type: '☝';
+    h2 {
+      display: inline;
+      }
 }
 }
 

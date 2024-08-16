@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ausrüstung
+title: Werkzeuge
 lang: de
 ref: machines
 permalink: /werkzeuge/
