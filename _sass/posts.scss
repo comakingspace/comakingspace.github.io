@@ -1,27 +1,24 @@
 %post_grid {
-  display: grid;
-  grid-row-gap: 2em;
-  //grid-template-rows: 1fr 7fr 3fr;
-  column-gap: 0.4rem;
+  display: flex;
   padding-top: 1em;
   padding-bottom: 1em;
   border-bottom-color: grey;
   border-bottom-style: dashed;
+  max-width: 100%;
+  gap: 1em;
 }
 
 .post {
-  grid-template-columns: 2fr 8fr;
-  grid-template-areas: "picture teaser";
   @extend %post_grid;
 }
 
 .post-alternate {
-  grid-template-columns: 8fr 2fr;
-  grid-template-areas: "teaser picture";
   @extend %post_grid;
 }
 .post-image {
   grid-area: picture;
+  width: 30%;
+  max-width: 8em;
   float: left;
   img {
     border-radius: 0.3rem;
@@ -37,9 +34,9 @@
 .post-teaser-title {
   width: 100%;
   flex-wrap: nowrap;
-  overflow-wrap: anywhere;
-  h2
-  {
+  word-break: break-all;
+  overflow-wrap: break-word;
+  h2 {
     margin-top: 0rem;
   }
 }
