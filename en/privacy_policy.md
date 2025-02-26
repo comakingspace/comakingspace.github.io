@@ -57,7 +57,7 @@ Controller for the purposes of the General Data Protection Regulation (GDPR), ot
 
 CoMakingSpace gemeinnützige GmbH
 
-Wieblinger Weg 85
+Liselottestraße 5
 
 69123 Heidelberg
 
