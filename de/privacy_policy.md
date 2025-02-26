@@ -61,7 +61,7 @@ Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitg
 
 CoMakingSpace gemeinnützige GmbH
 
-Wieblinger Weg 85
+Liselottestraße 5
 
 69123 Heidelberg
 
