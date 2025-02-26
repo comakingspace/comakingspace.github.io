@@ -14,7 +14,7 @@
 *CoMakingSpace gGmbH*  
 {: .center}
 
-*Wieblinger Weg 85*  
+*Liselottestraße 5*  
 {: .center}
 
 *69123 Heidelberg*  
