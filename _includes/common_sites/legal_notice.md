@@ -2,7 +2,7 @@
 {: .center}
 <br />
 
-*Dies ist eine Internetseite der CoMakingSpace gGmbH.*  
+*Dies ist eine Internetseite der CoMakingSpace gemeinnützige GmbH.*  
 {: .center}
 
 
@@ -11,7 +11,7 @@
 *Angaben gemäß § 5 TMG:*  
 {: .center}
 
-*CoMakingSpace gGmbH*  
+*CoMakingSpace gemeinnützige GmbH*  
 {: .center}
 
 *Liselottestraße 5*  
