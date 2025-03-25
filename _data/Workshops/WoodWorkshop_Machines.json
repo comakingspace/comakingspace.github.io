@@ -102,6 +102,12 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Vertical_Bandsaws"
   },
   {
+    "Image": "https://wiki.comakingspace.de/File:Machine-default.png",
+    "Caption": "OpenBuilds BlackBox CNC",
+    "German": "CNC-Plattenfräse",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/CNC_Router"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:Parkside_PBMK_30_A1.jpg",
     "Caption": "Pyrography Burner",
     "German": "Brandmalkolben mit Wechselspitzen",
