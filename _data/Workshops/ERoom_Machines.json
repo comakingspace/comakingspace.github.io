@@ -1,73 +1,73 @@
 [
   {
     "Image": "https://wiki.comakingspace.de/File:BambuLabP1S_P7.jpeg",
-    "Caption": "3D Printer",
+    "Caption": "{\"fulltext\":\"3D Printers\",\"fullurl\":\"https://wiki.comakingspace.de/3D_Printers\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "3D-Drucker",
     "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Printers"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Water_chiller_CW4000.JPG",
-    "Caption": "Water Chiller",
+    "Caption": "{\"fulltext\":\"Water Chiller\",\"fullurl\":\"https://wiki.comakingspace.de/Water_Chiller\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Wasserkühlung",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Water_Chiller"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:EleksMill.jpg",
-    "Caption": "CNC Router",
+    "Caption": "{\"fulltext\":\"CNC Router\",\"fullurl\":\"https://wiki.comakingspace.de/CNC_Router\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "CNC-Fräse",
     "MachineTypeUrl": "https://wiki.comakingspace.de/CNC_Router"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:3D_Scanner_open.JPG",
-    "Caption": "3D Scanner",
+    "Caption": "{\"fulltext\":\"3D Scanners\",\"fullurl\":\"https://wiki.comakingspace.de/3D_Scanners\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "3D-Scanner",
     "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Scanners"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:HBM_AS188.jpeg",
-    "Caption": "Airbrush Compressor",
+    "Caption": "{\"fulltext\":\"Airbrush Compressor\",\"fullurl\":\"https://wiki.comakingspace.de/Airbrush_Compressor\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Airbrush-Kompressor",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Airbrush_Compressor"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:KSGER_T12_soldering_station.jpeg",
-    "Caption": "Soldering Iron",
+    "Caption": "{\"fulltext\":\"Soldering Irons\",\"fullurl\":\"https://wiki.comakingspace.de/Soldering_Irons\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Lötkolben",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Soldering_Irons"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Laserscript_LS6090.JPG",
-    "Caption": "Laser Cutter",
+    "Caption": "{\"fulltext\":\"Laser Cutter\",\"fullurl\":\"https://wiki.comakingspace.de/Laser_Cutter\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Laserschneider",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Laser_Cutter"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Memmert_UM_400-1.jpg",
-    "Caption": "Drying Oven",
+    "Caption": "{\"fulltext\":\"Drying Ovens\",\"fullurl\":\"https://wiki.comakingspace.de/Drying_Ovens\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Trockenöfen",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Drying_Ovens"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:RND_320-KD3005D.JPG",
-    "Caption": "Lab Power Supply",
+    "Caption": "{\"fulltext\":\"Lab Power Supplies\",\"fullurl\":\"https://wiki.comakingspace.de/Lab_Power_Supplies\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Labornetzteil",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Lab_Power_Supplies"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Rigol_DS1022CD.JPG",
-    "Caption": "Oscilloscope",
+    "Caption": "{\"fulltext\":\"Oscilloscope\",\"fullurl\":\"https://wiki.comakingspace.de/Oscilloscope\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Oszilloskop",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Oscilloscope"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Voltcraft_FG-506.JPG",
-    "Caption": "Function Generator",
+    "Caption": "{\"fulltext\":\"Function Generator\",\"fullurl\":\"https://wiki.comakingspace.de/Function_Generator\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Funktionsgenerator",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Function_Generator"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Hot_air_station.jpg",
-    "Caption": "Hot Air Soldering Station",
+    "Caption": "{\"fulltext\":\"Hot Air Soldering Station\",\"fullurl\":\"https://wiki.comakingspace.de/Hot_Air_Soldering_Station\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Heißluftlötstation",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Hot_Air_Soldering_Station"
   }
