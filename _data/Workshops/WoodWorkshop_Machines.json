@@ -1,7 +1,7 @@
 [
   {
     "Image": "https://wiki.comakingspace.de/File:Altendorf_F45.jpeg",
-    "Caption": "{\"fulltext\":\"Altendorf F 45\",\"fullurl\":\"https://wiki.comakingspace.de/Altendorf_F_45\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
+    "Caption": "{\"fulltext\":\"Sliding Table Saw\",\"fullurl\":\"https://wiki.comakingspace.de/Sliding_Table_Saw\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Formatkreissäge",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Sliding_Table_Saw"
   },
@@ -55,7 +55,7 @@
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Festool_CTM26_E_AC.jpg",
-    "Caption": "{\"fulltext\":\"Shop Vacs\",\"fullurl\":\"https://wiki.comakingspace.de/Shop_Vacs\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
+    "Caption": "{\"fulltext\":\"Dust Extractors\",\"fullurl\":\"https://wiki.comakingspace.de/Dust_Extractors\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Staubsauger",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Dust_Extractors"
   },
@@ -103,7 +103,7 @@
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Machine-default.png",
-    "Caption": "{\"fulltext\":\"OpenBuilds BlackBox CNC\",\"fullurl\":\"https://wiki.comakingspace.de/OpenBuilds_BlackBox_CNC\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
+    "Caption": "{\"fulltext\":\"CNC Router\",\"fullurl\":\"https://wiki.comakingspace.de/CNC_Router\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "CNC-Plattenfräse",
     "MachineTypeUrl": "https://wiki.comakingspace.de/CNC_Router"
   },
@@ -160,11 +160,5 @@
     "Caption": "{\"fulltext\":\"Biscuit Joiner\",\"fullurl\":\"https://wiki.comakingspace.de/Biscuit_Joiner\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Flachdübelfräse",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Biscuit_Joiner"
-  },
-  {
-    "Image": "https://wiki.comakingspace.de/File:Ooznest_WorkBee_CNC.JPG",
-    "Caption": "{\"fulltext\":\"CNC Router\",\"fullurl\":\"https://wiki.comakingspace.de/CNC_Router\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
-    "German": "CNC-Plattenfräse",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/CNC_Router"
   }
 ]
