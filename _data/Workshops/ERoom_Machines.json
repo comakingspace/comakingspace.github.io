@@ -30,6 +30,12 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Airbrush_Compressor"
   },
   {
+    "Image": "https://wiki.comakingspace.de/File:Machine-default.png",
+    "Caption": "{\"fulltext\":\"Lab Power Supplies\",\"fullurl\":\"https://wiki.comakingspace.de/Lab_Power_Supplies\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
+    "German": "Labornetzteil",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Lab_Power_Supplies"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:KSGER_T12_soldering_station.jpeg",
     "Caption": "{\"fulltext\":\"Soldering Irons\",\"fullurl\":\"https://wiki.comakingspace.de/Soldering_Irons\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Lötkolben",
@@ -46,12 +52,6 @@
     "Caption": "{\"fulltext\":\"Drying Ovens\",\"fullurl\":\"https://wiki.comakingspace.de/Drying_Ovens\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Trockenöfen",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Drying_Ovens"
-  },
-  {
-    "Image": "https://wiki.comakingspace.de/File:RND_320-KD3005D.JPG",
-    "Caption": "{\"fulltext\":\"Lab Power Supplies\",\"fullurl\":\"https://wiki.comakingspace.de/Lab_Power_Supplies\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
-    "German": "Labornetzteil",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Lab_Power_Supplies"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Rigol_DS1022CD.JPG",
