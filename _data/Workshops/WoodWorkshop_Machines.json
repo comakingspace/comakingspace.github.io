@@ -157,8 +157,8 @@
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Biscuit_Joiner.jpg",
-    "Caption": "{\"fulltext\":\"Joinery Machines\",\"fullurl\":\"https://wiki.comakingspace.de/Joinery_Machines\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
+    "Caption": "{\"fulltext\":\"Category:Joinery Machines\",\"fullurl\":\"https://wiki.comakingspace.de/Category:Joinery_Machines\",\"namespace\":14,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Flachdübelfräse",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Joinery_Machines"
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Category:Joinery_Machines"
   }
 ]
