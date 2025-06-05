@@ -66,6 +66,12 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Delta_Sander"
   },
   {
+    "Image": "https://wiki.comakingspace.de/File:Domino-Fraese.jpeg",
+    "Caption": "{\"fulltext\":\"Loose Tenon Joiner\",\"fullurl\":\"https://wiki.comakingspace.de/Loose_Tenon_Joiner\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
+    "German": "Domino-Fräse",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Loose_Tenon_Joiner"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:Festool_TS_75_EBQ.jpg",
     "Caption": "{\"fulltext\":\"Handheld Circular Saws\",\"fullurl\":\"https://wiki.comakingspace.de/Handheld_Circular_Saws\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Tauchsäge",
