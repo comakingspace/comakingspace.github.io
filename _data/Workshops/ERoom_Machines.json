@@ -24,6 +24,12 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/3D_Scanners"
   },
   {
+    "Image": "https://wiki.comakingspace.de/File:Multimeter.jpg",
+    "Caption": "{\"fulltext\":\"Multimeters\",\"fullurl\":\"https://wiki.comakingspace.de/Multimeters\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
+    "German": "Multimeter",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Multimeters"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:HBM_AS188.jpeg",
     "Caption": "{\"fulltext\":\"Airbrush Compressor\",\"fullurl\":\"https://wiki.comakingspace.de/Airbrush_Compressor\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Airbrush-Kompressor",
