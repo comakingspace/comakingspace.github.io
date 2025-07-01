@@ -6,6 +6,14 @@
     en: Base membership with full access during all supervised opening times.
   price: 25 €
   image: /assets/images/general-tools.png
+  - name: 
+    de: Familienmitgliedschaft
+    en: Family Membership
+  desc: 
+    de: Führe deine Kinder an das Making heran (separates Formular)!
+    en: Introduce your kids to Making (separate application form)!
+  price: + 5 €
+  image: /assets/images/family.png
 - name: 
     de: Spind
     en: Storage
