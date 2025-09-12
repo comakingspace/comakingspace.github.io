@@ -12,6 +12,12 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Rotary_Tool"
   },
   {
+    "Image": "https://wiki.comakingspace.de/File:Schutzgas-Schweissger%C3%A4t_BT-GW_150.jpg",
+    "Caption": "{\"fulltext\":\"Welding Transformer\",\"fullurl\":\"https://wiki.comakingspace.de/Welding_Transformer\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
+    "German": "Schutzgasschweißgerät",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Welding_Transformer"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:Herkules_HMB_4000_Horizontal_Bandsaw.jpg",
     "Caption": "{\"fulltext\":\"Horizontal Bandsaw\",\"fullurl\":\"https://wiki.comakingspace.de/Horizontal_Bandsaw\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Horizontale Bandsäge",
@@ -64,11 +70,5 @@
     "Caption": "{\"fulltext\":\"Heat Gun\",\"fullurl\":\"https://wiki.comakingspace.de/Heat_Gun\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Heißluftpistole",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Heat_Gun"
-  },
-  {
-    "Image": "https://wiki.comakingspace.de/File:Welding_transformer.JPG",
-    "Caption": "{\"fulltext\":\"Welding Transformer\",\"fullurl\":\"https://wiki.comakingspace.de/Welding_Transformer\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
-    "German": "Elektrodenschweißgerät",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Welding_Transformer"
   }
 ]
