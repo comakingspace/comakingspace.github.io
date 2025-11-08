@@ -55,9 +55,9 @@
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Festool_CTM26_E_AC.jpg",
-    "Caption": "{\"fulltext\":\"Dust Extractors\",\"fullurl\":\"https://wiki.comakingspace.de/Dust_Extractors\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
+    "Caption": "{\"fulltext\":\"Shop Vacs\",\"fullurl\":\"https://wiki.comakingspace.de/Shop_Vacs\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Staubsauger",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Dust_Extractors"
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Shop_Vacs"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Festool_DTS_400_REQ.jpeg",
@@ -148,6 +148,12 @@
     "Caption": "{\"fulltext\":\"Flatiron\",\"fullurl\":\"https://wiki.comakingspace.de/Flatiron\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Bügeleisen",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Flatiron"
+  },
+  {
+    "Image": "https://wiki.comakingspace.de/File:ShopVac_Super_K11-SQ14.JPG",
+    "Caption": "{\"fulltext\":\"Dust Extractors\",\"fullurl\":\"https://wiki.comakingspace.de/Dust_Extractors\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
+    "German": "Staubsauger",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Dust_Extractors"
   },
   {
     "Image": "https://wiki.comakingspace.de/File:Machine-default.png",
