@@ -150,12 +150,6 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Flatiron"
   },
   {
-    "Image": "https://wiki.comakingspace.de/File:ShopVac_Super_K11-SQ14.JPG",
-    "Caption": "{\"fulltext\":\"Dust Extractors\",\"fullurl\":\"https://wiki.comakingspace.de/Dust_Extractors\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
-    "German": "Staubsauger",
-    "MachineTypeUrl": "https://wiki.comakingspace.de/Dust_Extractors"
-  },
-  {
     "Image": "https://wiki.comakingspace.de/File:Machine-default.png",
     "Caption": "{\"fulltext\":\"Hot Glue Gun\",\"fullurl\":\"https://wiki.comakingspace.de/Hot_Glue_Gun\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Heißklebepistole",
