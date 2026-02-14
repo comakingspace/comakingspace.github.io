@@ -60,6 +60,12 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Drying_Ovens"
   },
   {
+    "Image": "https://wiki.comakingspace.de/File:Rigol_DS1022CD.JPG",
+    "Caption": "{\"fulltext\":\"Oscilloscope\",\"fullurl\":\"https://wiki.comakingspace.de/Oscilloscope\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
+    "German": "Oszilloskop",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Oscilloscope"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:Voltcraft_8202.JPG",
     "Caption": "{\"fulltext\":\"Function Generator\",\"fullurl\":\"https://wiki.comakingspace.de/Function_Generator\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Funktionsgenerator",
