@@ -21,6 +21,10 @@ Mit dem Bus nimmst du die Linie 34 bis zur Hans-Bunte-Straße. Die Hans-Bunte-St
 Der Eingang zum Space ist nach der Einfahrt etwa nach 60 Meter auf der linken Seite.
 Den CoMakingSpace kannst du an den "CoMakingSpace" Schilder identifizieren!
 
+# Häufig gestellte Fragen
+
+{% include faq.html %}
+
 # So kannst du uns kontaktieren
 
 Am besten ist es, wenn du während unserer [Öffnungszeiten](/kalender) einfach vorbei kommst!

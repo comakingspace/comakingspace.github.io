@@ -1,0 +1,11 @@
+services:
+  dev:
+    build:
+      context: ..
+      dockerfile: .devcontainer/Dockerfile
+    ports:
+      - "4000:4000"
+    volumes:
+      - ..:/workspace
+    working_dir: /workspace
+    command: sleep infinity

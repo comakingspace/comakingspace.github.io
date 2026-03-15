@@ -1,0 +1,16 @@
+{
+  "name": "Jekyll Website CoMakingSpace",
+  "dockerComposeFile": "docker-compose.yaml",
+  "service": "dev",
+  "overrideCommand": false,
+  "forwardPorts": [4000],
+  "workspaceFolder": "/workspace",
+  "remoteUser": "ruby",
+  "postCreateCommand": "bundle install && bundle add webrick",
+  "portsAttributes": {
+    "4000": {
+      "label": "Jekyll Dev",
+      "onAutoForward": "openBrowser"
+    }
+  }
+}
