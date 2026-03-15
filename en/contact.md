@@ -22,6 +22,10 @@ Take Bus 34 to Hans-Bunte Straße. Enter Hans-Bunte Straße and walk towards Sie
 
 You can identify our part of the hall by the "CoMakingSpace" signs!
 
+# Frequently Asked Questions
+
+{% include faq.html %}
+
 # Contact us
 
 The best way is to just step by during our [Opening Hous](/calendar)!

@@ -1,0 +1,10 @@
+{% for item in site.data.faq %}
+  {% assign q = item.question[page.lang] %}
+  {% assign a = item.answer[page.lang] %}
+  {% if q and a %}
+  <details>
+    <summary><h2>{{ q }}</h2></summary>
+    <p>{{ a }}</p>
+  </details>
+  {% endif %}
+{% endfor %}
