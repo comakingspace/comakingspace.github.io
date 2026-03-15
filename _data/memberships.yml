@@ -5,7 +5,7 @@
     de: Günstige Einstiegsmöglichkeit mit Zugang während aller beaufsichtigten Öffnungszeiten.
     en: Base membership with full access during all supervised opening times.
   price: 25 €
-  image: /assets/images/general-tools.png
+  image: /assets/images/general-tools.webp
 - name: 
     de: Familienmitgliedschaft
     en: Family Membership
@@ -13,7 +13,7 @@
     de: Führe deine Kinder an das Making heran (separates Formular)!
     en: Introduce your kids to Making (separate application form)!
   price: + 5 €
-  image: /assets/images/family.png
+  image: /assets/images/family.webp
 - name: 
     de: Spind
     en: Storage
@@ -21,7 +21,7 @@
     de: Lass deine Materialien und Projekte bei uns, wo du am besten daran arbeiten kannst!
     en: Keep your materials and projects on site, where you can work on them conveniently!
   price: + 25 €
-  image: /assets/images/locker.png
+  image: /assets/images/locker.webp
 - name: 
     de: 24/7-Zugang
     en: 24/7 Access
@@ -29,7 +29,7 @@
     de: Du bekommst deinen eigenen Schlüssel für 24/7-Zugang!
     en: You get your very own key for complete 24/7 access!
   price: + 50 €
-  image: /assets/images/key.png
+  image: /assets/images/key.webp
 - name: 
     de: Fahrzeug-Werkplatz
     en: Vehicle Workspace
@@ -37,7 +37,7 @@
     de: Zum Beispiel für DIY-Wohnmobile!
     en: e.g. for a camper van conversion!
   price: + 100 €
-  image: /assets/images/camper icon.png
+  image: /assets/images/camper icon.webp
 - name: 
   desc: 
     de: Alle Preise beziehen sich auf den monatlichen Beitrag für dreimonatige Mitgliedschaften. <br/>Weitere Optionen findest du auf unserem <a href="https://cloud.comaking.space/s/Mitgliedsantrag">Mitgliedsantrag</a>.

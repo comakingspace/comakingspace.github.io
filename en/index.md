@@ -6,13 +6,13 @@ ref: home
 permalink: /home/
 redirect_from:
   - /startseite/home.html
-image: /assets/images/banner.png
+image: /assets/images/banner.webp
 ---
  
 # COME AND JOIN THE GROWING MAKER MOVEMENT
 {: .center}
 
-![Banner](/assets/images/banner.png "Banner"){: .img-center}
+![Banner](/assets/images/banner.webp "Banner"){: .img-center}
 
 The basement is too small or you would disturb the neighbors? Renting a garage is too expensive? Let's share our workshop and split the cost!
 The CoMakingSpace is an open workshop for Makers from all backgrounds. We aim to provide everyone with the tools, space and skills to make whatever they come up with.

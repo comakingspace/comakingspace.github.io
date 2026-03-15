@@ -3,7 +3,7 @@ layout: post
 title: "Neue Werkstatt-Elektrik"
 date: 2023-07-27
 author: Stefan
-image: /assets/images/posts/2023-07-27_elektrik.jpeg
+image: /assets/images/posts/2023-07-27_elektrik.webp
 summary: Alles neu macht der ... Juli!
 lang: de
 ---
@@ -19,4 +19,4 @@ Es hat eine Weile gedauert, aber nun ist die neue Elektro-Installation in unsere
 Vielen Dank an alle, die hier mitgeholfen haben (egal ob durch Spenden, tatkräftige Unterstützung vor Ort, Kontakte oder durch Planung)!
 
 
-![Schaltschrank](/assets/images/posts/2023-07-27_elektrik.jpeg)
+![Schaltschrank](/assets/images/posts/2023-07-27_elektrik.webp)
