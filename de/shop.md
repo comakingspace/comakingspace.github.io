@@ -14,7 +14,7 @@ sitemap:
 {: .center}
 Es gibt jetzt auch die Möglichkeit, uns mit dem Kauf eines schicken T-Shirts zu unterstützen! Für nur **20&nbsp;€** bekommt ihr ein fair produziertes T-Shirt aus Bio-Baumwolle (Fair Wear Foundation) in einer der folgenden Farben:
 
-![T-Shirt](/assets/images/tshirts.png){: .img-center}
+![T-Shirt](/assets/images/tshirts.webp){: .img-center}
 
 
 Von XS bis 5XL sollte für alle die richtige Größe dabei sein! Die Shirts fallen "normal" aus (genaues s. [Datenblatt des Herstellers](https://www.stanleystella.com/de-de/product/attachment?productId=STTU758&attachmentName=Product+Sheet.pdf)), für schlanke Leute liegt die Grenze zwischen M und L unserer Erfahrung nach bei ca. 1,90 m Körpergröße.

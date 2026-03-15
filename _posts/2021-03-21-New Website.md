@@ -3,7 +3,7 @@ layout: post
 title: "New Website!"
 date: 2021-04-08
 author: Martin
-image: /assets/images/posts/2021-03-21_CoMS_Website.png
+image: /assets/images/posts/2021-03-21_CoMS_Website.webp
 summary: Our new website went live! Check out the details of the development.
 ---
 

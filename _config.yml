@@ -37,8 +37,8 @@ description:
     Auch mit einem FabLab oder Hackerspace gibt es viele Parallelen - kurz: dein Raum zum Selbermachen!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.comakingspace.org" # the base hostname & protocol for your site, e.g. http://example.com
-logo: "/assets/images/CoMakingSpaceLogo.png"
-title_image: "/assets/images/banner.png"
+logo: "/assets/images/CoMakingSpaceLogo.webp"
+title_image: "/assets/images/banner.webp"
 twitter:
   username: comakingspace
   card: summary

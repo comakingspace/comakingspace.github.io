@@ -3,7 +3,7 @@ layout: post
 title: "Project Introduction: Mechanical Keyboard"
 date: 2021-10-15 
 author: Kalun
-image: /assets/images/posts/2021-10-15_Mechanical_Keyboard_1.jpg
+image: /assets/images/posts/2021-10-15_Mechanical_Keyboard_1.webp
 summary: Kalun designed this custom mechanical keyboard case including the keycaps which we want to show you.
 lang: en
 ---
@@ -22,4 +22,4 @@ A full tutorial is available on my [YouTube](https://www.youtube.com/c/KalunHo) 
 
 # Impressions
 
-| ![Mechanical Keyboard 2](/assets/images/posts/2021-10-15_Mechanical_Keyboard_2.jpg) | ![Mechanical Keyboard 3](/assets/images/posts/2021-10-15_Mechanical_Keyboard_3.jpg) | ![Mechanical Keyboard 4](/assets/images/posts/2021-10-15_Mechanical_Keyboard_4.jpg) | ![Mechanical Keyboard 5](/assets/images/posts/2021-10-15_Mechanical_Keyboard_5.jpg) |
+| ![Mechanical Keyboard 2](/assets/images/posts/2021-10-15_Mechanical_Keyboard_2.webp) | ![Mechanical Keyboard 3](/assets/images/posts/2021-10-15_Mechanical_Keyboard_3.webp) | ![Mechanical Keyboard 4](/assets/images/posts/2021-10-15_Mechanical_Keyboard_4.webp) | ![Mechanical Keyboard 5](/assets/images/posts/2021-10-15_Mechanical_Keyboard_5.webp) |
