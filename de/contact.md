@@ -18,8 +18,8 @@ Nimm die S3 bis Heidelberg Pfaffengrund/Wieblingen. Auf der Brücke gehst du Ric
 #### Mit dem Bus
 Mit dem Bus nimmst du die Linie 34 bis zur Hans-Bunte-Straße. Die Hans-Bunte-Straße gehst du entlang bis zur Siemensstraße. Dort biegst du links ab und läufst bis zur Hausnummer 40. Dort wieder rechts in die Einfahrt und schon bist du auf dem Gelände.
 
-Der Eingang zum Space ist nach der Einfahrt etwa nach 60 Meter auf der linken Seite.
-Den CoMakingSpace kannst du an den "CoMakingSpace" Schilder identifizieren!
+Der Eingang zum Space ist nach der Einfahrt etwa nach 60 Metern auf der linken Seite.
+Folge einfach den "CoMakingSpace"-Schildern!
 
 # Häufig gestellte Fragen
 
