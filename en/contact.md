@@ -20,7 +20,7 @@ Take S3 to Heidelberg Pfaffengrund/Wieblingen. On the bridge, walk towards Pfaff
 #### By Bus: 
 Take Bus 34 to Hans-Bunte Straße. Enter Hans-Bunte Straße and walk towards Siemensstraße. Take a left at Siemensstraße and get to number 40. Take a right and enter the area.
 
-You can identify our part of the hall by the "CoMakingSpace" signs!
+You will find our door (south side of the building) after about 60 meters. Just follow the "CoMakingSpace" signs!
 
 # Frequently Asked Questions
 
@@ -28,7 +28,7 @@ You can identify our part of the hall by the "CoMakingSpace" signs!
 
 # Contact us
 
-The best way is to just step by during our [Opening Hous](/calendar)!
+The best way is to just step by during our [Opening Hours](/calendar)!
 
 Alternatively, just send us an [e-mail](mailto:info@comaking.space) or fill out our contact form:
 
