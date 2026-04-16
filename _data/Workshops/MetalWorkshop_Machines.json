@@ -70,5 +70,11 @@
     "Caption": "{\"fulltext\":\"Heat Gun\",\"fullurl\":\"https://wiki.comakingspace.de/Heat_Gun\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Heißluftpistole",
     "MachineTypeUrl": "https://wiki.comakingspace.de/Heat_Gun"
+  },
+  {
+    "Image": "https://wiki.comakingspace.de/File:Spindle_Sander.jpg",
+    "Caption": "{\"fulltext\":\"Belt and Spindle Sander\",\"fullurl\":\"https://wiki.comakingspace.de/Belt_and_Spindle_Sander\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
+    "German": "Spindel- und Bandschleifer",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Belt_and_Spindle_Sander"
   }
 ]
