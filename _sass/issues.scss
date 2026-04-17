@@ -1,0 +1,121 @@
+.tv-body {
+  margin: 0;
+  padding: 0;
+  background: #0d1117;
+  color: #e6edf3;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  overflow-x: hidden;
+}
+
+.tv-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background: #161b22;
+  border-bottom: 2px solid #30363d;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.tv-logo {
+  height: 2.5rem;
+  width: auto;
+}
+
+.tv-title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.tv-clock {
+  font-size: 1.5rem;
+  font-variant-numeric: tabular-nums;
+  color: #8b949e;
+}
+
+.tv-loading {
+  padding: 3rem 2rem;
+  color: #8b949e;
+  font-size: 1.5rem;
+}
+
+.issues-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.issues-table thead th {
+  background: #161b22;
+  padding: 0.75rem 1.25rem;
+  text-align: left;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #8b949e;
+  font-weight: 600;
+  border-bottom: 2px solid #30363d;
+}
+
+.issues-table tbody tr:nth-child(odd) {
+  background: #0d1117;
+}
+
+.issues-table tbody tr:nth-child(even) {
+  background: #111820;
+}
+
+.issues-table td {
+  padding: 1.1rem 1.25rem;
+  vertical-align: top;
+  border-bottom: 1px solid #21262d;
+}
+
+.issue-num {
+  color: #8b949e;
+  font-size: 0.95rem;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.issue-title-main {
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: #e6edf3;
+  line-height: 1.3;
+  margin-bottom: 0.3rem;
+}
+
+.issue-body-preview {
+  font-size: 0.95rem;
+  color: #8b949e;
+  line-height: 1.4;
+}
+
+.issue-labels {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.issue-label {
+  display: inline-block;
+  padding: 0.2rem 0.65rem;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  line-height: 1.4;
+  white-space: nowrap;
+}
+
+.issue-qr img {
+  display: block;
+  border-radius: 6px;
+  background: #fff;
+  padding: 4px;
+}
