@@ -36,6 +36,12 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Belt_and_Disc_Sander"
   },
   {
+    "Image": "https://wiki.comakingspace.de/File:Kress_CNC.jpg",
+    "Caption": "{\"fulltext\":\"CNC Mill\",\"fullurl\":\"https://wiki.comakingspace.de/CNC_Mill\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
+    "German": "CNC-Portalfräse",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/CNC_Mill"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:Makita_9565_HRZ.jpg",
     "Caption": "{\"fulltext\":\"Corded Disc Grinder\",\"fullurl\":\"https://wiki.comakingspace.de/Corded_Disc_Grinder\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Winkelschleifer",
