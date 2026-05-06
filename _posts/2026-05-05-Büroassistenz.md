@@ -3,7 +3,7 @@ layout: post
 title: "Unterstützung gesucht!"
 date: 2026-05-06 
 author: Lukas
-image: 2026-05-06_Büroassistenz.webp
+image: /assets/images/posts/2026-05-06_Büroassistenz.webp
 summary: Die CoMakingSpace gemeinnützige GmbH sucht zum nächstmöglichen Zeitpunkt eine Büroassistenz (w/m/d)
 lang: de
 ---
