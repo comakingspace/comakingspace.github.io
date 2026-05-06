@@ -9,7 +9,7 @@ lang: de
 ---
 Die CoMakingSpace gemeinnützige GmbH sucht zum nächstmöglichen Zeitpunkt eine
 ## Büroassistenz (w/m/d) ##
-Minijob | 8 Stunden/Woche | flexible Zeiteinteilung | auch als Wiedereinstieg geeignet
+Minijob | 520 €/Monat | 8 h/Woche, flexibel einteilbar | auch als Wiedereinstieg geeignet
 
 **Über uns**<br>
 Der CoMakingSpace ist die offene Werkstatt („Makerspace“) in Heidelberg: seit über 8 Jahren der Ort, an dem sich interessierte Menschen unabhängig von ihrem Hintergrund an Holz-, Metall-, Elektronik- und digitalen Fertigungsprojekten ausprobieren können. Mittlerweile sind wir über 150 Mitglieder und kommen mit rein ehrenamtlichem Engagement bei den Büroaufgaben an unsere Grenzen.
