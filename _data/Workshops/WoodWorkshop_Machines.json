@@ -96,6 +96,12 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Cordless_Drills"
   },
   {
+    "Image": "https://wiki.comakingspace.de/File:Makita-DTD173.jpg",
+    "Caption": "{\"fulltext\":\"Cordless Impact Driver\",\"fullurl\":\"https://wiki.comakingspace.de/Cordless_Impact_Driver\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
+    "German": "Schlagschrauber",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Cordless_Impact_Driver"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:Metabo_BS_1638_W.jpg",
     "Caption": "{\"fulltext\":\"Vertical Bandsaws\",\"fullurl\":\"https://wiki.comakingspace.de/Vertical_Bandsaws\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "Bandsäge (Holz)",
