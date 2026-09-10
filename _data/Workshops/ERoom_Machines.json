@@ -12,6 +12,12 @@
     "MachineTypeUrl": "https://wiki.comakingspace.de/Water_Chiller"
   },
   {
+    "Image": "https://wiki.comakingspace.de/File:Epson_printer_comakingspace.jpg",
+    "Caption": "{\"fulltext\":\"Large Format Printer\",\"fullurl\":\"https://wiki.comakingspace.de/Large_Format_Printer\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
+    "German": "Großformat-Drucker (DIN A1)",
+    "MachineTypeUrl": "https://wiki.comakingspace.de/Large_Format_Printer"
+  },
+  {
     "Image": "https://wiki.comakingspace.de/File:EleksMill.jpg",
     "Caption": "{\"fulltext\":\"CNC Router\",\"fullurl\":\"https://wiki.comakingspace.de/CNC_Router\",\"namespace\":0,\"exists\":\"1\",\"displaytitle\":\"\"}",
     "German": "CNC-Fräse",
