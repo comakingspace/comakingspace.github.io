@@ -3,7 +3,7 @@ layout: tv
 title: Aufgaben
 lang: de
 ref: do_something
-permalink: /aufgaben_normal/
+permalink: /aufgaben/
 ---
 
 <div class="tv-header">

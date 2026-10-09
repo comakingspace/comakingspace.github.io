@@ -2,7 +2,7 @@
 layout: tv
 title: Maus-Türöffner-Tag – Vorbereitung
 lang: de
-permalink: /aufgaben/
+permalink: /aufgaben_maus/
 ---
 
 <style>
